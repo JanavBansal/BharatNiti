@@ -44,22 +44,23 @@ const FEATURES = [
 
 export default function Home() {
   return (
-    <main className="max-w-4xl mx-auto px-6 py-16">
+    <main className="max-w-4xl mx-auto px-4 sm:px-6 py-12 sm:py-16">
       {/* Hero */}
-      <div className="text-center mb-12">
-        <h1 className="text-4xl font-bold mb-4">
-          Indian Tax Law, <span className="text-[var(--primary)]">Answered</span>
+      <div className="text-center mb-10 animate-fade-in-up">
+        <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold tracking-tight mb-4">
+          Indian Tax Law,{" "}
+          <span className="gradient-text">Answered</span>
         </h1>
-        <p className="text-lg text-[var(--muted-foreground)] max-w-2xl mx-auto">
+        <p className="text-base sm:text-lg text-[var(--muted-foreground)] max-w-2xl mx-auto">
           Ask questions about the Income Tax Act, GST, TDS rates, and more. Get
           cited answers grounded in actual legislation.
         </p>
       </div>
 
       {/* Search Bar */}
-      <div className="mb-12">
+      <div className="mb-12 animate-fade-in-up" style={{ animationDelay: "100ms" }}>
         <a href="/chat">
-          <div className="flex items-center gap-3 border border-[var(--border)] rounded-xl px-5 py-4 hover:border-[var(--primary)] transition-colors cursor-pointer bg-[var(--card)]">
+          <div className="flex items-center gap-3 border border-[var(--border)] rounded-xl px-5 py-4 hover:border-[var(--primary)] hover:shadow-[0_0_0_3px_var(--ring)] transition-all duration-200 cursor-pointer bg-[var(--card)]">
             <Search className="w-5 h-5 text-[var(--muted-foreground)]" />
             <span className="text-[var(--muted-foreground)]">
               Ask a tax law question...
@@ -70,7 +71,7 @@ export default function Home() {
 
       {/* Suggested Questions */}
       <div className="mb-16">
-        <h2 className="text-sm font-medium text-[var(--muted-foreground)] mb-3">
+        <h2 className="text-xs uppercase tracking-widest font-semibold text-[var(--muted-foreground)] mb-4">
           Popular Questions
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
@@ -78,7 +79,8 @@ export default function Home() {
             <a
               key={i}
               href={`/chat?q=${encodeURIComponent(q)}`}
-              className="text-sm px-4 py-3 rounded-lg border border-[var(--border)] hover:bg-[var(--accent)] hover:border-[var(--primary)] transition-colors bg-[var(--card)]"
+              className="text-sm px-4 py-3 rounded-lg border border-[var(--border)] hover:bg-[var(--accent)] hover:border-[var(--primary)] transition-all duration-200 bg-[var(--card)] animate-fade-in-up"
+              style={{ animationDelay: `${150 + i * 50}ms` }}
             >
               {q}
             </a>
@@ -87,13 +89,16 @@ export default function Home() {
       </div>
 
       {/* Features Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
         {FEATURES.map((feature, i) => (
           <div
             key={i}
-            className="p-5 rounded-xl border border-[var(--border)] bg-[var(--card)]"
+            className="p-5 rounded-xl border border-[var(--border)] bg-[var(--card)] hover:-translate-y-0.5 hover:shadow-md transition-all duration-200 animate-fade-in-up"
+            style={{ animationDelay: `${400 + i * 60}ms` }}
           >
-            <feature.icon className="w-8 h-8 text-[var(--primary)] mb-3" />
+            <div className="w-10 h-10 rounded-lg bg-[var(--accent)] flex items-center justify-center mb-3">
+              <feature.icon className="w-5 h-5 text-[var(--primary)]" />
+            </div>
             <h3 className="font-semibold mb-1">{feature.title}</h3>
             <p className="text-sm text-[var(--muted-foreground)]">
               {feature.description}

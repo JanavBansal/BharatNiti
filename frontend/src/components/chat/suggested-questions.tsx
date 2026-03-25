@@ -11,7 +11,7 @@ const CATEGORIES: QuestionCategory[] = [
   {
     icon: <Calculator className="w-4 h-4" />,
     label: "Tax Calculation",
-    color: "text-blue-600 bg-blue-50 border-blue-200",
+    color: "text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-950/50 border-blue-200 dark:border-blue-800",
     questions: [
       "How much tax do I pay on 15 lakh income?",
       "Calculate tax on 50 lakh salary",
@@ -21,7 +21,7 @@ const CATEGORIES: QuestionCategory[] = [
   {
     icon: <ArrowRightLeft className="w-4 h-4" />,
     label: "Compare Regimes",
-    color: "text-purple-600 bg-purple-50 border-purple-200",
+    color: "text-purple-600 dark:text-purple-400 bg-purple-50 dark:bg-purple-950/50 border-purple-200 dark:border-purple-800",
     questions: [
       "Old vs new regime for 20 lakh income",
       "Which tax regime is better for salaried employees?",
@@ -31,7 +31,7 @@ const CATEGORIES: QuestionCategory[] = [
   {
     icon: <FileText className="w-4 h-4" />,
     label: "Deductions & Exemptions",
-    color: "text-green-600 bg-green-50 border-green-200",
+    color: "text-green-600 dark:text-green-400 bg-green-50 dark:bg-green-950/50 border-green-200 dark:border-green-800",
     questions: [
       "What deductions can I claim under Section 80C?",
       "Can I claim HRA exemption under the new regime?",
@@ -41,7 +41,7 @@ const CATEGORIES: QuestionCategory[] = [
   {
     icon: <IndianRupee className="w-4 h-4" />,
     label: "TDS & GST Rates",
-    color: "text-orange-600 bg-orange-50 border-orange-200",
+    color: "text-orange-600 dark:text-orange-400 bg-orange-50 dark:bg-orange-950/50 border-orange-200 dark:border-orange-800",
     questions: [
       "TDS rate on rent payment above 50,000",
       "What is the GST rate for restaurant services?",
@@ -51,7 +51,7 @@ const CATEGORIES: QuestionCategory[] = [
   {
     icon: <Scale className="w-4 h-4" />,
     label: "Capital Gains",
-    color: "text-red-600 bg-red-50 border-red-200",
+    color: "text-red-600 dark:text-red-400 bg-red-50 dark:bg-red-950/50 border-red-200 dark:border-red-800",
     questions: [
       "How is LTCG on equity shares taxed?",
       "What is the indexation benefit for property sale?",
@@ -61,7 +61,7 @@ const CATEGORIES: QuestionCategory[] = [
   {
     icon: <HelpCircle className="w-4 h-4" />,
     label: "Filing & Compliance",
-    color: "text-teal-600 bg-teal-50 border-teal-200",
+    color: "text-teal-600 dark:text-teal-400 bg-teal-50 dark:bg-teal-950/50 border-teal-200 dark:border-teal-800",
     questions: [
       "What is the due date for filing ITR?",
       "Penalty for late filing of income tax return",
@@ -77,8 +77,7 @@ interface SuggestedQuestionsProps {
 export function SuggestedQuestions({ onSelect }: SuggestedQuestionsProps) {
   return (
     <div className="py-8 max-w-3xl mx-auto">
-      {/* Header */}
-      <div className="text-center mb-8">
+      <div className="text-center mb-8 animate-fade-in-up">
         <h2 className="text-2xl font-bold mb-2">
           Ask anything about Indian Tax Law
         </h2>
@@ -88,23 +87,24 @@ export function SuggestedQuestions({ onSelect }: SuggestedQuestionsProps) {
         </p>
       </div>
 
-      {/* Categories grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {CATEGORIES.map((cat) => (
-          <div key={cat.label} className="space-y-2">
-            {/* Category header */}
+        {CATEGORIES.map((cat, ci) => (
+          <div
+            key={cat.label}
+            className="space-y-2 animate-fade-in-up"
+            style={{ animationDelay: `${ci * 80}ms` }}
+          >
             <div className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium border ${cat.color}`}>
               {cat.icon}
               {cat.label}
             </div>
 
-            {/* Questions */}
             <div className="space-y-1.5">
               {cat.questions.map((q) => (
                 <button
                   key={q}
                   onClick={() => onSelect(q)}
-                  className="w-full text-left text-sm px-3 py-2.5 rounded-lg border border-[var(--border)] hover:bg-[var(--accent)] hover:border-[var(--ring)] transition-all duration-150 cursor-pointer leading-snug"
+                  className="w-full text-left text-sm px-3 py-2.5 rounded-lg border border-[var(--border)] hover:bg-[var(--accent)] hover:border-[var(--primary)] hover:translate-x-0.5 transition-all duration-150 cursor-pointer leading-snug"
                 >
                   {q}
                 </button>
@@ -114,9 +114,8 @@ export function SuggestedQuestions({ onSelect }: SuggestedQuestionsProps) {
         ))}
       </div>
 
-      {/* Bottom hint */}
       <p className="text-center text-xs text-[var(--muted-foreground)] mt-6">
-        💡 You can ask in any format — plain English, Hinglish, or even just a number like &quot;tax on 50 lakh&quot;
+        You can ask in any format — plain English, Hinglish, or just a number like &quot;tax on 50 lakh&quot;
       </p>
     </div>
   );

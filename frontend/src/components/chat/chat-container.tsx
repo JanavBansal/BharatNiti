@@ -1,10 +1,11 @@
 "use client";
 
-import { useRef, useEffect } from "react";
+import { useRef, useEffect, useCallback, useState } from "react";
 import { useChat } from "@/lib/hooks/use-chat";
 import { MessageBubble } from "./message-bubble";
 import { QuestionInput } from "./question-input";
 import { SuggestedQuestions } from "./suggested-questions";
+import { ChevronDown } from "lucide-react";
 
 interface ChatContainerProps {
   initialQuestion?: string;
@@ -13,19 +14,40 @@ interface ChatContainerProps {
 export function ChatContainer({ initialQuestion }: ChatContainerProps) {
   const { messages, isLoading, sendMessage } = useChat();
   const scrollRef = useRef<HTMLDivElement>(null);
+  const [isNearBottom, setIsNearBottom] = useState(true);
 
-  // Auto-scroll to bottom
+  const checkNearBottom = useCallback(() => {
+    const el = scrollRef.current;
+    if (!el) return;
+    const threshold = 120;
+    setIsNearBottom(el.scrollHeight - el.scrollTop - el.clientHeight < threshold);
+  }, []);
+
+  // Auto-scroll only when near bottom
   useEffect(() => {
+    if (isNearBottom) {
+      scrollRef.current?.scrollTo({
+        top: scrollRef.current.scrollHeight,
+        behavior: "smooth",
+      });
+    }
+  }, [messages, isNearBottom]);
+
+  const scrollToBottom = () => {
     scrollRef.current?.scrollTo({
       top: scrollRef.current.scrollHeight,
       behavior: "smooth",
     });
-  }, [messages]);
+  };
 
   return (
-    <div className="flex flex-col h-[calc(100vh-57px)]">
+    <div className="flex flex-col h-[calc(100vh-3.5rem)] relative">
       {/* Messages */}
-      <div ref={scrollRef} className="flex-1 overflow-y-auto px-6 py-4">
+      <div
+        ref={scrollRef}
+        onScroll={checkNearBottom}
+        className="flex-1 overflow-y-auto px-4 sm:px-6 py-4"
+      >
         <div className="max-w-3xl mx-auto space-y-6">
           {messages.length === 0 ? (
             <SuggestedQuestions onSelect={sendMessage} />
@@ -37,8 +59,19 @@ export function ChatContainer({ initialQuestion }: ChatContainerProps) {
         </div>
       </div>
 
+      {/* Scroll to bottom button */}
+      {!isNearBottom && messages.length > 0 && (
+        <button
+          onClick={scrollToBottom}
+          className="absolute bottom-24 right-6 w-10 h-10 rounded-full bg-[var(--card)] border border-[var(--border)] shadow-lg flex items-center justify-center hover:bg-[var(--muted)] transition-all animate-fade-in-up"
+          aria-label="Scroll to bottom"
+        >
+          <ChevronDown className="w-5 h-5 text-[var(--muted-foreground)]" />
+        </button>
+      )}
+
       {/* Input */}
-      <div className="border-t border-[var(--border)] p-4">
+      <div className="border-t border-[var(--border)] p-3 sm:p-4 bg-[var(--background)]">
         <div className="max-w-3xl mx-auto">
           <QuestionInput
             onSubmit={sendMessage}

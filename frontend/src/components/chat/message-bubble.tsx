@@ -15,14 +15,18 @@ export function MessageBubble({ message }: MessageBubbleProps) {
   const isUser = message.role === "user";
 
   return (
-    <div className={`flex gap-3 ${isUser ? "justify-end" : ""}`}>
+    <div
+      className={`flex gap-3 ${isUser ? "justify-end" : ""} ${
+        isUser ? "animate-fade-in-up" : "animate-slide-in-left"
+      }`}
+    >
       {!isUser && (
-        <div className="w-8 h-8 rounded-full bg-[var(--primary)] flex items-center justify-center flex-shrink-0 mt-1">
+        <div className="w-8 h-8 rounded-full bg-gradient-to-br from-[var(--gradient-start)] to-[var(--gradient-end)] flex items-center justify-center flex-shrink-0 mt-1">
           <Bot className="w-4 h-4 text-white" />
         </div>
       )}
 
-      <div className={`max-w-[85%] ${isUser ? "order-first" : ""}`}>
+      <div className={`max-w-[85%] sm:max-w-[80%] ${isUser ? "order-first" : ""}`}>
         <div
           className={`rounded-2xl px-5 py-4 ${
             isUser
@@ -37,7 +41,6 @@ export function MessageBubble({ message }: MessageBubbleProps) {
               <ReactMarkdown
                 remarkPlugins={[remarkGfm]}
                 components={{
-                  // Tables
                   table: ({ children }) => (
                     <div className="overflow-x-auto my-3 rounded-lg border border-[var(--border)] -mx-1">
                       <table className="w-full text-xs border-collapse whitespace-nowrap">
@@ -46,9 +49,7 @@ export function MessageBubble({ message }: MessageBubbleProps) {
                     </div>
                   ),
                   thead: ({ children }) => (
-                    <thead className="bg-[var(--accent)]">
-                      {children}
-                    </thead>
+                    <thead className="bg-[var(--accent)]">{children}</thead>
                   ),
                   th: ({ children }) => (
                     <th className="px-2 py-1.5 text-left text-xs font-semibold border-b border-[var(--border)]">
@@ -61,11 +62,10 @@ export function MessageBubble({ message }: MessageBubbleProps) {
                     </td>
                   ),
                   tr: ({ children }) => (
-                    <tr className="hover:bg-[var(--accent)]/50 transition-colors">
+                    <tr className="hover:bg-[var(--accent)] transition-colors">
                       {children}
                     </tr>
                   ),
-                  // Typography
                   p: ({ children }) => (
                     <p className="text-sm leading-relaxed mb-2 last:mb-0">{children}</p>
                   ),
@@ -78,7 +78,6 @@ export function MessageBubble({ message }: MessageBubbleProps) {
                   h3: ({ children }) => (
                     <h3 className="text-sm font-bold mt-3 mb-1">{children}</h3>
                   ),
-                  // Lists
                   ul: ({ children }) => (
                     <ul className="list-disc pl-4 space-y-1 my-2 text-sm">{children}</ul>
                   ),
@@ -88,11 +87,7 @@ export function MessageBubble({ message }: MessageBubbleProps) {
                   li: ({ children }) => (
                     <li className="text-sm leading-relaxed">{children}</li>
                   ),
-                  // Horizontal rule
-                  hr: () => (
-                    <hr className="my-3 border-[var(--border)]" />
-                  ),
-                  // Code (for section numbers etc.)
+                  hr: () => <hr className="my-3 border-[var(--border)]" />,
                   code: ({ children }) => (
                     <code className="bg-[var(--accent)] px-1.5 py-0.5 rounded text-xs font-mono">
                       {children}
@@ -105,11 +100,11 @@ export function MessageBubble({ message }: MessageBubbleProps) {
             </div>
           )}
           {message.isStreaming && (
-            <span className="inline-block w-2 h-4 bg-current animate-pulse ml-0.5" />
+            <span className="inline-block w-0.5 h-[1.1em] bg-[var(--primary)] animate-blink ml-0.5 align-text-bottom" />
           )}
         </div>
 
-        {/* Metadata row: confidence + assessment year */}
+        {/* Metadata row */}
         {!isUser && message.confidence && (
           <div className="flex items-center gap-2 mt-2">
             <ConfidenceBadge confidence={message.confidence} />

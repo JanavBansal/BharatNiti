@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+/* ── Design tokens ─────────────────────────────────── */
+
 :root {
   --background: #ffffff;
   --foreground: #0a0a0a;
@@ -15,6 +17,13 @@
   --card: #ffffff;
   --card-foreground: #0a0a0a;
   --radius: 0.5rem;
+
+  --ring: rgba(59, 130, 246, 0.5);
+  --gradient-start: #1a56db;
+  --gradient-end: #7c3aed;
+  --surface: rgba(255, 255, 255, 0.8);
+  --skeleton: #e5e5e5;
+  --skeleton-shine: #f5f5f5;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -29,11 +38,105 @@
     --accent: #172554;
     --card: #141414;
     --card-foreground: #ededed;
+
+    --ring: rgba(96, 165, 250, 0.5);
+    --gradient-start: #3b82f6;
+    --gradient-end: #a78bfa;
+    --surface: rgba(10, 10, 10, 0.85);
+    --skeleton: #262626;
+    --skeleton-shine: #333333;
   }
 }
+
+/* ── Base ───────────────────────────────────────────── */
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* ── Focus ──────────────────────────────────────────── */
+
+*:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+  border-radius: var(--radius);
+}
+
+/* ── Skip to content ────────────────────────────────── */
+
+.skip-to-content {
+  position: absolute;
+  top: -3rem;
+  left: 1rem;
+  z-index: 100;
+  padding: 0.5rem 1rem;
+  background: var(--primary);
+  color: var(--primary-foreground);
+  border-radius: var(--radius);
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: top 0.2s;
+}
+.skip-to-content:focus {
+  top: 0.5rem;
+}
+
+/* ── Keyframes ──────────────────────────────────────── */
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-8px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes shimmer {
+  from { background-position: -200% 0; }
+  to   { background-position: 200% 0; }
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0; }
+}
+
+/* ── Animation utilities ────────────────────────────── */
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.4s ease-out both;
+}
+
+.animate-slide-in-left {
+  animation: slideInLeft 0.35s ease-out both;
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, var(--skeleton) 25%, var(--skeleton-shine) 50%, var(--skeleton) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+}
+
+.animate-blink {
+  animation: blink 0.8s ease-in-out infinite;
+}
+
+/* ── Glass surface ──────────────────────────────────── */
+
+.glass {
+  background: var(--surface);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* ── Gradient text ──────────────────────────────────── */
+
+.gradient-text {
+  background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
