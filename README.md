@@ -1,4 +1,4 @@
-# caAI — Indian Tax Law Assistant
+# BharatNiti — Indian Tax Law Assistant
 
 RAG-based Q&A system for Indian tax law. Answers questions about the Income Tax Act, GST, TDS rates, and deductions with citations to specific sections, confidence scoring, and disclaimers.
 
@@ -27,7 +27,7 @@ Built for India's 80M+ GST taxpayers and 7Cr+ ITR filers who ask the same tax qu
 ## Project Structure
 
 ```
-caAI/
+BharatNiti/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py                 # FastAPI app
@@ -64,8 +64,8 @@ caAI/
 ### 1. Clone & configure
 
 ```bash
-git clone https://github.com/yourusername/caAI.git
-cd caAI
+git clone https://github.com/yourusername/BharatNiti.git
+cd BharatNiti
 cp backend/.env.example backend/.env
 # Edit backend/.env with your API keys
 ```

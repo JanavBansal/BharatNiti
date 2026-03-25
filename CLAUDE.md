@@ -1,4 +1,4 @@
-# caAI — Indian Tax Law RAG System
+# BharatNiti — Indian Tax Law RAG System
 
 ## Project Overview
 RAG-based Q&A system for Indian tax law (Income Tax Act, GST Act, TDS rates). Answers questions with citations to specific sections, confidence scoring, and disclaimers.

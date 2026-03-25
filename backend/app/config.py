@@ -2,7 +2,7 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    database_url: str = "postgresql+asyncpg://caai:caai_dev@localhost:5432/caai"
+    database_url: str = "postgresql+asyncpg://bharatniti:bharatniti_dev@localhost:5432/bharatniti"
     anthropic_api_key: str = ""
     openai_api_key: str = ""
 

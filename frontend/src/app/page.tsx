@@ -104,7 +104,7 @@ export default function Home() {
 
       {/* Disclaimer */}
       <div className="mt-16 text-center text-xs text-[var(--muted-foreground)] border-t border-[var(--border)] pt-6">
-        caAI is a tax law research tool, not a substitute for professional tax
+        BharatNiti is a tax law research tool, not a substitute for professional tax
         advice. Always consult a Chartered Accountant for financial decisions.
       </div>
     </main>

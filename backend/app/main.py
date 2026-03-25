@@ -22,7 +22,7 @@ structlog.configure(
     wrapper_class=structlog.make_filtering_bound_logger(_LOG_LEVELS.get(settings.log_level.upper(), logging.DEBUG)),
 )
 
-app = FastAPI(title="caAI", description="Indian Tax Law RAG System", version="0.1.0")
+app = FastAPI(title="BharatNiti", description="Indian Tax Law RAG System", version="0.1.0")
 
 app.state.limiter = limiter
 app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)

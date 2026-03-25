@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "caAI — Indian Tax Law Assistant",
+  title: "BharatNiti — Indian Tax Law Assistant",
   description:
     "AI-powered research assistant for Indian tax law. Get cited answers from the Income Tax Act, GST Act, and more.",
 };
@@ -17,7 +17,7 @@ export default function RootLayout({
       <body className="min-h-screen antialiased">
         <nav className="border-b border-[var(--border)] px-6 py-3 flex items-center justify-between">
           <a href="/" className="text-xl font-bold text-[var(--primary)]">
-            caAI
+            BharatNiti
           </a>
           <div className="flex gap-4 text-sm">
             <a

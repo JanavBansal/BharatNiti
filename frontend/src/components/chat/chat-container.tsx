@@ -46,7 +46,7 @@ export function ChatContainer({ initialQuestion }: ChatContainerProps) {
             initialQuestion={initialQuestion}
           />
           <p className="text-xs text-[var(--muted-foreground)] mt-2 text-center">
-            caAI is a research tool, not a CA. Always verify with a professional.
+            BharatNiti is a research tool, not a CA. Always verify with a professional.
           </p>
         </div>
       </div>
