@@ -1,0 +1,167 @@
+SUPPLEMENTARY KNOWLEDGE: KEY TAX CHANGES — BUDGET 2024 AND BUDGET 2025
+Assessment Year 2025-26 and AY 2026-27
+
+## Section 1: Overview of Recent Budget Changes
+
+This document covers key income tax and related changes from:
+- Union Budget 2024 (Interim Budget: February 2024 and Full Budget: July 2024) — effective from AY 2025-26 (FY 2024-25)
+- Union Budget 2025 (February 1, 2025) — effective from AY 2026-27 (FY 2025-26)
+
+The Finance Act 2024 (based on the July 2024 Full Budget) introduced the most sweeping changes to capital gains taxation in recent history.
+
+## Section 2: Budget 2024 — Capital Gains Taxation Overhaul (Effective July 23, 2024)
+
+The most significant change from Budget 2024 was the complete overhaul of capital gains tax rates, effective from July 23, 2024 (date of Finance Bill 2024 receiving Presidential assent in Lok Sabha — the exact implementation date):
+
+### Long-Term Capital Gains (LTCG) on Listed Equity and Equity Funds — Section 112A:
+- **Before July 23, 2024**: 10% on gains exceeding Rs 1,00,000 per year
+- **After July 23, 2024**: 12.5% on gains exceeding Rs 1,25,000 per year
+- The exemption threshold increased from Rs 1 lakh to Rs 1.25 lakh.
+- No indexation benefit (same as before).
+
+### Short-Term Capital Gains (STCG) on Listed Equity and Equity Funds — Section 111A:
+- **Before July 23, 2024**: 15%
+- **After July 23, 2024**: 20%
+- This is a significant increase of 5 percentage points.
+
+### Long-Term Capital Gains on All Other Assets — Section 112:
+- **Before July 23, 2024**: 20% WITH indexation benefit
+- **After July 23, 2024**: 12.5% WITHOUT indexation benefit
+- The rate reduction is accompanied by removal of indexation, which can result in higher tax for long-held assets with modest appreciation.
+- Exception (grandfathering): For resident individuals and HUFs who transfer immovable property (land or building) ACQUIRED BEFORE July 23, 2024, they can choose the lower of:
+  - 12.5% without indexation (new method), OR
+  - 20% with indexation (old method)
+  - This choice is available only for immovable property, not for other assets like gold or unlisted shares.
+
+### Impact of Removal of Indexation:
+The removal of indexation from property sales has been controversial. Example:
+- Property bought in FY 2005-06 at Rs 30 lakh, sold in FY 2024-25 at Rs 1 crore.
+- Old method: Indexed cost = Rs 30 lakh × (363/117) = Rs 93 lakh. LTCG = Rs 7 lakh. Tax = 20% × Rs 7 lakh = Rs 1.4 lakh.
+- New method: LTCG = Rs 1 crore − Rs 30 lakh = Rs 70 lakh. Tax = 12.5% × Rs 70 lakh = Rs 8.75 lakh.
+- The grandfathering provision allows choosing the old method (Rs 1.4 lakh tax) if it is lower.
+
+### Holding Period Changes:
+Budget 2024 also standardized holding periods:
+- Unlisted bonds and debentures: Now classified as LTCA only after 24 months (previously 36 months).
+- Listed bonds and debentures: LTCA after 12 months (previously 36 months).
+
+## Section 3: Budget 2024 — Standard Deduction Increase
+
+- **Old Regime**: Standard deduction remains Rs 50,000.
+- **New Regime**: Standard deduction increased from Rs 50,000 to Rs 75,000 effective from AY 2025-26.
+- **Family pensioners (new regime)**: Standard deduction from family pension increased from Rs 15,000 to Rs 25,000.
+
+This change is significant as it makes the new regime more attractive for salaried employees, effectively providing an additional Rs 25,000 of tax-free income.
+
+## Section 4: Budget 2024 — New Tax Slabs Under New Regime
+
+The new regime slabs were revised in Budget 2024, effective from AY 2025-26 (FY 2024-25):
+
+| Income Slab | Previous Rate (AY 2024-25) | New Rate (AY 2025-26) |
+|-------------|---------------------------|----------------------|
+| 0 to Rs 3 lakh | Nil | Nil |
+| Rs 3 to Rs 6 lakh | 5% | 5% (unchanged) |
+| Rs 6 to Rs 9 lakh | 10% | — |
+| Rs 7 to Rs 10 lakh | — | 10% |
+| Rs 9 to Rs 12 lakh | 15% | — |
+| Rs 10 to Rs 12 lakh | — | 15% |
+| Rs 12 to Rs 15 lakh | 20% | 20% (unchanged) |
+| Above Rs 15 lakh | 30% | 30% (unchanged) |
+
+The key change: The 5% slab is extended from Rs 3-6 lakh to Rs 3-7 lakh, and the 10% slab adjusted to Rs 7-10 lakh. This reduces tax on income between Rs 6-7 lakh by Rs 5,000.
+
+## Section 5: Budget 2024 — Section 87A Rebate Changes
+
+Under the new regime:
+- **Previous (AY 2024-25)**: Rebate up to Rs 25,000 for income up to Rs 7 lakh.
+- **AY 2025-26**: Rebate remains up to Rs 25,000 for income up to Rs 7 lakh (no change in rebate amount, but the effective benefit increases because of new slabs).
+
+Note: An important controversy arose regarding Section 87A rebate and special rate income (capital gains). CBDT's position (as of 2024) is that the rebate under Section 87A is NOT available to reduce tax on STCG under Section 111A or LTCG under Section 112A. This means:
+- If a taxpayer's income (excluding capital gains) is below Rs 7 lakh but they have capital gains, the rebate applies only to tax on regular income, not to capital gains tax.
+- Taxpayers should verify the latest CBDT clarifications on this point before filing.
+
+## Section 6: Budget 2024 — Other Important Changes
+
+### Employer NPS Contribution Limit Enhanced:
+- Deduction under Section 80CCD(2) for employer's NPS contribution increased from 10% of salary to 14% of salary for all employees (previously 14% was available only for central government employees; now applicable to private sector employees also).
+- This is available even under the new tax regime.
+
+### TDS Rate Rationalization:
+Several TDS rates were reduced to simplify compliance:
+- Section 194D (insurance commission): Reduced from 5% to 2% (for life insurance companies paying commission).
+- Section 194DA (payment in respect of life insurance policy): Reduced from 5% to 2%.
+- Section 194G (lottery ticket commission): Reduced from 5% to 2%.
+- Section 194H (commission/brokerage): Reduced from 5% to 2%.
+- Section 194-IB (rent by individual/HUF): Reduced from 5% to 2%.
+- Section 194M (payment by individual/HUF to professional/contractor): Reduced from 5% to 2%.
+- Section 194-O (e-commerce operator): Reduced from 1% to 0.1%.
+
+### Vivad Se Vishwas Scheme 2024:
+A dispute resolution scheme allowing taxpayers with pending appeals before CIT(A), ITAT, High Courts, or the Supreme Court as of July 22, 2024 to settle their disputes by paying a specified amount (reduced from the assessed demand).
+
+### Angel Tax Removed:
+Section 56(2)(viib) (angel tax on investments in unlisted companies) was abolished from April 1, 2025 (AY 2025-26). This is beneficial for startups receiving funding.
+
+### Credit Card Abroad Payments — LRS:
+The proposed TCS on credit card payments abroad under LRS (Liberalised Remittance Scheme) was NOT implemented (withdrawn). Credit card payments abroad remain excluded from LRS.
+
+## Section 7: Budget 2025 — Major Changes (Effective AY 2026-27)
+
+### No Tax on Income Up to Rs 12 Lakh (New Regime):
+The most headline change of Budget 2025 is that under the new tax regime, income up to Rs 12 lakh will effectively bear zero tax due to an enhanced rebate under Section 87A:
+- Section 87A rebate increased to Rs 60,000 (from Rs 25,000) for income up to Rs 12 lakh under new regime.
+- Tax on income of Rs 12 lakh under new AY 2026-27 slabs = approximately Rs 60,000 — which is exactly offset by the enhanced rebate.
+- For salaried individuals: standard deduction of Rs 75,000 means no tax on salary up to Rs 12,75,000 under new regime.
+
+### New Tax Slabs for AY 2026-27 (New Regime):
+
+| Income Slab | Tax Rate |
+|-------------|----------|
+| Up to Rs 4,00,000 | Nil |
+| Rs 4,00,001 to Rs 8,00,000 | 5% |
+| Rs 8,00,001 to Rs 12,00,000 | 10% |
+| Rs 12,00,001 to Rs 16,00,000 | 15% |
+| Rs 16,00,001 to Rs 20,00,000 | 20% |
+| Rs 20,00,001 to Rs 24,00,000 | 25% |
+| Above Rs 24,00,000 | 30% |
+
+The basic exemption limit increases from Rs 3 lakh to Rs 4 lakh. A new 25% bracket is introduced between Rs 20-24 lakh.
+
+### Updated Income Tax Act — Income Tax Act 2025:
+Budget 2025 proposed that the Income Tax Act 2025 (a new, simplified code) will replace the Income Tax Act 1961 from April 1, 2026 (AY 2026-27 / FY 2025-26). The new code aims to:
+- Reduce the length of the Act from over 800 sections to a more compact structure
+- Use simpler language and tabular format
+- Not change tax policy but improve clarity and reduce litigation
+- The effective tax rates, deductions, and principles remain unchanged
+
+A draft was circulated for public comments in early 2025. Final enactment was expected before April 2026.
+
+### TDS on Senior Citizens — Section 194P:
+Simplified TDS process for senior citizens above 75 years with only pension and interest income from the same bank continues to be exempt from ITR filing (introduced in 2021, continued under Budget 2025).
+
+### Updated Return — Section 139(8A):
+Taxpayers can file an "Updated Return" (ITR-U) within 2 years from the end of the relevant assessment year to include any omitted income. The updated return requires payment of an additional 25% of tax and interest (if filed within 12 months) or 50% (if filed between 12 and 24 months). Budget 2025 extended this window to 4 years for certain taxpayers, with higher additional tax (60% if filed between 24-48 months). This is to reduce litigation and encourage voluntary compliance.
+
+## Section 8: Budget 2026 — Finance Bill 2026 Proposals (Advance Information)
+
+Note: Budget 2026 (presented February 1, 2026) proposals are for AY 2027-28. Key expected areas of focus based on government priorities:
+- Continued push for the new tax regime adoption
+- Possible expansion of presumptive taxation schemes
+- GST rate rationalization (expected from the GST Council)
+- Further simplification under the new Income Tax Act 2025 framework
+- Digital economy taxation measures
+
+For the most current and accurate information on Budget 2026 changes, taxpayers should refer to the official Finance Bill 2026 and CBDT circulars issued after the budget.
+
+## Section 9: Key Effective Dates Summary
+
+| Change | Applicable From |
+|--------|----------------|
+| New capital gains rates (112A, 111A, 112) | July 23, 2024 |
+| Standard deduction Rs 75,000 in new regime | AY 2025-26 (FY 2024-25) |
+| New tax slabs under new regime | AY 2025-26 |
+| Employer NPS 14% for private sector | AY 2025-26 |
+| Angel tax removal | AY 2025-26 |
+| Zero tax up to Rs 12 lakh (new regime) | AY 2026-27 (FY 2025-26) |
+| New income tax code (ITA 2025) | AY 2026-27 (FY 2025-26) |
+| New basic exemption Rs 4 lakh (new regime) | AY 2026-27 |

@@ -1,0 +1,252 @@
+SUPPLEMENTARY KNOWLEDGE: COMPLETE TDS GUIDE — SECTIONS 192 TO 194Q
+Assessment Year 2025-26 and AY 2026-27
+
+## Section 1: Overview of Tax Deducted at Source (TDS)
+
+Tax Deducted at Source (TDS) is a mechanism under the Income Tax Act, 1961, where a person making a payment is required to deduct tax at the time of making the payment and remit it to the government. The deductee (payee) gets credit for the TDS deducted, which is adjusted against their total tax liability when filing the ITR.
+
+TDS ensures a steady flow of revenue to the government throughout the year and also helps track high-value transactions.
+
+Key terminology:
+- Deductor: The person responsible for deducting TDS and depositing it with the government.
+- Deductee: The person from whose payment TDS is deducted.
+- TAN (Tax Deduction Account Number): A 10-digit alphanumeric number that the deductor must obtain before deducting TDS.
+
+## Section 2: Section 192 — TDS on Salary
+
+Every employer is required to deduct TDS on salary paid to employees under Section 192.
+
+### Rate:
+TDS on salary is deducted at the average rate of income tax applicable to the employee's estimated annual income for the financial year. There is no fixed rate — the employer estimates total income, applies the applicable slab rates, and divides the annual tax by 12 months to arrive at the monthly TDS.
+
+### Key Points:
+- Applicable for salary income only; applies to all employees (both government and private sector).
+- The employee must provide details of other income, deductions, and investments to the employer (via Form 12BB) so the employer can compute TDS correctly.
+- If the employee does not provide Form 12BB, the employer deducts TDS without considering deductions.
+- TDS is deducted by the employer from the employee's net salary each month.
+- No threshold for TDS on salary — any taxable salary is subject to TDS.
+
+## Section 3: Section 194A — TDS on Interest (Other Than Securities)
+
+### Who Deducts:
+Banks, NBFCs, co-operative banks, companies, partnership firms, and individuals/HUFs subject to audit.
+
+### Rate:
+10% on interest income.
+
+### Threshold (When TDS is NOT Deducted):
+- Bank/co-operative bank/post office: Interest does not exceed Rs 40,000 per year (Rs 50,000 for senior citizens).
+- Others: Interest does not exceed Rs 5,000 per year.
+
+### Key Points:
+- Applies to interest on fixed deposits, recurring deposits, loans, and any interest other than interest on securities (bonds).
+- Interest on savings accounts is typically aggregated at the branch level; if it exceeds the threshold across the year, TDS applies.
+- Senior citizens can submit Form 15H to prevent TDS if their total income is below taxable limit.
+- Non-senior citizens can submit Form 15G if their total income is below taxable limit.
+
+## Section 4: Section 194B — TDS on Lottery Winnings
+
+### Rate:
+30% on gross winnings.
+
+### Threshold:
+TDS applies only if winnings from a single lottery, crossword puzzle, card game, or other game exceed Rs 10,000 per transaction.
+
+### Key Points:
+- No deduction of expenses allowed — TDS is on the gross prize amount.
+- Applicable to winnings from lotteries, crossword puzzles, card games, and other games of any sort.
+- Online gaming winnings are covered under Section 194BA (introduced by Finance Act 2023) at 30% on net winnings per financial year above Rs 100.
+
+## Section 5: Section 194C — TDS on Contractor Payments
+
+### Who Deducts:
+Any person who is a specified person (government, company, partnership, trust, local authority, society, AOP, individual/HUF whose accounts are subject to audit) and makes payment to a contractor.
+
+### Rates:
+- Individual or HUF contractors: 1%
+- Any other contractor (company, partnership, etc.): 2%
+
+### Threshold:
+- Single payment: Rs 30,000 or more
+- Annual aggregate payments to the same contractor: Rs 1,00,000 or more
+
+### Key Points:
+- Contractor includes sub-contractors.
+- Applies to: work contracts, advertising, broadcasting, catering, carriage of goods/passengers, manufacturing goods to buyer's specifications, transport, AMC contracts, and similar arrangements.
+- No TDS if payment is to a contractor by individual/HUF who is NOT subject to tax audit AND the payment is for personal purposes.
+- Transporters who are owner-operators of 10 or fewer trucks and provide their PAN are exempt from TDS under Section 194C.
+
+## Section 6: Section 194D — TDS on Insurance Commission
+
+### Rate:
+5% on commission paid to insurance agents.
+
+### Threshold:
+Aggregate commission in a financial year exceeds Rs 15,000.
+
+### Key Points:
+- Applies to commission paid by insurers to insurance agents for soliciting or procuring life insurance policies.
+- Insurance companies (LIC, private insurers) are the deductors.
+
+## Section 7: Section 194H — TDS on Commission and Brokerage
+
+### Rate:
+5% on commission or brokerage.
+
+### Threshold:
+Aggregate commission or brokerage in a financial year exceeds Rs 15,000.
+
+### Key Points:
+- Applies to commissions paid by principals to agents, excluding those covered by 194D.
+- Applies to stock broking commissions, real estate agent commissions paid by builders, travel agent commissions, etc.
+- Payment to partners of a firm is not treated as commission under 194H.
+
+## Section 8: Section 194I — TDS on Rent
+
+### Rates:
+- Plant and machinery: 2%
+- Land and building (including factory building), furniture, fittings: 10%
+
+### Threshold:
+Aggregate rent in a financial year exceeds Rs 2,40,000 (Rs 2.4 lakh).
+
+### Key Points:
+- Deductor: Any person (other than individual/HUF not subject to audit).
+- Rent includes payment for use of land, building (factory building included), plant, machinery, equipment, furniture, or fittings.
+- The 2% rate on plant and machinery is often relevant for equipment hire and machinery rental.
+- Hotels: Rent paid for hotel rooms is subject to TDS under 194I if the annual aggregate exceeds the threshold.
+
+## Section 9: Section 194-IA — TDS on Transfer of Immovable Property
+
+### Rate:
+1% on the sale consideration.
+
+### Threshold:
+Applicable only if the sale consideration is Rs 50 lakh or more.
+
+### Key Points:
+- Buyer of immovable property (other than agricultural land) is the deductor.
+- TDS is deducted at the time of payment (not just registration).
+- If there are multiple buyers, each buyer deducts TDS on their share.
+- No TAN is required for the buyer — they use their PAN.
+- TDS is deposited using Form 26QB. Certificate in Form 16B is issued to the seller.
+- If the stamp duty value is higher than sale consideration and is used as "full value of consideration" under Section 50C, TDS is still on the actual sale consideration paid by the buyer.
+
+## Section 10: Section 194-IB — TDS on Rent by Individual/HUF
+
+### Rate:
+5% on monthly rent.
+
+### Threshold:
+Monthly rent exceeds Rs 50,000 per month.
+
+### Key Points:
+- Applicable to individual/HUF who is NOT subject to tax audit.
+- Deducts TDS at the time of crediting rent for the last month of the financial year or last month of tenancy, whichever is earlier (not monthly).
+- Effectively, TDS is deducted once a year (or at the end of the tenancy).
+- No TAN required — PAN is used. Form 26QC is filed for depositing TDS. Form 16C is issued to the landlord.
+
+## Section 11: Section 194J — TDS on Professional and Technical Fees
+
+### Rates:
+- Professional fees: 10%
+- Technical fees (royalty, fees for technical services): 2%
+- Fees paid to directors (other than salary): 10%
+
+### Threshold:
+Aggregate payment in a financial year exceeds Rs 30,000 for each category.
+
+### Key Points:
+- Professional services include: legal, medical, architectural, engineering, accountancy, interior decoration, advertising, and other notified professions.
+- Technical services include: managerial, technical, or consultancy services.
+- 2% rate on technical services is specifically to avoid double taxation and reduce burden on call centres and BPOs.
+- Royalty paid to authors, composers, etc. is subject to 10% TDS under 194J.
+
+## Section 12: Section 194N — TDS on Cash Withdrawals
+
+### Rates:
+- Cash withdrawal exceeds Rs 1 crore in a year (from all accounts with a bank): 2%
+- Cash withdrawal exceeds Rs 20 lakh in a year for persons who have NOT filed ITR for last 3 years: 2% (on amount between Rs 20 lakh and Rs 1 crore) and 5% (on amount above Rs 1 crore)
+
+### Key Points:
+- Applicable from financial year 2019-20.
+- Banks, co-operative banks, and post offices are the deductors.
+- The threshold is aggregate cash withdrawal per year across all accounts with the same bank.
+- Certain entities are exempt (cash replenishment for ATMs, white label ATM operators, banking correspondents, etc.).
+
+## Section 13: Section 194O — TDS by E-Commerce Operators
+
+### Rate:
+1% on the gross amount of sales/services.
+
+### Threshold:
+Aggregate amount credited to the e-commerce participant exceeds Rs 5 lakh in a financial year.
+
+### Key Points:
+- E-commerce operators must deduct TDS on payments to e-commerce participants (sellers on platforms like Amazon, Flipkart, Meesho, Zomato, Swiggy, etc.).
+- The 1% TDS is on the gross value of goods sold or services provided, including delivery charges and GST.
+- Individual and HUF participants with annual sales below Rs 5 lakh and who have provided their PAN and Aadhaar are exempt.
+- No threshold applicable for participants who are companies or partnership firms.
+
+## Section 14: Section 194Q — TDS on Purchase of Goods
+
+### Rate:
+0.1% on purchases above Rs 50 lakh in a financial year from a single seller.
+
+### Threshold:
+Total purchase from a single seller exceeds Rs 50 lakh in a financial year. The deductor must have annual turnover/gross receipts exceeding Rs 10 crore in the preceding financial year.
+
+### Key Points:
+- Applicable from July 1, 2021.
+- If both TCS under Section 206C(1H) and TDS under 194Q apply to the same transaction, TDS under 194Q takes precedence and TCS is not collected.
+- TDS is deducted on the amount exceeding Rs 50 lakh (not on the entire purchase).
+- Applies to buyers (not sellers) with turnover > Rs 10 crore.
+
+## Section 15: TDS Rates When PAN Is Not Available
+
+If the deductee does not provide their PAN to the deductor, the TDS must be deducted at the higher of:
+- Twice the rate applicable under the relevant section, OR
+- 20% flat rate
+
+This provision is under Section 206AA. For example, if normal TDS rate is 5%, the rate without PAN would be the higher of 10% or 20%, i.e., 20%.
+
+Non-residents: Section 206AA applies, but DTAA (Double Taxation Avoidance Agreement) benefits can still be claimed even without PAN if Tax Residency Certificate (TRC) and other documents are provided.
+
+## Section 16: TDS Deposit Due Dates
+
+TDS deducted must be deposited to the government by:
+- For tax deducted in April to February: 7th of the following month. (e.g., TDS deducted in September must be deposited by October 7.)
+- For tax deducted in March: April 30. (Special longer deadline because year-end processing takes time.)
+
+### For TDS under Section 194-IA, 194-IB, 194M:
+- 30 days from end of month in which TDS is deducted (instead of 7th of following month)
+
+### Consequence of Late Deposit:
+Interest under Section 201(1A): 1% per month (or part of month) from date TDS was deductible to date of actual deduction; 1.5% per month from date of deduction to date of actual payment to government.
+
+## Section 17: TDS Return Forms and Due Dates
+
+TDS deductors must file quarterly TDS returns with the Income Tax Department:
+
+| Form | Purpose | Due Dates |
+|------|---------|-----------|
+| 24Q | TDS on salary (Section 192) | Q1: July 31; Q2: Oct 31; Q3: Jan 31; Q4: May 31 |
+| 26Q | TDS on payments other than salary (resident deductees) | Q1: July 31; Q2: Oct 31; Q3: Jan 31; Q4: May 31 |
+| 27Q | TDS on payments to non-residents (other than salary) | Q1: July 31; Q2: Oct 31; Q3: Jan 31; Q4: May 31 |
+| 27EQ | Tax Collected at Source (TCS) return | Q1: July 15; Q2: Oct 15; Q3: Jan 15; Q4: May 15 |
+
+### TDS Certificates Issued to Deductee:
+- Form 16: Annual TDS certificate on salary (Section 192) — must be issued by June 15 after end of financial year.
+- Form 16A: Quarterly TDS certificate for non-salary TDS — must be issued within 15 days of the due date of quarterly return.
+- Form 16B: TDS certificate for property purchase under Section 194-IA.
+- Form 16C: TDS certificate for rent under Section 194-IB.
+
+## Section 18: Lower TDS and NIL TDS Certificates
+
+A deductee can apply for lower TDS or NIL TDS deduction if their total income is likely to be below the taxable threshold or if TDS rate under the applicable section is higher than their actual tax liability.
+
+Application is made on the Income Tax portal in Form 13. If approved, the Assessing Officer issues a certificate under Section 197 specifying the lower or nil rate. The deductee provides this certificate to the deductor.
+
+This is particularly useful for: small businesses with significant TDS but low profits, individuals with low total income but high TDS on professional fees, and companies with losses claiming lower TDS on interest.
+
+Non-residents can also apply for lower TDS under Section 195 by filing Form 13, based on the DTAA provisions.

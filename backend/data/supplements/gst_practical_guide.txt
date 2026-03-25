@@ -1,0 +1,236 @@
+SUPPLEMENTARY KNOWLEDGE: GST PRACTICAL GUIDE FOR INDIAN BUSINESSES
+Assessment Year 2025-26 (GST as applicable from Finance Acts through 2024)
+
+## Section 1: Overview of Goods and Services Tax (GST)
+
+Goods and Services Tax (GST) is a comprehensive, destination-based, multi-stage tax that was introduced in India from July 1, 2017. It replaced a fragmented indirect tax structure of central and state taxes including Central Excise Duty, Service Tax, VAT, CST, Octroi, Entry Tax, and several others.
+
+GST is governed by:
+- Central GST Act, 2017 (CGST Act) — for intra-state supply
+- Integrated GST Act, 2017 (IGST Act) — for inter-state supply
+- State GST Acts (SGST) — for intra-state supply (mirror legislation in each state)
+- Union Territory GST Act, 2017 (UTGST)
+
+For intra-state supplies: CGST + SGST (or UTGST) applies, each at half the total GST rate.
+For inter-state supplies: IGST applies at the full rate.
+
+## Section 2: GST Registration Thresholds
+
+### Regular Registration — Goods Suppliers:
+- Aggregate annual turnover exceeds Rs 40 lakh: Mandatory GST registration.
+- Special Category States (North-East states, Jammu & Kashmir, Himachal Pradesh, Uttarakhand): Threshold is Rs 20 lakh.
+
+### Regular Registration — Service Providers:
+- Aggregate annual turnover exceeds Rs 20 lakh: Mandatory GST registration.
+- Special Category States: Threshold is Rs 10 lakh.
+
+### Mandatory Registration (Regardless of Turnover):
+Certain businesses must register under GST regardless of turnover:
+- Interstate supply of goods or services (services have an exemption for some small suppliers)
+- Casual taxable persons
+- Non-resident taxable persons
+- Persons required to pay tax under Reverse Charge Mechanism (RCM)
+- E-commerce operators
+- Input Service Distributors
+- Persons who make supplies on behalf of other taxable persons (agents)
+- Persons who supply online information and database access services (OIDAR) from abroad to non-registered persons in India
+
+### Voluntary Registration:
+Businesses below the threshold can voluntarily register for GST. This can be beneficial to claim Input Tax Credit (ITC).
+
+### Aggregate Turnover:
+Aggregate turnover means the aggregate value of all taxable supplies, exempt supplies, exports, and inter-state supplies of a person with the same PAN. It includes turnover of all GST registrations (across states) combined under the same PAN.
+
+## Section 3: Composition Scheme
+
+The Composition Scheme is a simplified compliance mechanism for small businesses. Registered suppliers under the Composition Scheme pay a lower tax rate on their turnover but cannot claim Input Tax Credit.
+
+### Eligibility:
+- Aggregate turnover in the preceding financial year must not exceed Rs 1.5 crore (Rs 75 lakh for special category states, except Himachal Pradesh where it is Rs 1.5 crore and Assam, Arunachal Pradesh, Sikkim, Manipur, Meghalaya, Mizoram, Nagaland, Tripura, Uttarakhand where it is Rs 75 lakh).
+
+### Composition Rates (effective from 2019):
+- Manufacturers and traders (goods): 1% of turnover (0.5% CGST + 0.5% SGST)
+- Restaurant sector: 5% (2.5% CGST + 2.5% SGST)
+- Other service providers (and businesses with mixed supply of goods and services): 6% (3% CGST + 3% SGST) — This was introduced to allow service providers into the Composition Scheme.
+
+### Restrictions under Composition Scheme:
+- Cannot supply services (except restaurant services and services up to Rs 5 lakh or 10% of turnover for non-restaurant composition dealers)
+- Cannot make inter-state supplies
+- Cannot make supply through e-commerce operators
+- Cannot supply non-taxable goods
+- Must display "Composition Taxable Person" on all business signboards and invoices
+
+### Filing under Composition Scheme:
+- File GSTR-4 annually (by April 30 of following year)
+- Pay tax quarterly via CMP-08 challan by 18th of the month following each quarter
+
+## Section 4: Input Tax Credit (ITC) — Section 16 CGST Act
+
+Input Tax Credit allows a registered GST supplier to deduct the GST paid on inputs (goods and services used for business) from the GST payable on outputs.
+
+### Conditions for Claiming ITC (Section 16(2)):
+1. The taxpayer must be a registered person.
+2. The taxpayer must possess a valid tax invoice or debit note.
+3. The goods or services must have been received (actual physical receipt of goods, or actual provision of service).
+4. The tax on the supply must have been paid to the government by the supplier.
+5. The taxpayer must have filed the GST return.
+6. The supplier must have filed their GSTR-1 (auto-populated in GSTR-2B of the recipient).
+
+### Time Limit for ITC:
+ITC can be claimed up to the earlier of:
+- November 30 of the following financial year (i.e., GSTR-3B for November should have the ITC claimed)
+- The date of filing annual return (GSTR-9)
+
+(As amended by Finance Act 2022, effective from October 2022.)
+
+### Section 17(5) — Blocked Credits (ITC Not Available):
+Certain inputs are specifically excluded from ITC even if used for business:
+1. Motor vehicles and other conveyances used for transportation of persons (with < 13 seats), unless used for: transport of passengers (taxi operators), imparting driving training, or further supply.
+2. Food and beverages, outdoor catering, beauty treatment, health services, cosmetic and plastic surgery — unless the taxpayer is engaged in the same line of business.
+3. Membership of a club, health, and fitness centre.
+4. Travel benefits extended to employees on vacation (leave travel concession).
+5. Works contract services when supplied for construction of immovable property (other than plant and machinery).
+6. Goods or services received for construction of immovable property (on the taxpayer's own account), even when used for business.
+7. Goods or services on which tax is paid under composition scheme.
+8. Goods or services received by non-resident taxable persons (except imported goods).
+9. Personal consumption — any supply used for personal use of the taxpayer.
+10. Goods lost, stolen, destroyed, or given as gift or free samples.
+11. Tax paid under Section 74 (fraud cases), 129 (detention), 130 (confiscation).
+
+## Section 5: Reverse Charge Mechanism (RCM)
+
+Under normal GST, the supplier charges and pays GST. Under Reverse Charge Mechanism (RCM), the liability to pay GST shifts to the recipient of goods or services.
+
+### Section 9(3) CGST Act — Notified Supplies Under RCM:
+The government has notified specific goods and services where RCM applies:
+
+**Services:**
+- Legal services by an individual advocate or firm of advocates to a business entity (recipient pays GST)
+- Services by a director of a company to the company
+- Import of services (foreign services received by Indian business)
+- Services by Goods Transport Agency (GTA) transporting goods by road — recipient (if GTA opts for 5% without ITC) pays RCM at 5%
+- Services by way of sponsorship to a body corporate or partnership firm (event sponsorship)
+- Services of renting of residential dwelling to a registered person (tenant pays RCM if tenant is GST registered)
+- Services by arbitral tribunal to a business entity
+- Services provided by an author/composer/journalist through copyright assignment
+
+**Goods:**
+- Cashew nuts (not shelled or peeled): 5%
+- Bidi wrapper leaves (tendu): 5%
+- Raw cotton from agriculturist: 5%
+- Used vehicles, seized and confiscated goods, old and used goods, waste and scrap from Central/State Governments
+
+### Section 9(4) CGST Act — Supplies from Unregistered Persons:
+If a registered person purchases goods or services from an unregistered supplier, RCM applies on such purchases. This provision applies when:
+- The registered person is in a notified category; or
+- The purchase is from an unregistered person in specific notified categories of supplies
+
+Note: Section 9(4) applicability has been restricted over time; currently it applies only to specific notified goods/services. Businesses should verify current notifications.
+
+### Key Consequences of RCM:
+- Recipient must pay GST on the supply at the applicable rate.
+- Recipient must issue a self-invoice.
+- The GST paid under RCM can be claimed as ITC by the recipient in the same month (if eligible).
+- RCM supplies must be reported in GSTR-3B and GSTR-2B separately.
+
+## Section 6: Exports Under GST
+
+### Zero-Rated Supplies — Section 16 IGST Act:
+Exports of goods and services are treated as zero-rated supplies. Zero-rated means GST rate of 0% applies, but ITC on inputs used for making zero-rated supplies can be claimed and refunded.
+
+### Options for Exporters:
+
+**Option 1: Export under LUT (Letter of Undertaking) without payment of IGST:**
+- Exporter furnishes a LUT (Letter of Undertaking) on the GST portal before export.
+- No GST is charged on the export invoice.
+- ITC accumulated on inputs/services can be claimed as refund.
+- LUT is valid for the financial year and must be renewed annually.
+- Available to exporters with no pending prosecution under GST/Customs.
+
+**Option 2: Export with payment of IGST and claim refund:**
+- Exporter charges IGST on the export invoice.
+- IGST paid is refunded after the goods are exported (verified with shipping bill data from Customs).
+- Less common because it requires upfront payment.
+
+### Refund of ITC for Zero-Rated Supplies:
+Refund is filed online on the GST portal. Time limit: 2 years from the relevant date. The relevant date for goods is the date of filing of shipping bill; for services, date of receipt of payment in foreign exchange.
+
+### SEZ Supplies:
+Supplies to Special Economic Zones (SEZ units and developers) are also zero-rated and treated similarly to exports.
+
+## Section 7: E-Invoicing
+
+### Applicability (as of AY 2025-26):
+Mandatory e-invoicing for businesses with aggregate annual turnover exceeding Rs 5 crore in any preceding financial year.
+
+### What Is E-Invoicing?
+E-invoicing does not mean generating invoices on a government portal. It means generating invoices in the prescribed format and uploading them to the Invoice Registration Portal (IRP) for authentication. The IRP generates an Invoice Reference Number (IRN) and a QR code, which must appear on the invoice.
+
+### Benefits:
+- Auto-population of GSTR-1 from e-invoices.
+- ITC can be claimed by the recipient based on e-invoice data without waiting for GSTR-2B.
+- Reduces mismatches and fraud.
+
+### Exemptions from E-Invoicing:
+- Banks, insurance companies, NBFCs
+- Goods Transport Agency
+- Passenger transportation services
+- Businesses in SEZ units (suppliers)
+- Government departments
+- Businesses with aggregate turnover below the threshold
+
+## Section 8: E-Way Bill
+
+### What Is E-Way Bill?
+An e-way bill is an electronic document generated for the movement of goods. It is required when goods of value exceeding Rs 50,000 are transported.
+
+### When Required:
+- Inter-state movement: Value of goods > Rs 50,000 (mandatory)
+- Intra-state movement: State-specific rules; most states require it for goods > Rs 50,000 within the state as well
+- Certain goods require e-way bill even below Rs 50,000 (notified by government)
+
+### Who Generates:
+- Registered supplier/recipient
+- Transporter (if the supplier/recipient fails to generate)
+
+### Validity:
+- For distances up to 200 km: 1 day
+- For every additional 200 km or part thereof: 1 additional day
+- For over-dimensional cargo: Different validity rules apply
+
+### Exemptions:
+- Non-motorized conveyances
+- Transportation by railways (though railways themselves have requirements)
+- Goods transported within a specific distance (varies by state — often 10-50 km for supply to job worker)
+- Specific goods notified by government
+
+## Section 9: GST Returns and Filing
+
+### Key Returns:
+- **GSTR-1**: Outward supply details. Monthly (turnover > Rs 5 crore) by 11th of next month; Quarterly (turnover ≤ Rs 5 crore, QRMP scheme) by 13th of month after quarter end.
+- **GSTR-3B**: Summary return with tax payment. Monthly by 20th; Quarterly (QRMP) by 22nd/24th of month after quarter.
+- **GSTR-9**: Annual return. By December 31 of following financial year. Mandatory for turnover > Rs 2 crore.
+- **GSTR-9C**: Reconciliation statement (self-certified). For turnover > Rs 5 crore.
+- **GSTR-4**: Composition scheme annual return. By April 30.
+
+## Section 10: GST Rate Quick Reference
+
+### 0% GST (Exempt):
+Fresh fruits and vegetables, unprocessed food grains, milk (packed without brand), eggs, fresh meat/fish/poultry, contraceptives, raw jute, books, newspapers, educational services, health care services, public transport (non-AC buses, metro rail), cold chain logistics for food.
+
+### 5% GST:
+Packaged food items (branded, with brand name), edible oils, sugar, tea, coffee, coal, fertilisers, tractors, medicines for life-saving diseases, economy class air travel, small restaurants (under composition or otherwise), transport of goods by rail, fabric.
+
+### 12% GST:
+Processed food, frozen meat products, butter, cheese, ghee, dry fruits, fruit juices, computers, mobile phones (earlier 18%, reduced to 12%), business class air travel, non-AC hotels, movie tickets < Rs 100.
+
+### 18% GST:
+Most services (professional, IT, telecom, banking, insurance), most manufactured goods, AC restaurants, hotel tariff Rs 7,500–Rs 7,500 and above, electronic items, iron, steel, cement, paints, car batteries, movie tickets > Rs 100.
+
+### 28% GST:
+Luxury and sin goods: cars (passenger vehicles), motorcycles (> 350cc), aerated drinks, pan masala, tobacco products, cement (also 28%), AC units, washing machines, TVs > 32 inches, luxury hotels, five-star restaurants, casinos, horse racing.
+
+### Special Rates:
+- Gold and silver: 3%
+- Rough diamonds: 0.25%
+- Lotteries and gambling: 28%

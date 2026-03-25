@@ -1,0 +1,143 @@
+SUPPLEMENTARY KNOWLEDGE: HRA EXEMPTION UNDER SECTION 10(13A)
+Assessment Year 2025-26 and AY 2026-27
+
+## Section 1: Overview of HRA Exemption
+
+House Rent Allowance (HRA) is one of the most commonly claimed exemptions by salaried employees in India. The exemption is governed by Section 10(13A) of the Income Tax Act, 1961, read with Rule 2A of the Income Tax Rules, 1962.
+
+HRA is the component of salary paid by an employer to an employee to meet the cost of renting a home. Not all of the HRA received is exempt from tax — the exemption is calculated as the minimum (least) of three specific amounts. Only the exempt portion is subtracted from taxable income; the remaining HRA is fully taxable.
+
+HRA exemption is available ONLY under the old tax regime. If an employee opts for the new tax regime under Section 115BAC, HRA exemption cannot be claimed.
+
+## Section 2: The Three-Amount Rule — How to Calculate HRA Exemption
+
+The exempt HRA is the LEAST of the following three amounts:
+
+1. Actual HRA received from the employer during the year.
+
+2. Rent paid minus 10% of salary.
+   - "Salary" for this purpose means Basic Salary + Dearness Allowance (if it forms part of retirement benefits) + Fixed Percentage Commission on turnover.
+   - Calculation: Annual rent paid − 10% of annual salary (basic + DA).
+
+3. 50% of salary if the employee lives in a metro city, or 40% of salary if the employee lives in a non-metro city.
+
+Whichever of these three amounts is the smallest is the exempt HRA. The balance (actual HRA received minus exempt HRA) is added to taxable salary.
+
+### Example Calculation (Metro City):
+- Basic Salary: Rs 60,000/month (Rs 7,20,000/year)
+- HRA received: Rs 25,000/month (Rs 3,00,000/year)
+- Rent paid: Rs 20,000/month (Rs 2,40,000/year)
+- City: Mumbai (Metro)
+
+Amount 1: Rs 3,00,000 (actual HRA received)
+Amount 2: Rs 2,40,000 − 10% of Rs 7,20,000 = Rs 2,40,000 − Rs 72,000 = Rs 1,68,000
+Amount 3: 50% of Rs 7,20,000 = Rs 3,60,000
+
+Least of the three: Rs 1,68,000
+HRA exempt: Rs 1,68,000
+HRA taxable: Rs 3,00,000 − Rs 1,68,000 = Rs 1,32,000
+
+## Section 3: Metro vs Non-Metro Cities
+
+Metro cities for HRA purposes are: Delhi, Mumbai, Kolkata, and Chennai.
+
+For employees residing in these four cities, the third amount in the calculation is 50% of salary.
+
+For all other cities — including Bengaluru, Hyderabad, Pune, Ahmedabad, and every other city and town in India — the rate is 40% of salary.
+
+This distinction is based on the original definition in Rule 2A, which has not been updated to include newer metros. Therefore, despite Bengaluru and Hyderabad being large cities, they attract only the 40% rate.
+
+## Section 4: What Constitutes "Rent Paid"
+
+Rent paid means the actual rent paid by the employee for residential accommodation in India. The accommodation must be used for residential purposes. The following points are important:
+
+- Rent paid to a parent is allowed, provided it is genuine and the parent actually owns the property. The parent must show the rent received as income in their tax return.
+- Rent paid to a spouse is generally not accepted by income tax authorities as a genuine transaction, since the property is considered shared between spouses.
+- Rent paid for a house in one city while the employee works in another city is not eligible for HRA exemption, because the accommodation rented must be in the city where the employee is posted and working.
+- If an employee pays rent for only part of the year, the exemption is calculated proportionately for those months only.
+
+## Section 5: Required Documents and Proof
+
+### Rent Receipts
+Employees must submit rent receipts to their employer for TDS purposes. Rent receipts should include: the name of the tenant, the address of the rented property, the amount of rent paid, the period for which it is paid, the landlord's name and signature, and a revenue stamp if the monthly rent exceeds Rs 5,000.
+
+### PAN of Landlord
+If the annual rent paid exceeds Rs 1,00,000 (i.e., more than Rs 8,333 per month), the employee must provide the landlord's Permanent Account Number (PAN) to the employer. This requirement is specified in CBDT Circular No. 8/2013.
+
+If the landlord does not have a PAN, the employee must obtain a declaration from the landlord to this effect. The employee can still claim the exemption but must submit this declaration.
+
+### Rent Agreement
+A registered rent agreement is strong supporting evidence. While not always mandatory at the employer level, the Income Tax Department may ask for it during scrutiny assessment.
+
+### Bank Transfers
+It is advisable to pay rent via bank transfer (NEFT, IMPS, or UPI) rather than cash. Digital payment records serve as corroborating proof.
+
+## Section 6: Claiming HRA When You Own a House
+
+An employee can claim HRA exemption even if they own a house, provided they are genuinely renting accommodation in a different city for work purposes and living in that rented accommodation.
+
+The logic: if an employee owns a house in City A but works in City B and pays rent there, the rental expense in City B is real and genuine. The HRA exemption covers this rental expense in City B.
+
+However, if the employee owns a house in the same city where they work and are also claiming rent paid (for example, to a parent in the same city), the claim is subject to scrutiny. The burden of proof lies on the employee to show genuine rental arrangement.
+
+Important note: If an employee lives in their own house in the same city, they cannot claim HRA exemption because they are not paying any rent.
+
+## Section 7: Can You Claim HRA and Home Loan Deduction Simultaneously?
+
+Yes, a taxpayer can claim both HRA exemption under Section 10(13A) and home loan interest deduction under Section 24(b) at the same time, subject to genuine circumstances.
+
+Scenario where both can be claimed:
+- The employee owns a house but it is let out (rented to someone else) or is in a different city, and the employee lives in a rented accommodation in the city of posting.
+- The employee owns a house in City A (on home loan, claiming Section 24b interest deduction), but works in City B and pays rent there (claiming HRA exemption).
+
+In this case both deductions are fully legitimate and can be claimed simultaneously.
+
+Scenario where both might be questioned:
+- The employee owns a house in the same city and claims to be living in rented accommodation. This is possible if the owned house is let out or if there are genuine reasons for not living in the owned house (too far from workplace, given to parents, under construction, etc.). The assessee should be able to explain and document the reason.
+
+The Income Tax Department may scrutinize simultaneous claims, but there is no legal bar on claiming both. Courts and tribunals have consistently upheld simultaneous claims where the facts are genuine.
+
+Additionally, Section 80EEA (additional deduction of Rs 1.5 lakh on home loan interest for affordable housing for first-time buyers, for loans sanctioned between April 1, 2019 and March 31, 2022) can also coexist with HRA.
+
+## Section 8: HRA Exemption — Common Mistakes and Points to Remember
+
+1. HRA is NOT available under the new tax regime (Section 115BAC). Employees who opt for the new regime must forgo this exemption.
+
+2. If an employee works from home and their rented residence is also their workplace, HRA can still be claimed since they are paying rent for their primary residence.
+
+3. The employee must actually reside in the rented house. Paying rent for a property but living elsewhere does not qualify.
+
+4. Salary for HRA computation includes Basic and DA only (if DA forms part of retirement benefit). It does NOT include allowances like transport allowance, children's education allowance, or other perquisites.
+
+5. If HRA is not a part of the salary structure (many companies do not offer HRA as a component), salaried employees cannot claim Section 10(13A). In such cases, they may claim deduction under Section 80GG (for rent paid when HRA is not received) subject to its conditions.
+
+6. Self-employed individuals and business owners cannot claim HRA under Section 10(13A). They can only claim deduction under Section 80GG.
+
+## Section 9: Section 80GG — For Those Without HRA Component
+
+Section 80GG provides a deduction for rent paid by those who do not receive HRA from their employer. This applies to:
+- Self-employed individuals
+- Employees whose salary structure does not include HRA
+
+The deduction under 80GG is the least of:
+- Rs 5,000 per month (Rs 60,000 per year)
+- 25% of adjusted total income
+- Rent paid minus 10% of adjusted total income
+
+Conditions for Section 80GG:
+- The taxpayer, spouse, minor child, or HUF of which the taxpayer is a member must not own any residential accommodation at the place of employment.
+- The taxpayer must not be in receipt of HRA from an employer.
+- The taxpayer must file Form 10BA declaring these conditions.
+
+Section 80GG deduction is available under the old tax regime only.
+
+## Section 10: Employer's Role — Form 12BB
+
+Employees claim HRA exemption through their employer by submitting Form 12BB (Statement of Particulars) at the beginning of the financial year or as required by the employer. This form captures:
+- Name and address of the landlord
+- Amount of rent paid
+- Whether PAN of landlord is required (monthly rent > Rs 8,333)
+
+The employer then calculates TDS on salary after allowing the HRA exemption. Employees must reconcile and update if rent changes during the year.
+
+At the time of filing the ITR, the employee claims the HRA exemption directly in the ITR form under Schedule S (Salary) — the exemption amount is deducted from HRA received to arrive at taxable salary. Receipts need not be attached to the ITR but must be retained for at least 6 years (the period for which the department can reopen assessments).

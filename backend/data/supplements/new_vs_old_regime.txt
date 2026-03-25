@@ -1,0 +1,215 @@
+SUPPLEMENTARY KNOWLEDGE: NEW TAX REGIME VS OLD TAX REGIME — COMPLETE COMPARISON
+Assessment Year 2025-26 and AY 2026-27
+
+## Section 1: Overview — Two Regimes for Individual Taxation
+
+India has two parallel income tax regimes for individual taxpayers:
+
+1. **Old Tax Regime**: The traditional regime with higher tax rates but allowing most deductions and exemptions (80C, 80D, HRA, LTA, etc.).
+
+2. **New Tax Regime (Section 115BAC)**: Introduced in FY 2020-21, made the default regime from AY 2024-25 (FY 2023-24) onwards. Lower tax rates but most deductions and exemptions are NOT available.
+
+The choice significantly affects how much tax a person pays. The right choice depends on the amount of deductions and exemptions a taxpayer can claim.
+
+## Section 2: New Tax Regime — Slab Rates (Default from AY 2024-25)
+
+The new tax regime slab rates were revised in Budget 2023 (for AY 2024-25) and further revised in Budget 2024 (for AY 2025-26):
+
+### New Regime Slabs (AY 2025-26 — FY 2024-25 — after Budget 2024):
+
+| Income Range | Tax Rate |
+|-------------|----------|
+| Up to Rs 3,00,000 | Nil |
+| Rs 3,00,001 to Rs 7,00,000 | 5% |
+| Rs 7,00,001 to Rs 10,00,000 | 10% |
+| Rs 10,00,001 to Rs 12,00,000 | 15% |
+| Rs 12,00,001 to Rs 15,00,000 | 20% |
+| Above Rs 15,00,000 | 30% |
+
+The marginal relief mechanism ensures that a small income above a slab boundary does not result in disproportionate tax.
+
+### Health and Education Cess:
+4% on the income tax (after surcharge) is added as Health and Education Cess under both regimes.
+
+### Surcharge (under New Regime — Capped):
+- Rs 50 lakh to Rs 1 crore: 10%
+- Rs 1 crore to Rs 2 crore: 15%
+- Above Rs 2 crore: 25% (capped at 25% under new regime, unlike old regime where it can go up to 37%)
+
+## Section 3: Old Tax Regime — Slab Rates
+
+### Old Regime Slabs (for individuals below 60 years):
+
+| Income Range | Tax Rate |
+|-------------|----------|
+| Up to Rs 2,50,000 | Nil |
+| Rs 2,50,001 to Rs 5,00,000 | 5% |
+| Rs 5,00,001 to Rs 10,00,000 | 20% |
+| Above Rs 10,00,000 | 30% |
+
+### For Senior Citizens (60 to 79 years):
+- Basic exemption: Rs 3,00,000
+- 5% on Rs 3 lakh to Rs 5 lakh
+- 20% on Rs 5 lakh to Rs 10 lakh
+- 30% above Rs 10 lakh
+
+### For Super Senior Citizens (80 years and above):
+- Basic exemption: Rs 5,00,000
+- 20% on Rs 5 lakh to Rs 10 lakh
+- 30% above Rs 10 lakh
+
+### Surcharge (Old Regime):
+- Rs 50 lakh to Rs 1 crore: 10%
+- Rs 1 crore to Rs 2 crore: 15%
+- Rs 2 crore to Rs 5 crore: 25%
+- Above Rs 5 crore: 37%
+
+## Section 4: Section 87A — Rebate from Tax
+
+### New Regime (AY 2025-26 onwards):
+A tax rebate of up to Rs 25,000 is available if total income does not exceed Rs 7,00,000. This effectively means:
+- If income is up to Rs 7,00,000: Zero tax payable (tax liability up to Rs 25,000 is fully offset by rebate).
+- If income exceeds Rs 7,00,000: No rebate, full tax as per slabs applies.
+
+Note: The rebate applies to tax on total income (before cess). Special rate income like capital gains under Section 111A and 112A may not be eligible for the rebate — taxpayers with capital gains must check this carefully.
+
+### Old Regime (AY 2025-26):
+A tax rebate of up to Rs 12,500 is available if total income does not exceed Rs 5,00,000. Effectively means zero tax for income up to Rs 5 lakh in old regime.
+
+## Section 5: Standard Deduction
+
+Standard deduction is a flat deduction from salary/pension income without requiring any proof or documents.
+
+### New Regime:
+Standard deduction of Rs 75,000 available from AY 2025-26 (increased from Rs 50,000 in Budget 2024, effective from FY 2024-25).
+
+Family pensioners: Standard deduction of Rs 25,000 from family pension under new regime.
+
+### Old Regime:
+Standard deduction of Rs 50,000 from salary/pension income.
+
+Family pensioners: Standard deduction of Rs 15,000 from family pension.
+
+The increase in standard deduction under the new regime to Rs 75,000 is intended to make the new regime more attractive for salaried taxpayers.
+
+## Section 6: Deductions and Exemptions — What Is Available in Each Regime
+
+### Deductions/Exemptions NOT Available in New Regime:
+The following deductions and exemptions are NOT available if a taxpayer opts for the new tax regime:
+- Section 80C (PPF, ELSS, LIC premium, home loan principal, tuition fees, NSC, etc.)
+- Section 80CCC (pension fund)
+- Section 80CCD(1) (NPS own contribution, within 80C limit)
+- Section 80D (health insurance)
+- Section 80DD (disabled dependent)
+- Section 80DDB (specified disease treatment)
+- Section 80E (education loan interest)
+- Section 80EE / 80EEA (first-time home buyer interest)
+- Section 80G (donations)
+- Section 80GG (rent without HRA)
+- Section 80TTA (savings bank interest)
+- Section 80TTB (senior citizen interest)
+- Section 80U (self with disability)
+- HRA Exemption under Section 10(13A)
+- Leave Travel Allowance (LTA) under Section 10(5)
+- Children Education Allowance under Section 10(14)
+- Home Loan Interest deduction under Section 24(b) for self-occupied property
+- Loss from house property (set-off against other income limited to Rs 2 lakh in old regime; not available in new regime)
+- Set-off of brought-forward losses from house property
+
+### Deductions/Exemptions STILL Available in New Regime:
+Even under the new tax regime, the following benefits continue:
+- Standard deduction: Rs 75,000 (from AY 2025-26)
+- Section 80CCD(2): Employer's contribution to NPS — 10% of salary (14% for government employees)
+- Section 80JJAA: Additional deduction for employment of new employees
+- Section 80CCH: Deduction for investment in Agnipath Scheme (for Agniveers)
+- Gratuity exemption under Section 10(10)
+- Leave encashment on retirement under Section 10(10AA) — up to Rs 25 lakh
+- Commuted pension exemption under Section 10(10A)
+- Death-cum-retirement gratuity
+- Compensation received on voluntary retirement under Section 10(10C) — VRS
+- House Rent Allowance — NOT available (as mentioned above)
+- Transport allowances for specially-abled persons
+- Daily allowances for official tours (genuine reimbursements remain non-taxable)
+- Perquisites that are non-monetary or otherwise specifically exempt
+- Sukanya Samriddhi Yojana interest and maturity (exempt under Section 10(11A) — remains exempt)
+- PPF interest (exempt under Section 10(11) — remains exempt even in new regime)
+- Agriculture income (exempt under Section 10(1) — remains exempt)
+
+## Section 7: Break-Even Analysis — Which Regime Is Better?
+
+The decision depends on the total amount of deductions and exemptions a taxpayer can claim in the old regime vs the benefit of lower rates in the new regime.
+
+### General Break-Even Points (for common taxpayers, approximate):
+
+For a salaried individual with standard deduction only:
+- New regime is better in almost all cases if the only deduction is the standard deduction, because the new regime slabs are lower AND standard deduction under new regime is Rs 75,000 (vs Rs 50,000 in old).
+
+For taxpayers with significant deductions:
+- If total deductions (80C + 80D + HRA + housing loan interest + others) exceed approximately Rs 3.75 lakh (varies by income), the old regime may be beneficial.
+- The exact break-even depends on the income level.
+
+### Rule of Thumb Calculation:
+Compare:
+- Old Regime Tax: Tax on (Income − Standard Deduction Rs 50,000 − All Deductions) at old slab rates
+- New Regime Tax: Tax on (Income − Standard Deduction Rs 75,000) at new slab rates
+
+If Old Regime Tax < New Regime Tax: Stick with old regime.
+If New Regime Tax < Old Regime Tax: Choose new regime.
+
+### Common scenarios where New Regime is better:
+- Young salaried employee with minimal investments
+- Person not taking home loan
+- Person with low medical expenses (no parents needing coverage)
+- Employee where employer NPS contribution is significant (still deductible in new regime)
+
+### Common scenarios where Old Regime may still be better:
+- Taxpayer maxing out 80C (Rs 1.5 lakh), 80CCD(1B) (Rs 50K), 80D (Rs 75K+), and claiming HRA exemption (Rs 2 lakh+ in a metro city) and housing loan interest (Rs 2 lakh)
+- Total deductions well exceeding Rs 4-5 lakh make old regime favourable at higher income brackets
+
+## Section 8: How to Switch Between Regimes
+
+### Salaried Employees and Pensioners (No Business Income):
+- Can switch between old and new regime every year.
+- Must inform employer at the beginning of the year for TDS purposes.
+- The employer will default to the new regime if no instruction is given.
+- At the time of filing ITR, the salaried employee can choose either regime (even if different from what they told the employer — and any excess TDS will be refunded, or additional tax paid).
+
+### Business Income Taxpayers (Section 44AB, Business/Profession):
+- Once opted for the new regime, cannot switch back to old regime in subsequent years (except one time switch-back allowed).
+- Similarly, once a business taxpayer switches from new to old regime, they cannot switch back to new regime.
+- This restriction does NOT apply to salaried employees or those with no business income.
+
+### Form 10-IEA:
+From AY 2024-25, a salaried individual must file Form 10-IEA online on the income tax portal to opt OUT of the new regime (i.e., to choose the old regime). If no form is filed, the new regime applies automatically.
+
+Business income taxpayers also use Form 10-IEA to exercise or reverse their regime choice.
+
+## Section 9: Special Cases and Considerations
+
+### NRIs:
+New regime is available to non-residents under Section 115BAC(1A). NRIs do not have a basic exemption limit in the old regime if they have LTCG/STCG income, but the new regime slabs apply.
+
+### HUFs:
+The new regime is also available to HUFs under Section 115BAC. The break-even analysis applies similarly.
+
+### Companies and LLPs:
+The new regime as described (Section 115BAC) applies only to individuals and HUFs. Companies have a separate concessional tax rate under Section 115BAA (22% for existing companies) and Section 115BAB (15% for new manufacturing companies).
+
+### Capital Gains Income:
+Capital gains taxed at special rates (Section 111A at 20%, Section 112A at 12.5%, Section 112 at 12.5%) are computed separately and added to regular income for surcharge computation. Section 87A rebate may not apply to tax on capital gains under certain provisions (particularly STCG under 111A and LTCG under 112A under new regime — verify at time of filing based on latest CBDT clarifications).
+
+## Section 10: AY 2026-27 — Budget 2025 Changes
+
+Budget 2025 (presented February 1, 2025) proposed significant changes effective from AY 2026-27:
+- Under the new regime, income up to Rs 12 lakh is effectively tax-free due to enhanced Section 87A rebate of Rs 60,000 (covering tax on income up to Rs 12 lakh).
+- For salaried individuals: With standard deduction of Rs 75,000, no tax on salary income up to Rs 12,75,000 under new regime.
+- New slab structure for AY 2026-27 (new regime):
+  - Up to Rs 4,00,000: Nil
+  - Rs 4,00,001 to Rs 8,00,000: 5%
+  - Rs 8,00,001 to Rs 12,00,000: 10%
+  - Rs 12,00,001 to Rs 16,00,000: 15%
+  - Rs 16,00,001 to Rs 20,00,000: 20%
+  - Rs 20,00,001 to Rs 24,00,000: 25%
+  - Above Rs 24,00,000: 30%
+- The old regime remains unchanged for AY 2026-27.
+- These Budget 2025 changes are for Financial Year 2025-26, assessed in AY 2026-27.

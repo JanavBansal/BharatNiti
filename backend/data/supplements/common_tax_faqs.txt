@@ -1,0 +1,262 @@
+SUPPLEMENTARY KNOWLEDGE: 50 MOST FREQUENTLY ASKED INDIAN TAX QUESTIONS
+Assessment Year 2025-26 and AY 2026-27
+
+## Section 1: Salary and Employment Questions
+
+## Q1: I am a salaried employee. What is my basic exemption limit?
+
+Under the new tax regime (default from AY 2024-25), the basic exemption is Rs 3 lakh. Under the old tax regime, it is Rs 2.5 lakh (Rs 3 lakh for senior citizens aged 60-79, Rs 5 lakh for super senior citizens aged 80+). Additionally, under the new regime, the Section 87A rebate means zero tax on income up to Rs 7 lakh (AY 2025-26).
+
+## Q2: My employer is deducting more TDS than I think is correct. What should I do?
+
+Submit Form 12BB to your employer with details of all deductions you are eligible for — HRA, LTA, home loan interest, and investments under Chapter VI-A (80C, 80D, etc.). Your employer must recalculate TDS. If excess TDS is deducted, it will be refunded when you file your ITR.
+
+## Q3: I received a bonus this month and TDS jumped. Is that correct?
+
+Yes. TDS on salary is calculated at the average rate. When a bonus is paid, the employer re-estimates the annual income and recalculates TDS. The TDS in that particular month will be higher to recover the "shortfall" from earlier months. Over the year, total TDS should equal the total tax liability.
+
+## Q4: Can I claim Leave Travel Allowance (LTA) every year?
+
+No. LTA can be claimed for only 2 journeys in a block of 4 calendar years (not assessment years). The current block is 2022-2025. Only domestic travel by the shortest route by air (economy class), train (AC first class), or bus is eligible. Carry-over of one unclaimed LTA is allowed to the next block. LTA is NOT available under the new tax regime.
+
+## Q5: Is my PF (Provident Fund) withdrawal taxable?
+
+EPF withdrawal is tax-free if:
+- Service is 5 years or more (continuous with same or different employer), OR
+- Transfer to new employer's PF (no tax event)
+
+If withdrawn before 5 years of continuous service, the entire accumulated amount (employee contribution, employer contribution, and interest) is taxable in the year of withdrawal, and TDS at 10% is deducted. If PAN is not provided, TDS is at 34.608%.
+
+## Q6: Is my gratuity taxable?
+
+For private sector employees: Gratuity is exempt up to the LEAST of (a) Rs 20 lakh, (b) 15/26 × last drawn salary × completed years of service, (c) actual gratuity received. Amount above this limit is taxable.
+For government employees: Gratuity is fully exempt without any limit.
+
+## Q7: What is Form 16 and do I need it to file ITR?
+
+Form 16 is the TDS certificate issued by your employer annually (by June 15). It has two parts: Part A (TDS summary from TRACES) and Part B (salary computation, deductions claimed, tax computed). It is not mandatory to upload Form 16 while filing ITR, but it contains all the data needed to fill in ITR. You should verify that data matches Form 26AS.
+
+## Section 2: Freelancer and Self-Employed Questions
+
+## Q8: I am a freelancer. Which ITR form should I use?
+
+Use ITR-3 if you maintain books of accounts and are not under presumptive taxation. Use ITR-4 if your professional receipts are up to Rs 75 lakh and you opt for the presumptive scheme under Section 44ADA (declaring 50% of gross receipts as income). ITR-4 is simpler and requires no separate balance sheet.
+
+## Q9: Do I need to pay advance tax as a freelancer?
+
+Yes, if your total tax liability (after TDS) exceeds Rs 10,000 for the year. You must pay advance tax in installments: 15% by June 15, 45% by September 15, 75% by December 15, and 100% by March 15. Failure to pay results in interest under Section 234C. If you opt for presumptive taxation under Section 44ADA, you can pay 100% advance tax in one shot by March 15.
+
+## Q10: Can a freelancer claim home office expenses?
+
+Under the regular scheme (ITR-3 with books), yes — you can claim proportionate rent, electricity, internet, and other expenses for the portion of home used exclusively for business. You must maintain proper records. Under the presumptive scheme (44ADA), no separate deduction is allowed — 50% of gross receipts is the deemed income and that is final.
+
+## Q11: Do I need to charge GST as a freelancer?
+
+If your annual revenue from services exceeds Rs 20 lakh (Rs 10 lakh in special category states), you must register for GST and charge 18% GST (standard rate for professional services). If you serve exclusively export clients (foreign companies), your export services are zero-rated, so no GST is charged to clients but you may claim ITC refund. Register under GST and file returns monthly/quarterly.
+
+## Q12: My client deducted 10% TDS on my professional fees. Can I get a refund?
+
+Yes. The TDS deducted by your client is visible in your Form 26AS. When you compute your total tax liability on annual income and file your ITR, the TDS credit is applied. If TDS deducted is more than your actual tax liability, the excess is refunded by the Income Tax Department, usually within 3-4 months of filing.
+
+## Section 3: Business and Small Business Questions
+
+## Q13: My business turnover is Rs 80 lakh. Do I need a tax audit?
+
+Under Section 44AB, a tax audit is required if turnover exceeds Rs 1 crore (for businesses). However, if more than 95% of transactions are digital, the threshold is Rs 10 crore. Additionally, if you opt for presumptive taxation under Section 44AD (8%/6% of turnover), you are exempt from audit even above Rs 1 crore (up to Rs 3 crore limit for 44AD). If you declare income lower than the presumptive amount under 44AD, a tax audit is required.
+
+## Q14: What is the difference between CGST and IGST?
+
+CGST (Central GST) is levied by the central government on intra-state (within the same state) supply of goods and services. IGST (Integrated GST) is levied on inter-state (between different states) supply. For intra-state supply, both CGST and SGST apply at half the total rate each. For inter-state, full IGST applies.
+
+## Q15: What is GST composition scheme and who should use it?
+
+Small businesses with turnover up to Rs 1.5 crore (goods) can opt for the Composition Scheme and pay just 1% GST (for goods traders/manufacturers), 5% for restaurants, or 6% for service providers. You cannot claim ITC, cannot make inter-state sales, and cannot issue tax invoices to customers. Best for businesses that sell retail (B2C) and buy from registered suppliers, so ITC is less critical.
+
+## Q16: I received cash of Rs 2 lakh. Is this taxable?
+
+Receiving cash above Rs 2 lakh from a single person in a day (or in a single transaction or from a single person for a single occasion) is prohibited under Section 269ST of the Income Tax Act. Violation leads to a penalty equal to the amount received. Income from any source (whether cash or otherwise) is taxable at applicable rates irrespective of mode of receipt.
+
+## Section 4: Capital Gains Questions
+
+## Q17: I sold my house after 3 years. What tax do I pay?
+
+Since the holding period is more than 24 months, it is a Long-Term Capital Gain (LTCG) on immovable property. Post Budget 2024, LTCG on property is taxed at 12.5% WITHOUT indexation (for property sold after July 23, 2024). However, for resident individuals/HUFs, you have the choice to apply the old method (20% with indexation) if the property was acquired before July 23, 2024 and that works out to a lower tax. You may also claim exemption under Section 54 (invest in new house) or Section 54EC (invest in NHAI/REC bonds up to Rs 50 lakh within 6 months).
+
+## Q18: I sold mutual fund units. How is it taxed?
+
+For equity mutual funds:
+- If held more than 12 months: LTCG at 12.5% on gains exceeding Rs 1.25 lakh per year (Section 112A).
+- If held 12 months or less: STCG at 20% (Section 111A).
+For debt mutual funds (purchased AFTER April 1, 2023): Always taxable at slab rates regardless of holding period.
+For debt mutual funds (purchased BEFORE April 1, 2023): LTCG (36 months holding) at 12.5% without indexation; STCG at slab rates.
+
+## Q19: I received shares as inheritance. How do I calculate capital gains when I sell?
+
+The cost of acquisition is the cost at which the original owner purchased the shares. If purchased before April 1, 2001, you can use the Fair Market Value (FMV) as of January 31, 2018 as the cost for equity (grandfathering for LTCG). The period of holding includes the period the original owner held the shares. No tax on inheritance itself (gift/inheritance from relatives is exempt under Section 56(2)).
+
+## Q20: Can I adjust capital loss from shares against income from salary?
+
+No. Capital losses can only be set off against capital gains. Short-term capital losses (STCL) can be set off against both STCG and LTCG. Long-term capital losses (LTCL) can be set off only against LTCG. Capital losses cannot be set off against salary, business income, or other income.
+
+## Q21: I reinvested LTCG in a new house. Do I still need to pay tax?
+
+Not if you comply with Section 54 conditions: sell a residential house (held > 24 months), and purchase a new residential house within 1 year before or 2 years after the sale (or construct within 3 years). The exemption equals the capital gains amount invested. Unused gains must be deposited in CGAS before the ITR due date. The new house should not be sold within 3 years.
+
+## Section 5: NRI (Non-Resident Indian) Questions
+
+## Q22: I am an NRI. Do I need to file an ITR in India?
+
+An NRI must file ITR in India if they have taxable income in India exceeding the basic exemption limit. Income from Indian sources (salary for work done in India, rental income from Indian property, capital gains from Indian assets, interest on Indian bank accounts, dividend from Indian companies) is taxable in India. Income earned and received entirely abroad is NOT taxable in India for NRIs.
+
+## Q23: What is TRC (Tax Residency Certificate) and why do NRIs need it?
+
+A TRC is a certificate issued by the tax authority of the country of residence confirming that the person is a tax resident of that country. NRIs need a TRC to claim benefits under Double Taxation Avoidance Agreements (DTAA) that India has with various countries. Without a TRC, DTAA benefits cannot be claimed. The TRC must be submitted to the Indian payer (deductor) in Form 10F along with the TRC.
+
+## Q24: What are the TDS rates on NRI income from India?
+
+NRI income from India is subject to higher TDS:
+- Rent from property: TDS at 30% (plus surcharge and cess) — paid by tenant.
+- Capital gains: At applicable rates (12.5% LTCG, 20% STCG for equity; 12.5% LTCG for other assets; slab rate STCG for other assets).
+- Interest: 30% (unless reduced by DTAA).
+- Dividends: 20% (unless reduced by DTAA).
+NRIs can apply for lower TDS certificate under Section 197 or claim refund via ITR.
+
+## Q25: Can an NRI claim deductions under 80C, 80D, etc.?
+
+NRIs can claim deductions under Chapter VI-A (old regime), subject to conditions. For 80C: Only PPF (cannot open new account as NRI), ELSS, LIC, NSC, and housing loan principal are typically available. NRIs cannot invest in PPF after becoming NRI but existing accounts can be maintained till maturity. NRIs can file ITR under the old regime and claim eligible deductions.
+
+## Section 6: Investment Questions
+
+## Q26: Is dividend income taxable?
+
+Yes. Dividends from Indian companies are taxable in the hands of shareholders at their applicable slab rate (old regime) or new regime rates. TDS is deducted by the company at 10% on dividends above Rs 5,000 in a year. For NRIs, TDS is at 20%. Previously (before FY 2020-21), dividends were exempt in the shareholder's hands under Section 10(34) and companies paid Dividend Distribution Tax (DDT) — this system was abolished.
+
+## Q27: Is PPF interest taxable?
+
+No. Interest earned on PPF (Public Provident Fund) is fully exempt from income tax under Section 10(11). The maturity amount is also tax-free. PPF enjoys EEE (Exempt-Exempt-Exempt) status: investment is deductible under 80C, interest is exempt, and maturity is exempt.
+
+## Q28: What are the tax implications of SIPs in mutual funds?
+
+Each SIP installment is treated as a separate investment with its own purchase date. When you redeem, each unit is taxed based on its individual holding period — units held for more than 12 months (equity funds) are LTCG (12.5% above Rs 1.25 lakh), units held for 12 months or less are STCG (20%). This requires careful tracking of purchase dates and redemption sequence (FIFO — First In, First Out is the default method).
+
+## Q29: Is the maturity amount from life insurance (LIC) taxable?
+
+It depends on the premium-to-sum-assured ratio:
+- Policies issued after April 1, 2012: If annual premium exceeds 10% of sum assured, the maturity amount is taxable.
+- Policies issued after April 1, 2023 (non-ULIPs): If annual premium exceeds Rs 5 lakh, the maturity amount is taxable at slab rates.
+- ULIPs issued after February 1, 2021: Taxable if annual premium exceeds Rs 2.5 lakh.
+- All other policies: Maturity fully exempt under Section 10(10D).
+Death benefits from life insurance are always fully exempt from tax.
+
+## Q30: Is interest on NRE (Non-Resident External) savings account taxable?
+
+No. Interest earned on NRE savings accounts and NRE fixed deposits is fully exempt from income tax in India under Section 10(4). This exemption applies as long as the person maintains NRI status. Once the person becomes a resident, interest on NRE accounts becomes taxable from the next financial year.
+
+## Section 7: House Property Questions
+
+## Q31: I have rented out my house. How is rental income taxed?
+
+Rental income is taxed under the head "Income from House Property." From the gross rent received, you can deduct:
+1. Municipal taxes actually paid during the year.
+2. Standard deduction of 30% of net annual value (NAV = gross rent minus municipal taxes) — this covers repairs, maintenance, etc.
+3. Home loan interest under Section 24(b) — no limit for let-out property.
+The balance is taxable income.
+
+## Q32: I live in my house (self-occupied). Can I claim home loan interest?
+
+Yes, under Section 24(b), interest on home loan for a self-occupied property is deductible up to Rs 2,00,000 per year under the old tax regime. This deduction is NOT available under the new tax regime. If the property is under construction, interest during the construction period can be claimed in 5 equal installments starting from the year of completion (called pre-construction interest).
+
+## Q33: I have two houses. How are they taxed?
+
+From AY 2020-21, a taxpayer can declare any TWO residential properties as self-occupied. For the remaining properties (if any), "deemed rent" (municipal valuation or fair rent, whichever is higher) is taxable as notional income. The deductions on self-occupied properties under Section 24(b) are limited to Rs 2 lakh combined across the two self-occupied properties in the old regime.
+
+## Q34: I sold my house and bought another. Do I have to pay tax on the gain?
+
+If you qualify for Section 54 exemption (both old and new house are residential property, new house purchased within 1 year before or 2 years after sale, not sold within 3 years), the capital gains (up to the cost of new house) are exempt. If new house cost < capital gains, the difference is taxable. Section 54EC (bonds) is an alternative if you don't want to buy a house.
+
+## Section 8: Tax Notices and Compliance Questions
+
+## Q35: I received a notice from the Income Tax Department. What should I do?
+
+First, check the type of notice: Section 143(1) is a processing communication (minor corrections), Section 143(2) is a scrutiny notice (detailed examination required), Section 148 is for reopening of assessment. Do NOT ignore any notice. Respond by the due date through the e-proceedings portal on incometax.gov.in. Consult a chartered accountant for scrutiny notices. Many notices are informational and require simple online responses.
+
+## Q36: What is the penalty for not filing ITR when mandatory?
+
+Late filing fee under Section 234F: Rs 5,000 if income exceeds Rs 5 lakh, Rs 1,000 if below Rs 5 lakh. Additionally, interest under Section 234A at 1% per month on any tax due applies. If ITR is not filed at all, the department can issue notice under Section 142(1) and proceed to best judgment assessment.
+
+## Q37: I discovered an error in my last year's ITR. Can I correct it?
+
+You can file an Updated Return (ITR-U) under Section 139(8A) within 2 years from the end of the relevant assessment year (extended to 4 years under Budget 2025 for certain cases). An additional tax of 25% (if filed within 12 months) or 50% (12-24 months) or 60% (24-48 months) of tax and interest must be paid. You cannot use ITR-U to claim a refund or reduce tax liability — it is only for disclosing additional income.
+
+## Q38: What is Form 15G and 15H?
+
+Form 15G is a self-declaration form submitted to banks by individuals (below 60 years) whose total income is below the taxable limit, to prevent TDS deduction on interest. Form 15H is for senior citizens (60+ years). These forms are submitted at the beginning of the financial year and must be renewed annually. Filing a false form 15G/15H attracts prosecution under Section 277.
+
+## Section 9: Deductions and Tax Savings Questions
+
+## Q39: I invested Rs 1.5 lakh in ELSS in January. Can I claim 80C deduction?
+
+Yes, investments in ELSS in January are eligible for 80C deduction for the current financial year (April to March). The investment date must fall within the financial year (April 1 to March 31). However, ELSS has a 3-year lock-in from each investment date, so January investments are locked until January three years later.
+
+## Q40: Can I claim 80C deduction for my spouse's LIC premium?
+
+Yes. Section 80C allows deduction for life insurance premium paid for self, spouse, and children. However, premium paid for parents, siblings, or in-laws is NOT eligible under 80C. Only one person (the taxpayer) claims the deduction — the person who pays the premium.
+
+## Q41: I pay rent to my parents and they own the house. Can I claim HRA?
+
+Yes, provided the arrangement is genuine. Your parents must own the property, you must actually pay rent (preferably via bank transfer), your parents must include the rent received in their income tax return, and you must live in the property. If all these conditions are met, you can claim HRA exemption and your parents report rental income. Note: Rent paid to a spouse is generally not accepted.
+
+## Q42: I have a home loan for an under-construction property. When can I claim deductions?
+
+Section 80C deduction on principal repayment: Can be claimed only after the construction is complete and possession is taken.
+Section 24(b) interest deduction: Interest paid during the construction period (pre-construction interest) can be claimed in 5 equal installments starting from the year in which construction is completed. Interest paid after completion is claimed in full (up to Rs 2 lakh for self-occupied property) from the year of payment.
+
+## Section 10: TDS and Advance Tax Questions
+
+## Q43: My bank deducted TDS on FD interest. Do I still need to show it in ITR?
+
+Yes. All income (including interest on FDs) must be reported in ITR, regardless of whether TDS was deducted. The TDS deducted appears as a credit in Form 26AS and is adjusted against your total tax liability. If your marginal tax rate is higher than 10% (the TDS rate), you will owe additional tax; if lower, you get a refund.
+
+## Q44: What happens if I don't pay advance tax?
+
+If you fail to pay advance tax when liable (tax liability > Rs 10,000), you will be charged:
+- Section 234C: 1% per month interest on the shortfall for each quarter's installment.
+- Section 234B: If advance tax paid is less than 90% of assessed tax, 1% per month interest on the shortfall from April 1 of the AY until assessment or payment.
+Both interest charges are calculated separately and can add up significantly. Pay advance tax to avoid these.
+
+## Q45: I deducted TDS from contractor payment. When must I deposit it?
+
+By the 7th of the following month (e.g., TDS deducted in September must be deposited by October 7). For March, the deadline is April 30. Delayed deposit attracts 1.5% per month interest from the date of deduction to the date of payment. File the TDS return (Form 26Q) within the due date for the quarter.
+
+## Section 11: Miscellaneous and Special Situations
+
+## Q46: Are gifts received taxable?
+
+Gifts received are taxable under Section 56(2)(x) if: total value of all gifts from non-relatives exceeds Rs 50,000 in a year (the entire amount, not just the excess, is taxable). Gifts from specified relatives (parents, siblings, spouse, lineal ascendants/descendants, spouse's siblings, spouse of siblings, spouse's lineal ascendants/descendants) are fully exempt. Gifts received on marriage, through will/inheritance, or from local authority/trust are also exempt.
+
+## Q47: I work from home. Can I claim anything extra?
+
+If you are a salaried employee: No special deductions for work-from-home expenses under the old or new regime (standard deduction covers all such expenses).
+If you are self-employed/business owner: Proportionate home office expenses (rent, electricity, internet) can be claimed as business expenses if you maintain proper records (ITR-3). Under presumptive taxation (44ADA/44AD), no separate deduction as profits are deemed.
+
+## Q48: What is the tax on crypto and virtual digital assets?
+
+Under Section 115BBH (introduced from FY 2022-23): Tax on income from transfer of Virtual Digital Assets (VDA) including crypto, NFTs, and other digital assets is at a flat 30% (plus cess and surcharge). Key points:
+- No deduction allowed (other than cost of acquisition).
+- Losses from VDA cannot be set off against any other income.
+- Losses from one VDA cannot be set off against gains from another VDA.
+- TDS of 1% is deducted by exchanges on transfers above Rs 10,000 per transaction (Rs 50,000 for specified persons like salaried below threshold) under Section 194S.
+
+## Q49: Are retirement benefits like PPF, NPS, gratuity all tax-free?
+
+Not entirely. Summary:
+- PPF: Fully exempt (EEE — investment deductible, interest exempt, maturity exempt).
+- NPS: Investment in Tier I is deductible (80C / 80CCD(1B)). At retirement, 60% withdrawal is tax-free; 40% must be used for annuity (annuity income is taxable as salary/pension).
+- Gratuity: Exempt up to Rs 20 lakh for private sector (full exemption for government employees).
+- VRS: Exempt up to Rs 5 lakh under Section 10(10C).
+- Leave encashment at retirement: Exempt up to Rs 25 lakh (government employees: full exemption).
+- EPF withdrawal after 5 years of continuous service: Fully exempt.
+
+## Q50: I have income from both salary and freelancing. How do I file?
+
+File ITR-3 (if maintaining books and not opting for presumptive) or ITR-4 (if opting for Section 44ADA presumptive scheme for professional income). You must report salary income under "Income from Salaries" and professional income under "Profits and Gains of Business or Profession" in the same ITR. You can claim standard deduction of Rs 50,000 (old regime) on salary. Both incomes are combined to compute total income and tax. Advance tax obligation applies if total tax liability (net of TDS) exceeds Rs 10,000.

@@ -1,0 +1,217 @@
+SUPPLEMENTARY KNOWLEDGE: CHAPTER VI-A DEDUCTIONS — SECTION 80C TO 80U
+Assessment Year 2025-26 and AY 2026-27
+
+## Section 1: Overview of Chapter VI-A Deductions
+
+Chapter VI-A of the Income Tax Act, 1961 provides various deductions from gross total income that reduce the taxable income of a taxpayer. These deductions are available only under the OLD tax regime. Most Chapter VI-A deductions are NOT available if the taxpayer opts for the new tax regime under Section 115BAC, except for specific deductions mentioned in Section 10.
+
+The key point: deductions reduce gross total income to arrive at total income, which is then subject to tax at applicable slab rates.
+
+## Section 2: Section 80C — The Most Important Deduction
+
+### Overview:
+Section 80C allows deductions up to Rs 1,50,000 per year for investments and expenditures in specified instruments. The aggregate deduction under Sections 80C + 80CCC + 80CCD(1) combined cannot exceed Rs 1,50,000.
+
+### Eligible Investments and Expenditures Under Section 80C:
+
+**Provident Fund Contributions:**
+- Employee Provident Fund (EPF): Employee's contribution is eligible. Employer's contribution is not eligible under 80C (it is exempt under Section 10(12) separately).
+- Public Provident Fund (PPF): Contributions to PPF account are eligible. PPF has a 15-year tenure and interest is tax-free.
+- Voluntary Provident Fund (VPF): Additional EPF contributions above mandatory 12% are eligible.
+
+**Life Insurance Premiums:**
+- Life insurance premium paid for self, spouse, or children. Premium must not exceed 10% of the sum assured (for policies issued after April 1, 2012) or 20% (for policies issued before April 1, 2012). If premium exceeds these limits, only the proportionate amount is eligible.
+- Note: Maturity proceeds from life insurance are exempt under Section 10(10D) subject to conditions; if annual premium exceeds Rs 5 lakh (for non-ULIP policies issued after April 1, 2023), maturity proceeds become taxable.
+
+**Equity Linked Savings Scheme (ELSS):**
+- Mutual fund schemes with a 3-year lock-in period that invest in equities. Returns are linked to market performance. LTCG above Rs 1.25 lakh on redemption is taxable at 12.5%.
+
+**National Savings Certificate (NSC):**
+- 5-year tenure, fixed interest rate set by government. Interest accrued annually is deemed reinvested and eligible for 80C deduction (except in the last year when it is taxable). Issued by post offices.
+
+**Tax Saving Fixed Deposits:**
+- 5-year fixed deposits with banks or post offices. Interest earned is taxable. Premature withdrawal is not allowed.
+
+**Senior Citizens Savings Scheme (SCSS):**
+- For individuals aged 60+ (or 55+ for VRS/superannuation retirees). 5-year tenure (extendable by 3 years). Interest is taxable. Eligible under 80C.
+
+**Sukanya Samriddhi Yojana (SSY):**
+- For girl child below 10 years of age at account opening. Account can be opened by parent/guardian. Investments up to Rs 1.5 lakh per year are eligible. Interest and maturity amount are fully exempt (EEE — Exempt-Exempt-Exempt).
+
+**National Pension System (NPS) Tier I:**
+- Employee's own contribution to NPS Tier I is eligible under 80C (within the Rs 1.5 lakh limit). Additional deduction under 80CCD(1B) is over and above this.
+
+**Home Loan Principal Repayment:**
+- Principal repayment of home loan for a house in India is eligible under 80C (within the overall Rs 1.5 lakh limit). Stamp duty and registration fees paid for the house are also eligible in the year of payment.
+
+**Children's Tuition Fees:**
+- Tuition fees paid to any school, college, university, or educational institution in India for full-time education of up to 2 children. Only tuition fees are eligible — not development fees, donations, or any other fees.
+
+**Unit Linked Insurance Plans (ULIP):**
+- Premiums paid for ULIPs are eligible subject to the 10%/20% cap on sum assured.
+
+**Post Office Time Deposit (5-year):**
+- 5-year post office time deposit is eligible under 80C. Interest is taxable.
+
+**Infrastructure Bonds (notified):**
+- Bonds issued by infrastructure companies notified by the government (rare in recent years).
+
+## Section 3: Section 80CCC — Pension Fund Contribution
+
+Contributions to pension funds offered by insurance companies (like LIC's pension plans) are eligible for deduction under Section 80CCC. However, the deduction under 80CCC is subsumed within the overall limit of Rs 1,50,000 applicable to 80C + 80CCC + 80CCD(1).
+
+Pension received from these funds is taxable in the year of receipt.
+
+## Section 4: Section 80CCD — National Pension System (NPS)
+
+### Section 80CCD(1) — Employee's Own Contribution:
+- Deduction for own contribution to NPS Tier I.
+- Maximum: 10% of salary (basic + DA) for employees, or 20% of gross total income for self-employed.
+- This deduction falls within the overall Rs 1.5 lakh limit of 80C + 80CCC + 80CCD(1).
+
+### Section 80CCD(1B) — Additional NPS Deduction:
+- This is a separate and additional deduction of up to Rs 50,000 for own contribution to NPS Tier I.
+- This is OVER AND ABOVE the Rs 1.5 lakh limit under Section 80C.
+- Net maximum through NPS: Rs 1,50,000 (within 80C limit) + Rs 50,000 (80CCD(1B)) = Rs 2,00,000 total NPS-related deduction possible (if 80C is fully used for NPS and then additional 80CCD(1B) is claimed).
+- Section 80CCD(1B) is available even under the new tax regime for own contributions.
+
+### Section 80CCD(2) — Employer's Contribution to NPS:
+- Deduction for employer's contribution to employee's NPS Tier I account.
+- For Central Government employees: up to 14% of salary (basic + DA).
+- For all other employees: up to 10% of salary (basic + DA).
+- No upper limit in rupee terms for individual employees; the % cap applies.
+- This deduction is NOT subject to the Rs 1.5 lakh limit. It is completely over and above all other deductions.
+- Section 80CCD(2) is available even under the new tax regime.
+
+## Section 5: Section 80D — Medical Insurance Premiums
+
+### Coverage:
+Deduction for premiums paid for health insurance (Mediclaim) for self, spouse, dependent children, and parents.
+
+### Limits (per financial year):
+- Self, spouse, and dependent children (below 60 years): Rs 25,000
+- Self, spouse, and dependent children (senior citizen — 60 years or above): Rs 50,000
+- Parents (below 60 years): additional Rs 25,000
+- Parents (senior citizen — 60 years or above): additional Rs 50,000
+
+### Maximum Total Deduction:
+- If taxpayer and parents both below 60: Rs 25,000 + Rs 25,000 = Rs 50,000
+- If taxpayer below 60, parents senior citizen: Rs 25,000 + Rs 50,000 = Rs 75,000
+- If taxpayer is senior citizen, parents also senior citizen: Rs 50,000 + Rs 50,000 = Rs 1,00,000
+
+### Additional Provisions:
+- Preventive health check-up: Up to Rs 5,000 within the above limits (can be paid in cash).
+- Premium must be paid by any mode OTHER than cash (except preventive health check-up).
+- CGHS (Central Government Health Scheme) contribution and similar government health schemes are also eligible under Section 80D.
+
+## Section 6: Section 80DD — Medical Treatment of Disabled Dependent
+
+Deduction for expenditure incurred for medical treatment, training, and rehabilitation of a dependent with disability.
+
+### Conditions:
+- The disabled person must be a dependent (spouse, children, parents, siblings).
+- The disability must be certified by a medical authority as specified.
+
+### Deduction Amounts (flat deduction, not actual expenditure):
+- Normal disability (40% or more): Rs 75,000
+- Severe disability (80% or more): Rs 1,25,000
+
+The deduction is available as a flat amount regardless of actual expenditure. If the dependent opens an annuity/insurance plan for the disabled person, the amount paid is eligible under this section.
+
+## Section 7: Section 80DDB — Medical Treatment for Specified Diseases
+
+Deduction for actual expenditure on medical treatment of specified diseases for self or dependents.
+
+### Specified Diseases include:
+Neurological diseases (Dementia, Dystonia Musculorum Deformans, Motor Neuron Disease, Ataxia, Chorea, Hemiballismus, Aphasia, Parkinson's Disease), Malignant Cancers, Full-blown AIDS, Chronic Renal failure, Haematological disorders (Haemophilia, Thalassaemia).
+
+### Deduction Limits:
+- For individuals below 60 years: Rs 40,000 or actual amount spent, whichever is lower
+- For senior citizens (60 years or above): Rs 1,00,000 or actual amount spent, whichever is lower
+
+Certificate from a specialist in a government hospital is required.
+
+## Section 8: Section 80E — Interest on Education Loan
+
+Deduction for interest paid on loan taken for higher education for self, spouse, children, or students for whom the taxpayer is a legal guardian.
+
+### Key Points:
+- No upper limit on the deduction amount.
+- Deduction is only for the interest component, not the principal.
+- Available for 8 consecutive assessment years starting from the year in which repayment of interest begins.
+- Loan must be taken from a financial institution or an approved charitable institution.
+- Higher education means full-time study after Class 12 for any course (including vocational courses) in India or abroad.
+
+## Section 9: Section 80EE and 80EEA — First-Time Home Buyer Interest
+
+### Section 80EE:
+Additional deduction of up to Rs 50,000 on home loan interest for first-time home buyers. Conditions: Loan sanctioned between April 1, 2016 and March 31, 2017, loan amount ≤ Rs 35 lakh, property value ≤ Rs 50 lakh.
+
+### Section 80EEA:
+Additional deduction of up to Rs 1,50,000 on home loan interest for first-time home buyers in affordable housing. Conditions: Loan sanctioned between April 1, 2019 and March 31, 2022, stamp duty value of property ≤ Rs 45 lakh, taxpayer must not own any other residential house on the date of sanction.
+
+Both 80EE and 80EEA are in addition to the Rs 2 lakh deduction available under Section 24(b) for self-occupied property. These deductions are available under the old regime only.
+
+## Section 10: Section 80G — Donations to Charitable Organizations
+
+Deduction for donations to specified funds, institutions, and charitable organizations.
+
+### Types of Deductions:
+- **100% deduction without any qualifying limit**: PM Relief Fund, PM CARES Fund, National Defence Fund, Chief Minister's Relief Fund (notified), National Foundation for Communal Harmony, etc.
+- **50% deduction without any qualifying limit**: PM Drought Relief Fund, Jawaharlal Nehru Memorial Fund, Indira Gandhi Memorial Trust, Rajiv Gandhi Foundation.
+- **100% deduction subject to qualifying limit**: Donations to approved scientific research institutions, universities, etc.
+- **50% deduction subject to qualifying limit**: General charitable institutions.
+
+### Qualifying Limit:
+For donations subject to the qualifying limit: The deduction is limited to 10% of adjusted gross total income (gross total income minus long-term capital gains, short-term capital gains under Section 111A, and deductions under Chapter VI-A except Section 80G).
+
+### Documentation:
+- Donation must be to institutions with valid 80G registration certificate.
+- Cash donations above Rs 2,000 are not eligible. Payment must be by cheque, DD, or electronic transfer.
+
+## Section 11: Section 80GG — Rent Paid When No HRA
+
+Deduction for rent paid by individuals who do not receive HRA. The deduction is the LEAST of:
+- Rs 5,000 per month (Rs 60,000 per year)
+- 25% of adjusted total income
+- Rent paid minus 10% of adjusted total income
+
+Conditions: Taxpayer or spouse/minor child should not own residential accommodation at the place of employment. Form 10BA must be filed. Not available in the new tax regime.
+
+## Section 12: Section 80TTA and 80TTB — Interest Income
+
+### Section 80TTA (for non-senior citizens):
+Deduction up to Rs 10,000 for interest income from savings bank accounts (not fixed deposits, recurring deposits, or time deposits). Available for individuals and HUFs below 60 years.
+
+### Section 80TTB (for senior citizens — 60 years or above):
+Deduction up to Rs 50,000 for interest income from: savings bank accounts, fixed deposits, recurring deposits with banks, post offices, or cooperative banks. Section 80TTB REPLACES Section 80TTA for senior citizens — they cannot claim both.
+
+Both 80TTA and 80TTB are available only under the old tax regime.
+
+## Section 13: Section 80U — Person with Disability
+
+Deduction for a resident individual who is personally certified as having a disability (as per Person with Disabilities Act).
+
+### Deduction Amounts (flat, regardless of actual expenditure):
+- Normal disability (40% or more): Rs 75,000
+- Severe disability (80% or more): Rs 1,25,000
+
+Certificate from a medical authority is required. Note: Section 80DD covers a disabled DEPENDENT; Section 80U covers the taxpayer themselves having a disability.
+
+## Section 14: Summary Table of Key Deductions
+
+| Section | Purpose | Limit |
+|---------|---------|-------|
+| 80C | Investments (PPF, ELSS, LIC, EPF etc.) | Rs 1,50,000 |
+| 80CCD(1B) | Additional NPS own contribution | Rs 50,000 |
+| 80CCD(2) | Employer NPS contribution | 10%/14% of salary |
+| 80D | Health insurance premiums | Up to Rs 1,00,000 |
+| 80DD | Disabled dependent | Rs 75,000 / Rs 1,25,000 |
+| 80DDB | Specified disease treatment | Rs 40,000 / Rs 1,00,000 |
+| 80E | Education loan interest | No limit (8 years) |
+| 80EEA | First-time home buyer interest | Rs 1,50,000 |
+| 80G | Charitable donations | 50%/100% (some capped) |
+| 80GG | Rent (no HRA) | Rs 5,000/month or less |
+| 80TTA | Savings bank interest | Rs 10,000 |
+| 80TTB | Senior citizen interest | Rs 50,000 |
+| 80U | Taxpayer with disability | Rs 75,000 / Rs 1,25,000 |

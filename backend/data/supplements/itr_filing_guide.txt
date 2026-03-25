@@ -1,0 +1,232 @@
+SUPPLEMENTARY KNOWLEDGE: ITR FILING PRACTICAL GUIDE
+Assessment Year 2025-26 and AY 2026-27
+
+## Section 1: Overview — Why File an Income Tax Return?
+
+An Income Tax Return (ITR) is a form filed with the Income Tax Department disclosing income earned during a financial year and tax paid on that income. Filing an ITR is mandatory if:
+- Total income (before deductions) exceeds the basic exemption limit (Rs 3 lakh under new regime, Rs 2.5 lakh under old regime).
+- Total income exceeds the basic exemption limit even after deductions.
+- The person has deposited more than Rs 1 crore in bank accounts.
+- Has paid electricity bills exceeding Rs 1 lakh in the year.
+- Has incurred foreign travel expenditure > Rs 2 lakh.
+- Has income from foreign assets or foreign income.
+- Is a company or firm (mandatory regardless of income).
+
+Even if not mandatory, filing an ITR is advisable for: claiming refund of excess TDS deducted, carrying forward capital losses, applying for visa, loans, or tenders, and as proof of income.
+
+## Section 2: Which ITR Form to Use
+
+### ITR-1 (SAHAJ):
+For resident individuals (not for NRIs, companies, or HUFs) with:
+- Income from salary or pension
+- Income from one house property (not loss carry forward from previous years)
+- Other income (interest, family pension) — but NOT capital gains
+- Total income up to Rs 50 lakh
+- Agricultural income up to Rs 5,000
+
+Not eligible if: Director of a company, holds unlisted equity shares, has foreign assets/income, has more than one house property, has capital gains, has business/professional income, or has income subject to special rate tax.
+
+### ITR-2:
+For individuals and HUFs with:
+- Income from salary, pension, house property (multiple properties allowed), capital gains, foreign income, and other sources
+- NOT business income or professional income
+- Directors of companies must file ITR-2 (or ITR-3)
+- Persons with foreign assets or income from foreign sources
+
+No income limit. NRIs can also file ITR-2.
+
+### ITR-3:
+For individuals and HUFs with income from:
+- Business or profession (other than presumptive taxation)
+- Also covers all income types covered by ITR-1 and ITR-2
+- Directors of companies
+- Partners in partnership firms (income from firm is included)
+
+This is the most comprehensive form, applicable when a person has any income from business or profession and is not opting for presumptive taxation under Section 44AD/44ADA.
+
+### ITR-4 (SUGAM):
+For individuals, HUFs, and partnership firms (but not LLPs) with:
+- Business income under presumptive taxation scheme (Section 44AD — 8%/6% of turnover)
+- Professional income under Section 44ADA (50% of gross receipts)
+- Transport income under Section 44AE
+- Total income up to Rs 50 lakh
+- Not for companies, NRIs, or those with foreign income
+
+Not applicable if: Director of a company, holds unlisted equity shares, or has capital gains income.
+
+### ITR-5:
+For firms, LLPs, Association of Persons (AOPs), Body of Individuals (BOIs), artificial juridical persons. Not for companies.
+
+### ITR-6:
+For companies other than companies claiming exemption under Section 11 (religious/charitable trust). Filed only electronically.
+
+### ITR-7:
+For persons required to furnish returns under Sections 139(4A) [charitable/religious trusts], 139(4B) [political parties], 139(4C) [research associations, news agencies], 139(4D) [universities, colleges].
+
+## Section 3: Due Dates for Filing ITR
+
+The due dates for filing ITR for AY 2025-26 (Financial Year 2024-25) are:
+
+- **July 31, 2025**: Individuals, HUFs, AOPs, BOIs (where accounts do not need to be audited). This is the standard deadline for salaried employees, individuals with capital gains, rental income, etc.
+
+- **October 31, 2025**: Taxpayers whose accounts are required to be audited under any law (e.g., businesses with turnover > Rs 1 crore requiring audit under Section 44AB, professionals with gross receipts > Rs 50 lakh, etc.).
+
+- **November 30, 2025**: Taxpayers with international transactions or specified domestic transactions who need Transfer Pricing audit report under Section 92E.
+
+- **December 31, 2025** (or as extended): Revised return or belated return deadline (equal to the end of the relevant Assessment Year).
+
+Note: The government frequently extends these deadlines. The dates above are the statutory deadlines from the Act; actual deadlines may be extended by CBDT notification.
+
+## Section 4: Revised Return — Section 139(5)
+
+If an assessee discovers an omission or wrong statement in the original ITR (whether filed on time or belatedly), they can file a revised return.
+
+### Key Conditions:
+- Can be filed before the expiry of the relevant Assessment Year (December 31 of the AY) or before completion of assessment, whichever is earlier.
+- For AY 2025-26: Revised return can be filed up to December 31, 2025.
+- There is no limit on the number of revisions.
+- The revised return supersedes the original return in all respects.
+
+### Common Reasons for Revision:
+- Income from interest not included originally
+- Capital gains not properly computed
+- Wrong ITR form used (though this may require a fresh original filing)
+- Deductions claimed incorrectly
+
+## Section 5: Belated Return — Section 139(4)
+
+If the original ITR is not filed by the due date (July 31 for most individuals), a belated return can be filed.
+
+### Key Points:
+- Can be filed before the end of the relevant AY (December 31 of the AY).
+- For AY 2025-26: Belated return can be filed up to December 31, 2025.
+- Losses (other than house property loss) CANNOT be carried forward if a belated return is filed.
+- Interest under Section 234A and Section 234F penalties apply.
+- The belated return can be revised under Section 139(5).
+
+## Section 6: Penalties for Late Filing
+
+### Section 234F — Late Filing Fee:
+- Total income exceeds Rs 5 lakh: Late filing fee of Rs 5,000.
+- Total income is Rs 5 lakh or below: Late filing fee of Rs 1,000.
+- If total income is below the basic exemption limit, no late filing fee is applicable.
+
+The fee is mandatory and cannot be waived by the assessee. It is paid as part of self-assessment tax before filing the belated return.
+
+## Section 7: Interest for Delay — Sections 234A, 234B, 234C
+
+### Section 234A — Interest for Late Filing:
+- Rate: 1% per month (or part of month) of the tax due.
+- Period: From the original due date to the date of filing.
+- Applicable only if tax is actually outstanding — if all tax has been paid (TDS, advance tax, self-assessment), Section 234A interest is nil even if return is filed late.
+
+### Section 234B — Interest for Non-Payment or Short Payment of Advance Tax:
+- Rate: 1% per month (or part of month) of the shortfall.
+- Applicable if advance tax paid is less than 90% of the assessed tax.
+- Period: From April 1 of the AY to the date of payment of tax (or date of regular assessment).
+- If advance tax paid is less than 90% of the total tax, 234B interest applies on the entire shortfall.
+
+### Section 234C — Interest for Deferment of Advance Tax Installments:
+Applicable if advance tax installments are short-paid:
+- If less than 15% of total tax is paid by June 15: 1% per month for 3 months on shortfall from 15%.
+- If less than 45% of total tax is paid by September 15: 1% per month for 3 months on shortfall from 45%.
+- If less than 75% of total tax is paid by December 15: 1% per month for 3 months on shortfall from 75%.
+- If less than 100% of total tax is paid by March 15: 1% per month for 1 month on shortfall from 100%.
+
+## Section 8: Advance Tax Installments
+
+Advance tax is the mechanism for paying tax in installments during the financial year, rather than a lump sum at year end. It applies if the total tax liability for the year (after TDS) exceeds Rs 10,000.
+
+### Due Dates and Percentages:
+
+| Installment | Due Date | Cumulative % of Total Tax |
+|-------------|----------|--------------------------|
+| 1st | June 15 | At least 15% |
+| 2nd | September 15 | At least 45% |
+| 3rd | December 15 | At least 75% |
+| 4th | March 15 | 100% |
+
+### Notes:
+- Salaried employees: TDS deducted by employer is treated as advance tax. If TDS covers the full tax liability, no separate advance tax is needed.
+- Senior citizens (60+ years) without business income: Exempt from advance tax. They can pay all tax as self-assessment tax at time of filing.
+- Presumptive taxpayers under Section 44AD/44ADA: Can pay 100% advance tax in one installment by March 15.
+
+## Section 9: Presumptive Taxation Schemes
+
+### Section 44AD — Presumptive Taxation for Business:
+- Eligible: Resident individuals, HUFs, and partnership firms (not companies, LLPs, or professionals).
+- Turnover limit: Up to Rs 3 crore (increased from Rs 2 crore in Budget 2023, applicable if cash receipts do not exceed 5% of turnover).
+- Deemed profit: 8% of gross turnover/receipts (or 6% if receipts are through banking channels/digital payments).
+- The taxpayer declares this deemed profit as taxable income and pays tax on it.
+- No need to maintain books of accounts if opting for 44AD.
+- If opted for 44AD, must continue for 5 consecutive years; if opted out before 5 years, books of accounts must be maintained and tax audit required for the next 5 years.
+
+### Section 44ADA — Presumptive Taxation for Professionals:
+- Eligible: Resident individuals with professional income (legal, medical, engineering, architectural, accountancy, technical consultancy, interior decoration, other notified professions).
+- Gross receipts limit: Up to Rs 75 lakh (extended from Rs 50 lakh in Budget 2023, applicable if cash receipts do not exceed 5% of gross receipts; otherwise limit is Rs 50 lakh).
+- Deemed profit: 50% of gross receipts.
+- No books of accounts needed if opted.
+- No restriction on opting out (unlike 44AD).
+
+### Section 44AE — Presumptive Taxation for Transport:
+- For businesses owning goods carriages.
+- Deemed profit per vehicle per month:
+  - Heavy goods vehicle: Rs 1,000 per ton of gross vehicle weight per month
+  - Other vehicles: Rs 7,500 per vehicle per month
+- Maximum 10 vehicles at any time during the year.
+- No books needed if opted.
+
+## Section 10: Form 26AS and Annual Information Statement (AIS)
+
+### Form 26AS:
+This is the Annual Tax Statement available on the Income Tax portal. It summarizes:
+- TDS deducted by all deductors and reflected against the taxpayer's PAN
+- TCS collected and reflected against PAN
+- Advance tax paid by the taxpayer
+- Self-assessment tax paid
+- Refunds issued in the year
+- High-value financial transactions (SFT — Statement of Financial Transactions)
+
+Taxpayers should verify that TDS credits in Form 26AS match the TDS certificates (Form 16/16A) received. Any mismatch should be rectified before filing the ITR.
+
+### Annual Information Statement (AIS):
+AIS is a more comprehensive statement than Form 26AS, available on the Income Tax portal from November 2021. It provides a 360-degree view of the taxpayer's financial transactions for the year, as reported by various sources.
+
+AIS includes information on:
+- Salary income
+- Dividend received
+- Interest income from banks, post offices
+- Securities transactions (purchase and sale of shares, MF units)
+- Mutual fund transactions (SIP investments, redemptions, dividends)
+- Foreign remittances sent and received
+- Rent received from tenants
+- GST turnover
+- Cash deposits and withdrawals in bank accounts above threshold
+- Foreign travel expenses
+- Credit card payments above threshold
+
+The AIS is based on information submitted by "reporting entities" (banks, depositories, mutual fund companies, post offices, registrars, etc.) under the Statement of Financial Transactions (SFT) regime under Section 285BA.
+
+Taxpayers should review AIS before filing ITR to ensure no income is missed or underreported. If there are inaccuracies in AIS, taxpayers can submit online feedback on the portal to mark transactions as "incorrect" or "not pertaining to me."
+
+## Section 11: Self-Assessment Tax and Return Filing Process
+
+Self-assessment tax is any tax paid by the taxpayer after the advance tax installment schedule and before filing the ITR. It covers the final shortfall after all TDS and advance tax credits.
+
+### Steps to File ITR:
+1. Collect income documents: Form 16, bank interest certificates, capital gains statements from broker, rent receipts, etc.
+2. Download and verify Form 26AS and AIS.
+3. Compute total income, deductions, and tax liability.
+4. Pay any self-assessment tax or advance tax due (via Challan 280 on the income tax portal).
+5. File ITR online on the income tax portal (incometax.gov.in) using the applicable form.
+6. e-Verify the return: Via Aadhaar OTP, net banking, bank account EVC, demat account EVC, or by sending signed ITR-V to CPC Bengaluru within 30 days.
+
+Without e-verification, the return is not treated as validly filed.
+
+## Section 12: Scrutiny Assessment and Notices
+
+After filing, the ITR may be processed under Section 143(1) (summary processing) which results in either a refund, demand, or a communication confirming acceptance.
+
+A scrutiny notice under Section 143(2) may be issued if the department selects the case for detailed examination. This notice must be received within 6 months from end of the FY in which the return was filed. The taxpayer must respond to such notices.
+
+Section 148 allows the department to reopen assessments for up to 3 years if income escaped assessment is below Rs 50 lakh; up to 10 years if escaped income is Rs 50 lakh or more.
