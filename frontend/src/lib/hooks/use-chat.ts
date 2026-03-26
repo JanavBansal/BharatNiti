@@ -5,10 +5,11 @@ import type { ChatMessage, Citation } from "@/lib/types";
 import { askQuestion } from "@/lib/api/client";
 
 function generateId(): string {
-  if (typeof crypto !== "undefined" && crypto.randomUUID) {
-    return generateId();
+  try {
+    return crypto.randomUUID();
+  } catch {
+    return Math.random().toString(36).slice(2) + Date.now().toString(36);
   }
-  return Math.random().toString(36).slice(2) + Date.now().toString(36);
 }
 
 export function useChat() {
