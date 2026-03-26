@@ -95,38 +95,47 @@ def extract_pdf(file_path: str | Path) -> PDFExtractionResult:
     if file_path.suffix.lower() == ".txt":
         return _extract_txt(file_path)
 
-    # PDF extraction via pdfplumber
+    # PDF extraction via pdfplumber — batch processing for large files
+    import gc
     pages: list[ExtractedPage] = []
     warnings: list[str] = []
     all_text_parts: list[str] = []
 
+    # First pass: get page count
     with pdfplumber.open(file_path) as pdf:
         total_pages = len(pdf.pages)
-        logger.info("pdf_parser.start", file=str(file_path), pages=total_pages)
+    logger.info("pdf_parser.start", file=str(file_path), pages=total_pages)
 
-        for i, page in enumerate(pdf.pages):
-            page_num = i + 1
+    # Process in batches of BATCH_SIZE pages to limit memory
+    BATCH_SIZE = 100
+    for batch_start in range(0, total_pages, BATCH_SIZE):
+        batch_end = min(batch_start + BATCH_SIZE, total_pages)
+        logger.info("pdf_parser.batch", start=batch_start + 1, end=batch_end, total=total_pages)
 
-            # Extract text
-            text = page.extract_text() or ""
+        with pdfplumber.open(file_path, pages=list(range(batch_start, batch_end))) as pdf:
+            for i, page in enumerate(pdf.pages):
+                page_num = batch_start + i + 1
 
-            # Validate extraction quality
-            if len(text.strip()) < MIN_CHARS_PER_PAGE:
-                warnings.append(f"Page {page_num}: Low text extraction ({len(text.strip())} chars) — may be scanned/image")
+                text = page.extract_text() or ""
 
-            # Extract tables
-            tables = []
-            try:
-                raw_tables = page.extract_tables() or []
-                for table in raw_tables:
-                    cleaned = [[cell or "" for cell in row] for row in table if row]
-                    if cleaned:
-                        tables.append(cleaned)
-            except Exception as e:
-                warnings.append(f"Page {page_num}: Table extraction failed — {e}")
+                if len(text.strip()) < MIN_CHARS_PER_PAGE:
+                    warnings.append(f"Page {page_num}: Low text extraction ({len(text.strip())} chars) — may be scanned/image")
 
-            pages.append(ExtractedPage(page_number=page_num, text=text, tables=tables))
-            all_text_parts.append(text)
+                tables = []
+                try:
+                    raw_tables = page.extract_tables() or []
+                    for table in raw_tables:
+                        cleaned = [[cell or "" for cell in row] for row in table if row]
+                        if cleaned:
+                            tables.append(cleaned)
+                except Exception as e:
+                    warnings.append(f"Page {page_num}: Table extraction failed — {e}")
+
+                pages.append(ExtractedPage(page_number=page_num, text=text, tables=tables))
+                all_text_parts.append(text)
+
+        # Free memory between batches
+        gc.collect()
 
     full_text = "\n\n".join(all_text_parts)
 
