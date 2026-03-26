@@ -1,0 +1,310 @@
+CBDT KEY CIRCULARS, NOTIFICATIONS, AND POLICY CHANGES — AY 2025-26 & AY 2026-27
+==================================================================================
+Central Board of Direct Taxes (CBDT) | Ministry of Finance, Government of India
+Applicable: Assessment Year 2025-26 (FY 2024-25) and AY 2026-27 (FY 2025-26)
+
+This document summarizes key CBDT circulars, notifications, budget amendments, and compliance changes that every taxpayer, tax professional, and Chartered Accountant should be aware of. References are made to relevant sections of the Income Tax Act, 1961, and Finance Acts.
+
+---
+
+## Standard Deduction Enhanced to ₹75,000 from AY 2025-26
+
+The Union Budget 2024 (Finance Act 2024) enhanced the standard deduction for salaried individuals and pensioners from ₹50,000 to ₹75,000 per annum, effective from Assessment Year 2025-26 (Financial Year 2024-25).
+
+Applicable to:
+- Employees with salary income under Section 15 of the Income Tax Act
+- Pensioners receiving pension (treated as salary under Section 17)
+- Available under BOTH the new tax regime (Section 115BAC) and the old tax regime
+
+Standard deduction is a flat deduction that does not require any investment, expenditure, or proof. It is automatically available when computing salary income.
+
+Additionally, the deduction for family pension under Section 57(iia) was also enhanced from ₹15,000 to ₹25,000 from AY 2025-26. Family pension is received by legal heirs after the death of an employee and is taxed as "Income from Other Sources." The deduction is the lower of ₹25,000 or one-third of the family pension received.
+
+Employer NPS contribution under Section 80CCD(2): The ceiling for deduction of employer's contribution to NPS was enhanced from 10% of salary to 14% of salary for private sector employees, bringing parity with government employees (effective from AY 2025-26).
+
+---
+
+## New Tax Regime as Default — Opt-Out via Form 10-IEA (From AY 2024-25)
+
+The Finance Act 2023 made the new tax regime under Section 115BAC the DEFAULT tax regime for all individual taxpayers, HUFs, and Associations of Persons (AOPs) from AY 2024-25 onwards.
+
+Key implications:
+- Taxpayers who do NOT actively choose a tax regime are automatically placed in the new tax regime.
+- Salaried individuals (without business income) can choose between old and new regime at the time of filing each ITR. They may switch annually.
+- Taxpayers with business or professional income who wish to use the old tax regime must file Form 10-IEA (Option to Tax Regime) before the due date of filing the ITR. Once they opt out of the new regime, they can opt back in only once.
+- If Form 10-IEA is not filed by the due date, the AO/system will compute tax under the new regime by default.
+
+New Tax Regime Tax Slabs (AY 2025-26 onwards):
+- Up to ₹3,00,000: Nil
+- ₹3,00,001 to ₹7,00,000: 5%
+- ₹7,00,001 to ₹10,00,000: 10%
+- ₹10,00,001 to ₹12,00,000: 15%
+- ₹12,00,001 to ₹15,00,000: 20%
+- Above ₹15,00,000: 30%
+
+Rebate under Section 87A: In the new tax regime, tax is NIL if total income does not exceed ₹7,00,000 (rebate of up to ₹25,000 against computed tax). Under the old regime, rebate of up to ₹12,500 is available if income does not exceed ₹5,00,000.
+
+Note (AY 2026-27): The Finance Act 2025 further revised the new tax regime slabs, making income up to ₹12 lakh effectively tax-free through an enhanced rebate under Section 87A (₹60,000 rebate for income up to ₹12 lakh). The tax slabs were also restructured for AY 2026-27.
+
+---
+
+## Work From Home — No Special Deduction for Salaried Employees
+
+CBDT has confirmed through various communications and clarifications that there is NO special tax deduction available for salaried employees working from home for expenses such as:
+- Electricity bills
+- Internet expenses
+- Home office furniture or equipment
+- Mobile phone expenses
+
+Under Section 15 and Section 16, the only deductions available to salaried employees are:
+- Standard deduction (₹75,000 from AY 2025-26)
+- Professional tax paid under Section 16(iii)
+- Entertainment allowance (only for government employees) under Section 16(ii)
+
+Salaried employees cannot claim actual WFH expenses as deductions. This is in contrast to self-employed persons and business owners who can legitimately claim home office expenses as business expenditure under Section 37(1), subject to the apportionment between personal and business use.
+
+Some allowances like telephone/internet allowance (if specifically provided by employer) may be exempt under Section 10(14) read with Rule 2BB, but these must be part of the compensation structure and must not exceed prescribed limits.
+
+---
+
+## Section 87A Rebate — Eligibility and Amount
+
+Section 87A provides a tax rebate (reduction in tax payable, not in income):
+
+Under the OLD tax regime:
+- Rebate amount: Up to ₹12,500
+- Eligibility: Total income must not exceed ₹5,00,000
+- Effective result: No tax payable if total income is up to ₹5,00,000
+
+Under the NEW tax regime (AY 2025-26):
+- Rebate amount: Up to ₹25,000
+- Eligibility: Total income must not exceed ₹7,00,000
+- Effective result: No tax payable if total income is up to ₹7,00,000
+
+Important CBDT clarification: Section 87A rebate is NOT available against tax computed on special rate incomes such as:
+- LTCG on listed equity shares under Section 112A (even if total income is within ₹7 lakh)
+- STCG on equity shares under Section 111A
+
+This means a taxpayer with salary income of ₹6 lakh and LTCG of ₹2 lakh (on equity) cannot use the Section 87A rebate to offset the 12.5% LTCG tax. The rebate applies only to tax on regular income.
+
+Note (AY 2026-27): Finance Act 2025 enhanced the Section 87A rebate in the new regime to ₹60,000, making income up to ₹12 lakh effectively tax-free. Individuals with income between ₹12 lakh and ₹12.75 lakh (including ₹75,000 standard deduction) also benefit from marginal relief.
+
+---
+
+## E-Verification of ITR — Mandatory Within 30 Days
+
+Filing an Income Tax Return is a two-step process:
+1. Submitting the return (online or physical)
+2. Verifying the return
+
+An unverified ITR is not treated as a valid return. CBDT Circular No. 9/2015 and subsequent notifications set out the verification requirement.
+
+E-verification methods:
+- Aadhaar OTP (most common and instant)
+- Net banking (through authorized bank portals)
+- Demat account (through CDSL/NSDL)
+- Bank account EVC (Electronic Verification Code)
+- Digital Signature Certificate (DSC) — mandatory for companies and certain audit cases
+
+Revised rule (effective February 1, 2023): The time limit for e-verification was reduced from 120 days to 30 days from the date of filing the ITR. If e-verification is not done within 30 days, the ITR is treated as if it was never filed. Any tax paid on self-assessment basis will still remain, but the return will be invalid.
+
+Physical verification alternative: Taxpayers who cannot e-verify must send a signed ITR-V (acknowledgment) to CPC Bengaluru by post within 30 days.
+
+---
+
+## AIS (Annual Information Statement) — CBDT Mandate for Accuracy and Feedback
+
+The Annual Information Statement (AIS) was introduced under Section 285BB and Rule 114-I, replacing Form 26AS as the primary tax information document.
+
+AIS contains:
+- TDS and TCS transactions
+- SFT (Statement of Financial Transactions) data from banks, registrars, mutual funds, depositories
+- Foreign remittances received
+- Interest on deposits and savings accounts
+- Dividend income
+- GST turnover
+- Securities transactions
+
+CBDT mandates taxpayers to:
+1. Review their AIS before filing ITR at https://www.incometax.gov.in
+2. Provide feedback on any incorrect or duplicate information by using the "Feedback" feature in AIS
+3. Reconcile AIS data with income declared in ITR
+
+Taxpayer Information Summary (TIS): AIS also provides a TIS, which is a simplified summary of the AIS. If taxpayer feedback modifies the AIS, the TIS is automatically updated. The ITR pre-fill uses TIS data.
+
+CBDT circular: Taxpayers are encouraged to use AIS data to ensure their ITR is complete. Mismatches between ITR and AIS data trigger automated notices under Section 143(1)(a).
+
+---
+
+## Updated Return (ITR-U) — Section 139(8A)
+
+Introduced by the Finance Act 2022, the Updated Return (ITR-U) allows taxpayers to file or update their ITR within 24 months (2 years) from the end of the relevant assessment year.
+
+Key features:
+- ITR-U can be filed to report additional income that was missed in the original ITR.
+- ITR-U CANNOT be used to claim a refund or to reduce tax liability.
+- The taxpayer must pay additional tax (25% of tax and interest due if filed within 12 months of end of AY; 50% if filed between 12 and 24 months).
+
+Restriction: ITR-U cannot be filed if:
+- A search or survey has been initiated against the taxpayer.
+- A notice for assessment or reassessment under Section 148 has been issued.
+- Prosecution proceedings have been initiated.
+
+From the Finance Act 2025, the window for filing ITR-U has been extended to 48 months (4 years) from the end of the relevant assessment year, with an increased additional tax of 60% if filed between 24 and 36 months, and 70% if filed between 36 and 48 months.
+
+---
+
+## Condonation of Delay for ITR Filing — Section 119(2)(b)
+
+If a taxpayer misses the due date for filing an ITR (typically July 31 for non-audit cases; October 31 for audit cases), they can:
+
+1. File a belated return under Section 139(4): Up to December 31 of the assessment year.
+2. File an updated return (ITR-U) under Section 139(8A): Up to 24 months (or 48 months from AY 2026-27).
+3. Apply for condonation of delay under Section 119(2)(b): For cases where genuine hardship prevents timely filing even after the belated return deadline.
+
+Section 119(2)(b) allows the CBDT (or an authorized officer) to admit a return filed after the condonation deadline, if the delay was caused by genuine hardship. Applications are filed to the Commissioner of Income Tax (CIT) or CBDT depending on the tax amount involved.
+
+Relevant CBDT circulars on condonation:
+- Circular 9/2015: Guidelines for condonation for refund claims
+- Circular 14/2021: Condonation for SFT reporting
+- Section 119(2)(b) powers: Exercised by commissioners for amounts up to certain thresholds; CBDT for larger amounts.
+
+---
+
+## TDS on Purchase of Immovable Property — Section 194-IA
+
+Section 194-IA requires buyers of immovable property (other than agricultural land) to deduct TDS at 1% of the sale consideration if the total consideration is ₹50 lakh or more.
+
+CBDT Clarifications:
+- TDS is on the TOTAL consideration, not just the amount exceeding ₹50 lakh.
+- From April 1, 2022: TDS is to be deducted on the higher of (a) actual sale consideration or (b) stamp duty value (circle rate value). This prevents undervaluation of property for TDS purposes.
+- Each buyer (in case of joint purchase) and each seller (in case of joint sale) must be separately identified, and TDS is applicable on each buyer's payment share.
+- PAN of both buyer and seller is mandatory for filing Form 26QB. Aadhaar (seeded with PAN) is also acceptable.
+- Penalty under Section 272A for failure to furnish Form 26QB: ₹200 per day subject to the total TDS amount.
+
+---
+
+## High-Value Transaction Reporting — SFT (Statement of Financial Transactions)
+
+Under Section 285BA and Rules 114B to 114E, specified entities (banks, mutual funds, property registrars, stock exchanges, insurance companies) are required to report high-value financial transactions to the Income Tax Department through the Statement of Financial Transactions (SFT, formerly AIR).
+
+Key SFT reporting thresholds:
+- Cash deposits in savings account: Aggregate ₹10 lakh or more in a financial year
+- Cash deposits in current/FD accounts: ₹50 lakh or more
+- Credit card payments (cash or otherwise): ₹1 lakh (cash) or ₹10 lakh (overall) in a year
+- Purchase of mutual funds: ₹10 lakh or more in a year from one person
+- Purchase of bonds or debentures: ₹10 lakh or more
+- Purchase of shares (IPO/rights): ₹10 lakh or more
+- Purchase or sale of immovable property: ₹30 lakh or more
+- Foreign exchange purchased: ₹10 lakh or more
+
+All SFT data flows into AIS. Taxpayers must ensure their income disclosures match the SFT-reported data.
+
+---
+
+## Cryptocurrency and Virtual Digital Assets (VDA) — Section 115BBH
+
+From AY 2023-24, the Finance Act 2022 introduced a specific tax regime for income from virtual digital assets (VDAs), commonly known as cryptocurrency:
+
+Tax rate: 30% flat (plus applicable surcharge and 4% cess) — regardless of holding period.
+
+Key CBDT and statutory provisions:
+- No deduction allowed except cost of acquisition. No set-off of losses from VDA against any other income.
+- Losses from VDA cannot be carried forward to subsequent years.
+- TDS at 1% under Section 194S on VDA transfers above ₹50,000 (₹10,000 for specified persons) — effective July 1, 2022.
+- Gifting of VDA is also taxable in the hands of the recipient under Section 56(2)(x).
+- Pre-April 2022 VDA gains: Were taxed under the general provisions; some tribunal rulings have considered classification under "Income from Other Sources" with potential set-off benefits — but the statutory position from AY 2023-24 is clear.
+
+The 30% tax on VDA applies to ALL types of VDAs — Bitcoin, Ethereum, altcoins, NFTs, tokens, and any digital representation of value using distributed ledger or blockchain technology.
+
+---
+
+## Section 194N — TDS on Cash Withdrawal
+
+Section 194N, effective September 1, 2019, mandates TDS by banks on cash withdrawals above prescribed thresholds.
+
+Current thresholds:
+- For persons who have filed ITR for any of the preceding 3 financial years: TDS at 2% on cash withdrawals exceeding ₹1 crore (aggregate in the financial year).
+- For persons who have NOT filed ITR for any of the preceding 3 financial years:
+  - TDS at 2% on cash withdrawals between ₹20 lakh and ₹1 crore
+  - TDS at 5% on cash withdrawals exceeding ₹1 crore
+
+The TDS credit under Section 194N is available against the taxpayer's total tax liability but is NOT refundable as such — it is adjustable against tax due. The credit is reflected in Form 26AS.
+
+Non-filers of ITR: CBDT issues periodic lists of non-filers of ITR, and banks are required to check these lists to apply the higher TDS rate of Section 194N.
+
+---
+
+## TCS on Foreign Remittance Under LRS — Liberalised Remittance Scheme
+
+Tax Collected at Source (TCS) under Section 206C(1G) applies to amounts remitted outside India under the RBI's Liberalised Remittance Scheme (LRS).
+
+Current TCS rates (from October 1, 2023):
+- Remittance for education (from education loan): 0.5% above ₹7 lakh
+- Remittance for education (own funds) and medical treatment: 5% above ₹7 lakh
+- All other LRS remittances (foreign travel, investments, gifts): 20% on the entire amount (no threshold exemption for non-education purposes above ₹7 lakh). The 20% rate applies from the first rupee if it is non-education and non-medical; the ₹7 lakh threshold was removed for such remittances by Finance Act 2023.
+
+TCS credit: TCS collected is not an additional tax — it is adjustable against your total income tax liability. The TCS amount is reflected in Form 26AS and must be claimed as a credit in the ITR.
+
+Foreign tour packages sold by tour operators attract TCS at 5% (or 20% if remitting through LRS directly).
+
+---
+
+## Faceless Assessment and Appeals — Section 144B
+
+The Faceless Assessment Scheme was launched in August 2020, making all income tax assessments faceless (no physical interface between taxpayer and Assessing Officer). From October 7, 2020, all scrutiny assessments under Section 143(3) and best judgment assessments under Section 144 are conducted through the faceless system under Section 144B.
+
+Key features of faceless assessment:
+- All communications are on the e-filing portal only — no physical appearance required.
+- The Assessing Officer, review officer, and technical unit may be in different cities.
+- Final assessment order is approved by a review unit.
+- Taxpayers receive notices and must respond on the e-filing portal within stipulated time.
+
+Faceless Appeals (Section 250): CBDT also implemented the Faceless Appeal Scheme (FAS) for CIT(A) appeals. From December 28, 2021, all first-level appeals (Commissioner of Income Tax — Appeals) are faceless.
+
+Faceless Penalty Scheme: Also extended to penalty proceedings under Chapter XXI.
+
+Practical implication: Taxpayers and their representatives must be vigilant about notices received on the e-filing portal email/registered mobile. Failure to respond leads to ex-parte orders (decisions in the taxpayer's absence).
+
+---
+
+## Beneficial Ownership and Beneficial Interests — Section 89A and NRI Returning to India
+
+Section 89A (effective April 1, 2022) provides relief to residents who are returning NRIs (previously non-resident for at least 7 out of 10 years) in respect of income accrued in notified countries.
+
+The provision allows such taxpayers to defer taxation of foreign retirement account income (such as US 401(k), UK pensions) to the year in which it is actually received, avoiding double taxation on notional accruals.
+
+Applicable countries are notified by the CBDT. The practical benefit is that returning NRIs with foreign retirement funds do not pay Indian tax on the fund's notional annual accruals but pay tax only when they actually receive distributions.
+
+---
+
+## Key Compliance Deadlines — ITR Filing for AY 2025-26
+
+- July 31, 2025: Due date for non-audit cases (individuals, HUFs, firms without audit requirement)
+- October 31, 2025: Due date for audit cases (companies, firms requiring tax audit, transfer pricing cases)
+- November 30, 2025: Due date for filing ITR for taxpayers with transfer pricing transactions
+- December 31, 2025: Last date for belated return (Section 139(4)) or revised return (Section 139(5))
+- March 31, 2026: Last date for filing ITR-U with 25% additional tax
+
+Note: CBDT frequently extends ITR filing due dates by circular. Always check the CBDT website for the latest extension notifications.
+
+---
+
+## Summary of Key Rates and Thresholds
+
+| Item | Rate / Threshold |
+|---|---|
+| Standard deduction (AY 2025-26) | ₹75,000 (salary/pension) |
+| Section 87A rebate (new regime) | ₹25,000 (income up to ₹7L) |
+| Section 87A rebate (old regime) | ₹12,500 (income up to ₹5L) |
+| TDS on property purchase | 1% above ₹50 lakh (Section 194-IA) |
+| TCS on LRS (non-education) | 20% |
+| VDA tax rate | 30% (Section 115BBH) |
+| TDS on VDA | 1% (Section 194S) |
+| Cash withdrawal TDS (non-filer) | 2% after ₹20L; 5% after ₹1Cr |
+| Updated return (ITR-U) additional tax | 25% (within 12 months of AY end) |
+| E-verification deadline | 30 days from filing date |
+
+---
+
+Disclaimer: This document is based on CBDT circulars, notifications, and Finance Acts up to AY 2026-27. Tax law is subject to frequent amendments. Always refer to the official Income Tax Department website (www.incometax.gov.in) and consult a qualified Chartered Accountant for current and case-specific advice.

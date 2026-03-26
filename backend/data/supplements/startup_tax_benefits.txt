@@ -1,0 +1,207 @@
+STARTUP-SPECIFIC TAX PROVISIONS IN INDIA — AY 2025-26 AND AY 2026-27
+Income Tax Act, 1961 and CGST Act, 2017 — Benefits for DPIIT-Recognized Startups
+
+## What Is a Startup for Indian Tax Law Purposes?
+
+The Government of India's definition of a startup for tax benefit purposes is tied to DPIIT (Department for Promotion of Industry and Internal Trade) recognition under the Startup India initiative. For a company or LLP to qualify for the key tax benefits discussed in this guide, it must satisfy specific criteria under the Income Tax Act and the Startup India scheme.
+
+An entity qualifies as an eligible startup if it meets all of the following:
+- It is incorporated as a Private Limited Company or registered as a Partnership Firm or LLP
+- It is incorporated/registered after April 1, 2016
+- Its turnover has not exceeded Rs. 100 crore in any financial year since incorporation
+- It is working towards innovation, development, or improvement of products/services/processes, OR it is a scalable business model with high potential for employment generation or wealth creation
+- It has been incorporated for up to 10 years from date of incorporation (extended from 7 years; for biotechnology startups, up to 10 years)
+- It is NOT formed by splitting up or reconstructing an existing business
+
+DPIIT recognition is obtained by filing online at the Startup India portal (startupindia.gov.in). Recognition does not automatically confer all tax benefits — specific applications and certifications are required for individual provisions.
+
+## Section 80-IAC — Three-Year Tax Holiday
+
+Section 80-IAC provides a 100% deduction of profits for 3 consecutive assessment years out of the first 10 years from the year of incorporation, subject to the following conditions:
+
+### Eligibility for Section 80-IAC:
+1. The startup must be incorporated between April 1, 2016 and March 31, 2025 (extended from time to time; verify the current sunset date)
+2. It must be certified as an "eligible startup" by the DPIIT
+3. An INTER-MINISTERIAL BOARD (IMB) certificate is required specifically for Section 80-IAC — DPIIT recognition alone is NOT sufficient
+4. The startup must be a company or LLP (partnership firms not covered)
+5. Total turnover must not exceed Rs. 100 crore in the year for which deduction is claimed
+6. The entity was not formed by splitting or reconstruction of an existing business
+7. New plant and machinery must be used (no second-hand machinery, except imported second-hand machinery)
+
+### How the Three-Year Holiday Works:
+- The startup can CHOOSE any 3 consecutive years out of the first 10 years as the years for which deduction is claimed
+- It is not mandatory to start from the first year of incorporation
+- The deduction is 100% of profits — effectively zero corporate tax for those 3 years
+- However, Minimum Alternate Tax (MAT) at 15% (plus surcharge and cess) may still apply under Section 115JB, unless the startup also obtains MAT exemption (discuss with a CA)
+- Example: A startup incorporated in FY 2019-20 can claim the holiday for, say, AY 2023-24, AY 2024-25, and AY 2025-26 if those were profit-making years, even if earlier years were losses
+
+### Application Process:
+- Apply through the IMB through the Startup India portal
+- Documents required: incorporation certificate, business plan, details of innovation/technology
+- The IMB consists of representatives from DPIIT, SEBI, and Ministry of Finance (for financial sector startups)
+- Processing time can be 3-6 months; plan ahead before fiscal year ends
+
+### What Is NOT Exempt Under 80-IAC:
+- Capital gains are not automatically exempt
+- Income from investments, interest, rent (unless genuinely part of the startup's business)
+- Distributions/dividends to shareholders are taxed in shareholders' hands
+
+## Section 56(2)(viib) — Angel Tax and DPIIT Exemption
+
+Section 56(2)(viib) originally caused significant hardship to startups. Under this provision, if a company receives consideration for issue of shares in excess of the Fair Market Value (FMV), the excess amount was taxed as "income from other sources" in the company's hands. This provision was popularly called the "angel tax" because it affected angel-funded startups.
+
+### Current Status (from Budget 2024):
+Section 56(2)(viib) was abolished for all investors from Assessment Year 2025-26 onwards (Finance Act 2024 amended the provision). This means that from FY 2024-25, no company will face angel tax on share premium received from ANY investor — whether domestic or foreign.
+
+However, for historical assessments (FY 2023-24 and earlier), DPIIT-recognized startups had a specific exemption:
+- Startups recognized by DPIIT before the relevant date were exempt
+- The startup had to file a declaration with DPIIT and the startup should not have invested in specified assets
+
+Since angel tax has now been abolished prospectively, this is a moot point for new fundraises in FY 2024-25 onwards.
+
+## ESOP Taxation — Section 17(2)(vi) and Special Deferral
+
+ESOPs (Employee Stock Option Plans) are a critical tool for startups to attract and retain talent. Under the general rule (Section 17(2)(vi)):
+- Perquisite is taxed when the employee EXERCISES the option (not at grant or vesting)
+- Perquisite value = FMV on exercise date minus exercise price
+- Employer must deduct TDS on this perquisite at the time of exercise
+
+### Special Deferral for Eligible Startups (Section 192 proviso):
+For employees of DPIIT-recognized eligible startups, the TDS on ESOP perquisite is deferred. Payment of tax (and deduction of TDS) is postponed to the EARLIEST of:
+1. 48 months (4 years) after the end of the financial year in which ESOPs are exercised
+2. Date of sale of the ESOP shares by the employee
+3. Date the employee ceases to be an employee of the startup
+
+This deferral is extremely beneficial because:
+- Employees don't have to pay tax on ESOPs at exercise when they have no cash (illiquid shares)
+- They can pay tax when they sell (and have actual cash)
+- 48-month window gives significant breathing room
+
+### Conditions for ESOP Deferral:
+- The employer must be an eligible startup (DPIIT recognized + IMB certified for 80-IAC purposes is ideal, but DPIIT recognition alone may suffice for this provision)
+- The employee must be an employee (not a contractor or director who is not an employee)
+- The startup must not have ceased operations
+
+### ESOP Taxation at Sale:
+Once ESOPs are exercised and shares are sold:
+- The perquisite component (already known from exercise date FMV) is employment income
+- Capital gains = Sale price minus FMV at exercise date
+- Holding period for LTCG/STCG determination starts from the exercise date (not grant/vesting)
+- If held as listed shares for more than 12 months: LTCG at 12.5% above Rs. 1.25L exemption (Section 112A)
+- Unlisted shares: More than 24 months for LTCG; LTCG taxed at 12.5% without indexation
+
+## Section 54GB — Capital Gains Exemption on Investment in Startups
+
+Section 54GB allows an individual or HUF to claim exemption from LTCG on sale of a residential property if the net sale consideration is invested in the equity of an eligible startup.
+
+### Conditions:
+1. The seller must be an individual or HUF
+2. The asset sold must be a long-term residential property
+3. The LTCG (or net consideration in some interpretations) must be invested in the equity shares of an eligible startup
+4. The startup must be a company in which the assessee holds more than 50% shares (or voting rights) after investment — this essentially means Section 54GB is for founders/promoters investing in their own startup by selling their house
+5. Investment must be made before the due date of filing ITR
+6. The startup must use the funds to purchase new assets within 1 year of investment
+7. The shares acquired cannot be transferred for 5 years; new assets cannot be transferred for 3 years
+
+### Amount of Exemption:
+- Exemption = LTCG × (amount invested / net consideration)
+- If entire net consideration is invested: Full LTCG is exempt
+- If partial: Proportionate exemption
+
+This provision is particularly useful for founders who sell their home to fund their startup and want to avoid LTCG on the home sale.
+
+Note: The startup must be incorporated on or after April 1, 2016, and must be engaged in eligible business.
+
+## Startup India Eligibility and Benefits (Non-Tax)
+
+While this guide focuses on tax, understanding DPIIT recognition eligibility is important:
+
+### Registration Process:
+1. Register on startupindia.gov.in
+2. Self-certify compliance with eligibility conditions
+3. DPIIT reviews and issues recognition certificate (Certificate Number: DPIIT00XXXXX)
+4. This recognition enables:
+   - Self-certification under 6 labour laws for 5 years
+   - Fast-track patent application (80% rebate on patent fees)
+   - Faster winding up under Insolvency and Bankruptcy Code
+   - Government procurement exemption from prior experience/turnover criteria
+   - Tax benefits under Sections 80-IAC, 56(2)(viib), and others
+
+## MAT Credit Carry-Forward — Section 115JAA
+
+Even when a startup pays MAT (Minimum Alternate Tax) under Section 115JB:
+- MAT is charged at 15% of Book Profits (plus surcharge and cess)
+- MAT Credit = MAT paid minus normal tax that would have been payable
+- Section 115JAA: This MAT credit can be carried forward for up to 15 years
+- In a future year when normal tax exceeds MAT, the carried forward MAT credit can be offset
+
+### Relevance for Startups:
+- In the 3-year tax holiday period under 80-IAC, the startup is still liable for MAT
+- However, once the startup starts generating higher taxable profits, the accumulated MAT credit can be used to reduce future tax outgo
+- In some cases, the entire MAT paid during loss years or restructuring years can be recovered through MAT credit
+
+Note: Budget 2020 excluded companies opting for Section 115BAA (new corporate tax regime at 22%) from MAT. If a startup opts for 115BAA (25.168% for startups above Rs. 400 crore, or 26% for new manufacturing companies under 115BAB), MAT does not apply. However, 80-IAC deduction is also NOT available if a startup opts for Sections 115BAA or 115BAB.
+
+## GST Benefits and Considerations for Startups
+
+### GST Registration:
+- Startups below Rs. 20L (services) or Rs. 40L (goods) annual aggregate turnover: Voluntary registration recommended for input tax credit
+- Above threshold: Mandatory registration
+
+### Composition Scheme: Generally not suitable for startups receiving services-based revenue or B2B customers (composition scheme does not allow issuing tax invoices, so recipients cannot claim ITC).
+
+### Input Tax Credit (ITC) for Startups:
+Startups can claim ITC on:
+- GST paid on office rent
+- GST paid on software subscriptions, cloud services (AWS, Google Cloud, etc.)
+- GST paid on professional services (CA, legal fees)
+- GST paid on laptops, servers, office equipment (if used for business)
+- GST paid on marketing and advertising
+
+ITC cannot be claimed on:
+- Employee benefits (food, cabs to/from office) — Section 17(5) of CGST Act
+- Personal use items
+- Motor vehicles for general use (unless business is transport or driving training)
+
+### Startup Registration Under GST:
+- Must register in each state where the startup has a place of business or makes taxable supply
+- Inter-state supply of services: Must register in the state of supplier (not recipient)
+
+## Corporate Tax Rates Applicable to Startups
+
+For startups that are domestic companies:
+- Turnover up to Rs. 400 crore (FY 2021-22 or earlier): 25% basic rate (Section 115BA or normal provisions)
+- Turnover above Rs. 400 crore: 30% basic rate
+- Option under Section 115BAA (new regime, no exemptions): 22% flat
+- New domestic manufacturing companies (Section 115BAB): 15% flat (incorporated after October 1, 2019, and starting manufacturing before March 31, 2024 — subject to conditions)
+- Surcharge: 7% for income Rs. 1-10 crore; 12% above Rs. 10 crore
+- Health and Education Cess: 4% on tax plus surcharge
+- Effective rate under 115BAA = 22% × 1.12 (surcharge up to Rs. 10 crore) × 1.04 = approximately 25.17%
+
+Startups claiming 80-IAC deduction cannot simultaneously opt for Sections 115BAA or 115BAB.
+
+## Key Compliance Calendar for Startups
+
+- April-June: Q1 advance tax (15% by June 15)
+- July 31: ITR filing for individuals/HUF promoters
+- September: Q2 advance tax (45% cumulative by Sep 15)
+- October 31: ITR filing deadline for companies (subject to audit)
+- November 30: ITR filing for companies whose transfer pricing report is due
+- December: Q3 advance tax (75% by Dec 15)
+- March 15: Final advance tax installment (100%)
+- Monthly: GSTR-1 and GSTR-3B filings
+
+## Key Sections Reference
+
+- Section 56(2)(viib): Angel tax [abolished for FY 2024-25 onwards]
+- Section 80-IAC: Tax holiday for eligible startups (3 of 10 years)
+- Section 54GB: LTCG exemption on sale of residential property for startup investment
+- Section 115JB: MAT provision
+- Section 115JAA: MAT credit carry-forward (15 years)
+- Section 115BAA: Optional corporate tax at 22% (no exemptions)
+- Section 115BAB: New manufacturing companies at 15%
+- Section 17(2)(vi): ESOP perquisite taxation
+- Section 192 proviso: Deferral of TDS on ESOP for startup employees
+- Section 10(38) [now Section 112A]: LTCG on listed shares
+- Section 22 of CGST Act: GST registration threshold
+- Section 17(5) of CGST Act: ITC restrictions

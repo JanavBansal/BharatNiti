@@ -8,9 +8,17 @@ class Citation(BaseModel):
     document_title: str | None = None
 
 
+class UserProfile(BaseModel):
+    income_range: str | None = None  # "<5L", "5-10L", "10-20L", "20-50L", "50L+", "1Cr+"
+    taxpayer_type: str | None = None  # "Salaried", "Self-employed", "Freelancer", "Business Owner", "NRI"
+    age_group: str | None = None  # "Below 60", "60-80", "Above 80"
+    regime: str | None = None  # "Old", "New", "Not sure"
+
+
 class AskRequest(BaseModel):
     question: str
     conversation_id: str | None = None
+    profile: UserProfile | None = None
 
 
 class AskResponse(BaseModel):

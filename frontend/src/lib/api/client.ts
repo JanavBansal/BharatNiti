@@ -1,4 +1,4 @@
-import type { Citation, SlabResult } from "@/lib/types";
+import type { Citation, SlabResult, UserProfile } from "@/lib/types";
 
 const API_BASE = "/api/proxy";
 
@@ -11,12 +11,17 @@ export async function askQuestion(
     confidence: "HIGH" | "MEDIUM" | "LOW";
     assessment_year?: string;
     disclaimer: string;
-  }) => void
+  }) => void,
+  profile?: UserProfile,
 ): Promise<void> {
+  const body: Record<string, unknown> = { question, conversation_id: conversationId };
+  if (profile && Object.values(profile).some(Boolean)) {
+    body.profile = profile;
+  }
   const response = await fetch(`${API_BASE}/api/v1/ask`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ question, conversation_id: conversationId }),
+    body: JSON.stringify(body),
   });
 
   if (!response.ok) {

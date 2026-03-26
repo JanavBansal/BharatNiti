@@ -1,0 +1,269 @@
+BUSINESS OWNER TAX GUIDE — INDIAN INCOME TAX AY 2025-26 AND AY 2026-27
+
+This guide covers the taxation of business income for Indian businesses, including presumptive taxation schemes, depreciation, Minimum Alternate Tax, entity comparisons, and TDS obligations. All provisions reference the Income Tax Act, 1961, as amended by the Finance Acts of 2024 and 2025.
+
+---
+
+## Section 44AD — Presumptive Taxation for Small Businesses
+
+Section 44AD provides a simplified tax framework for eligible small businesses. Under this scheme, income is presumed at a fixed percentage of turnover, eliminating the need to maintain detailed books of accounts.
+
+**Eligibility:**
+- Resident individual, Hindu Undivided Family (HUF), or partnership firm (excluding LLPs)
+- Engaged in any business other than those covered under Section 44AE or 44ADA
+- Total turnover or gross receipts must not exceed ₹3 crore in the previous year
+
+**Presumptive Income Rates:**
+- 8% of total turnover for cash receipts or non-digital transactions
+- 6% of total turnover for amounts received by account payee cheque, account payee bank draft, or electronic clearing system during the previous year or before the due date of filing return
+
+**The ₹3 Crore Threshold (Enhanced from ₹2 Crore):** The turnover limit was enhanced to ₹3 crore from AY 2024-25, but this enhanced limit applies only if the amount received in cash during the previous year does not exceed 5% of total gross receipts. If cash receipts exceed 5% of turnover, the original ₹2 crore limit applies.
+
+**Tax Computation Example:**
+If a trader has ₹2 crore total turnover, ₹1.8 crore received digitally and ₹20 lakh in cash:
+- Cash receipts = ₹20L / ₹200L = 10% — exceeds 5% threshold
+- Therefore lower limit of ₹2 crore applies (turnover qualifies, being ₹2 crore)
+- Presumptive income on ₹1.8 crore digital = ₹10.8 lakh (6%)
+- Presumptive income on ₹20 lakh cash = ₹1.6 lakh (8%)
+- Total presumptive income = ₹12.4 lakh
+
+**Restrictions under 44AD:**
+- Assessee cannot claim any deductions under Sections 30 to 38 (rent, repairs, depreciation, etc.)
+- No set-off of depreciation is permitted once 44AD is opted
+- If the assessee declares income lower than 6%/8%, books of accounts must be maintained and tax audit under Section 44AB is mandatory
+- Once the option is exercised, if the assessee does not opt for 44AD in any of the five subsequent years, the scheme cannot be availed for the next five years
+
+**Books of Accounts:** Assessees opting for 44AD are not required to maintain books of accounts under Section 44AA or get them audited under Section 44AB.
+
+---
+
+## Section 44AE — Presumptive Taxation for Goods Carriage Operators
+
+Section 44AE covers taxpayers engaged in the business of plying, hiring, or leasing goods carriages.
+
+**Eligibility:**
+- Any person owning not more than 10 goods carriages at any time during the previous year
+- No turnover limit applies to this section
+
+**Presumptive Income Rates (AY 2025-26 onwards):**
+- Heavy goods vehicle (gross vehicle weight exceeding 12,000 kg): ₹1,000 per ton of gross vehicle weight or unladen weight per month (or part of month) the vehicle is owned
+- Other vehicles (not heavy goods): ₹7,500 per month (or part of month) per vehicle
+
+**Practical Example:**
+An operator owns 5 heavy goods vehicles each of 16 tonnes gross weight and 3 light vehicles:
+- Income from heavy vehicles = 5 × 16 × ₹1,000 × 12 = ₹9,60,000 per year
+- Income from light vehicles = 3 × ₹7,500 × 12 = ₹2,70,000 per year
+- Total presumptive income = ₹12,30,000
+
+The operator can declare actual income if it is higher. However, if actual income is lower, the operator must maintain books and get a tax audit done.
+
+---
+
+## Regular Business Income — P&L Computation and Allowable Deductions
+
+For businesses not opting for presumptive taxation, income is computed under the head "Profits and Gains of Business or Profession" (PGBP) as per Sections 28 to 44DB.
+
+**Allowable Deductions:**
+- Section 30: Rent, rates, taxes, repairs, and insurance for buildings used in business
+- Section 31: Repairs and insurance of machinery, plant, and furniture
+- Section 32: Depreciation on assets used in business (see detailed section below)
+- Section 33AB: Tea/coffee/rubber development account deposits
+- Section 35: Expenditure on scientific research (detailed below)
+- Section 36: Other deductions including bad debts, employer's contribution to PF, insurance premium, interest on borrowed capital for business
+- Section 37(1): General deduction — any expenditure laid out wholly and exclusively for business purposes (not capital in nature or personal)
+
+**Common Disallowances:**
+- Section 40(a): Any amount paid outside India without TDS where TDS was required (30% disallowed)
+- Section 40A(2): Payments to related parties above fair market value
+- Section 40A(3): Cash payments exceeding ₹10,000 per day to a single person (for business expenses) — 100% disallowed
+- Section 43B: Certain deductions only allowable on actual payment (taxes, PF, ESI, gratuity, bonus) — must be paid before the due date of return filing
+
+---
+
+## Section 35 — Research and Development Expenditure
+
+Section 35 provides deductions for expenditures related to scientific research.
+
+**Revenue Expenditure on In-House R&D (Section 35(1)(i)):**
+- 100% deduction for expenditure on scientific research related to business
+- Expenditure incurred 3 years prior to commencement of business also eligible
+
+**Capital Expenditure on In-House R&D (Section 35(1)(iv)):**
+- 100% deduction in the year of expenditure for capital assets used in in-house R&D
+- No depreciation separately claimable on such assets
+
+**Contributions to Outside Research Associations (Section 35(1)(ii) and (iii)):**
+- Contributions to approved scientific research associations, universities, colleges: 100% deduction
+- Contributions to National Laboratory or IIT or specified university: 100% deduction (reduced from 150% from AY 2021-22)
+
+**Note on Weighted Deduction:** The enhanced deduction of 150% available under Section 35(2AB) for companies engaged in in-house R&D was available only up to March 31, 2024. From AY 2025-26 onwards, the deduction reverts to 100% for all categories. Businesses with existing approvals should note that weighted deductions are no longer available.
+
+---
+
+## Section 32 — Depreciation
+
+Depreciation under the Income Tax Act is computed using the Written Down Value (WDV) method, unlike the Straight Line Method commonly used in Companies Act books.
+
+**Key Depreciation Rates (AY 2025-26):**
+- Buildings — Residential: 5%
+- Buildings — Non-residential (factory, office): 10%
+- Furniture and fittings: 10%
+- Plant and machinery (general): 15%
+- Motor cars (other than taxis): 15%
+- Computers and computer software: 40%
+- Intangible assets (patents, trademarks, copyrights, know-how, licenses): 25%
+- Ships: 20%
+- Aircraft: 40%
+
+**Additional Depreciation — Section 32(1)(iia):**
+- New plant and machinery installed for manufacturing or production: Additional 20% depreciation in the year of installation
+- Available to manufacturing entities only; not available for office equipment, vehicles, or second-hand assets
+- For assets installed after October 1 in the fiscal year, half of 20% (i.e., 10%) is allowed in year of installation and balance 10% in subsequent year
+
+**Block of Assets Concept:**
+- All assets of the same category form a "block of assets"
+- Depreciation is calculated on the opening WDV + additions during year - disposals during year
+- If sales consideration exceeds the block WDV, the excess is treated as short-term capital gain
+
+---
+
+## Minimum Alternate Tax (MAT) — Section 115JB
+
+MAT ensures that companies with large book profits but minimal tax liability pay a minimum tax.
+
+**Who It Applies To:** All companies (domestic and foreign), including zero-tax companies.
+
+**Rate:** 15% of book profit (plus surcharge and health and education cess)
+
+**Effective Rate:** For domestic companies, 15% × 1.12 (surcharge and cess) = approximately 17.01% for companies with income between ₹1 crore and ₹10 crore.
+
+**Book Profit Computation:** Book profit starts with net profit per the P&L account prepared under the Companies Act and adds back:
+- Income tax paid
+- Provision for deferred tax
+- Provision for losses of subsidiary companies
+- Dividends paid
+- Amount set aside to reserves
+
+And deducts items like brought forward losses (lower of unabsorbed depreciation or book loss carried forward).
+
+**MAT Credit:** If MAT paid exceeds regular tax, the excess (MAT credit) can be carried forward for 15 years and adjusted against regular tax in future years (Section 115JAA).
+
+**AMT for Non-Companies (Section 115JC):**
+- Alternate Minimum Tax applies to non-corporate assessees who claim deductions under Sections 10AA, 35AD, or Chapter VI-A deductions
+- AMT rate: 18.5% of adjusted total income
+- AMT credit can be carried forward for 15 years
+
+---
+
+## Partnership Firm vs LLP vs Private Limited Company — Tax Comparison
+
+**Partnership Firm:**
+- Tax rate: 30% flat (plus surcharge and cess)
+- No tax on distribution to partners (partner's share of profit is exempt under Section 10(2A))
+- Partners taxed on salary/interest drawn from firm (allowed as deduction to firm under Section 40(b))
+- Maximum interest allowed: 12% per annum
+- Maximum salary allowed: 90% of first ₹3 lakh of book profit + 60% of balance
+- No concept of dividend distribution tax
+- Audit required if turnover exceeds ₹1 crore (₹10 crore if cash <5%)
+
+**Limited Liability Partnership (LLP):**
+- Same tax rate as partnership: 30% flat
+- Same treatment for partner remuneration and interest
+- No corporate dividend distribution issues
+- Surcharge: 12% if total income exceeds ₹1 crore
+- Audit required if turnover exceeds ₹40 lakh or contribution exceeds ₹25 lakh
+
+**Private Limited Company:**
+- Domestic company tax rate: 22% if opted for Section 115BAA (new regime for companies), plus 10% surcharge on base rate = effective 25.17%
+- Or: 25% for companies with turnover up to ₹400 crore in preceding year (AY 2025-26 rates)
+- Dividend taxable in hands of shareholder at slab rates (Section 115BBDA abolished from AY 2021-22)
+- Can raise equity capital, has perpetual succession
+- Compliance heavy: ROC filings, audit mandatory regardless of turnover
+- Additional cost of dividend distribution (no exemption at company level anymore)
+
+**Tax Efficiency Example at ₹50 lakh profit:**
+- Partnership: ₹50L × 30% = ₹15L tax; partners receive ₹35L tax-free as profit share
+- LLP: Same as partnership
+- Private Ltd (22% regime): ₹50L × 22% = ₹11L; remaining ₹39L if distributed as dividend taxed at promoter's slab (say 30%) = additional ₹11.7L; total effective tax = ₹22.7L
+
+**Conclusion:** For purely tax efficiency on distributed profits, partnerships/LLPs often outperform private limited companies unless the company retains and reinvests profits.
+
+---
+
+## Business Loss Carry-Forward Rules
+
+**Section 72 — Non-Speculative Business Losses:**
+- Carry-forward period: 8 assessment years
+- Can be set off only against PGBP income in subsequent years (not salary, house property, or capital gains)
+- Return must be filed by due date to carry forward losses (exception for unabsorbed depreciation — can carry forward even if return filed late)
+
+**Section 73 — Speculative Business Losses:**
+- Carry-forward period: 4 assessment years
+- Can only be set off against speculative business profits
+- Shares trading by companies (other than those in financial activities) is deemed speculative under Section 73 proviso
+
+**Unabsorbed Depreciation (Section 32(2)):**
+- No time limit for carry forward — can be carried indefinitely
+- Can be set off against any income (including salary, capital gains, house property) in subsequent years
+- Even if return is filed late, unabsorbed depreciation can be carried forward (unlike business losses)
+
+---
+
+## TDS Obligations for Business Owners
+
+Business entities making certain payments are required to deduct TDS before payment and deposit it with the government.
+
+**Section 194C — Payments to Contractors:**
+- Applicable when: payment to a contractor or sub-contractor for work
+- TDS Rate: 1% (individuals/HUF) or 2% (others)
+- Threshold: Single payment exceeds ₹30,000 or aggregate in a year exceeds ₹1,00,000
+- Definition of "work" includes advertising, broadcasting, catering, manufacturing to buyer's specification
+
+**Section 194J — Professional Fees:**
+- Applicable when: fees for technical services, professional services, royalty, non-compete fees
+- TDS Rate: 10% for professional fees; 2% for technical services (from AY 2021-22, technical services rate reduced to 2%)
+- Threshold: ₹30,000 per year per payee
+- Covers doctors, lawyers, accountants, consultants, architects
+
+**Section 194I — Rent:**
+- Applicable when: Rent paid for land, building, plant, machinery, equipment, furniture
+- TDS Rate: 10% for land/building/furniture; 2% for plant/machinery
+- Threshold: ₹2,40,000 per year per payee (from AY 2020-21)
+
+**Section 194B and 194BB — Winnings:**
+- Not typically applicable to regular businesses
+
+**Section 192 — Salary TDS:**
+- TDS must be deducted from salary paid to employees based on estimated annual income
+- Employer must factor in all components, deductions declared by employee, and applicable tax regime
+
+**TDS Deposit Deadline:**
+- For government deductors: same day as deduction
+- For non-government deductors: 7th of the following month
+- Exception: TDS deducted in March must be deposited by April 30
+
+**TDS Return Filing:**
+- Form 24Q: Salary TDS — quarterly, due July 31, October 31, January 31, May 31
+- Form 26Q: Non-salary domestic payments — same quarterly deadlines
+- Late filing penalty under Section 234E: ₹200 per day
+
+**Consequences of Non-Deduction:**
+- 30% of expense disallowed in the year of payment (Section 40(a)(ia))
+- Interest under Section 201(1A): 1% per month for failure to deduct, 1.5% per month for failure to deposit after deduction
+- Penalty under Section 271C: Amount equal to TDS not deducted
+
+---
+
+## Practical Planning Tips for Business Owners
+
+1. **Digital receipts preference:** Encourage customers to pay digitally to benefit from 6% presumptive rate instead of 8% under Section 44AD.
+
+2. **Asset timing:** Purchase assets before March 31 to claim depreciation for the full year (first year gets full-year depreciation if bought before April 1).
+
+3. **Section 43B compliance:** Ensure all statutory dues (PF, ESI, bonus, leave encashment) are paid before filing the return to claim deduction — even payment in April after year-end qualifies if done before return filing due date.
+
+4. **MAT planning:** If book profits are high but taxable income is low due to deductions, consider whether accelerating income or restructuring deductions can reduce MAT liability.
+
+5. **R&D documentation:** Maintain proper documentation for R&D claims — approval from DSIR (Department of Scientific and Industrial Research) is required for in-house R&D under Section 35(2AB).
+
+6. **Loss utilization:** Ensure loss returns are filed by the original due date to preserve carry-forward rights for business losses.

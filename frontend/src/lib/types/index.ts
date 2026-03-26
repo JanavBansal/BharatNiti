@@ -15,6 +15,13 @@ export interface ChatMessage {
   isStreaming?: boolean;
 }
 
+export interface UserProfile {
+  income_range?: string;
+  taxpayer_type?: string;
+  age_group?: string;
+  regime?: string;
+}
+
 export interface AskResponse {
   answer: string;
   citations: Citation[];

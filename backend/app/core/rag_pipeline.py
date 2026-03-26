@@ -284,7 +284,7 @@ async def _handle_rate_lookup(intent: QuestionIntent, question: str, db: AsyncSe
         yield event
 
 
-async def _handle_rag(question: str, db: AsyncSession):
+async def _handle_rag(question: str, db: AsyncSession, profile: dict | None = None):
     """Standard RAG pipeline: retrieve → generate → score."""
     chunks = await retrieve_chunks(db, question)
 
@@ -295,7 +295,7 @@ async def _handle_rag(question: str, db: AsyncSession):
 
     full_answer = ""
     raw_response = None
-    async for event in generate_answer(question, chunks):
+    async for event in generate_answer(question, chunks, profile=profile):
         if event["type"] == "token":
             full_answer += event["data"]
             yield {"event": "token", "data": event["data"]}
@@ -319,7 +319,7 @@ async def _handle_rag(question: str, db: AsyncSession):
     })}
 
 
-async def rag_pipeline(question: str, conversation_id: str | None, db: AsyncSession):
+async def rag_pipeline(question: str, conversation_id: str | None, db: AsyncSession, profile: dict | None = None):
     """Main orchestrator. Routes questions to the optimal handler."""
     log = logger.bind(question=question)
     log.info("rag_pipeline.start")
@@ -386,7 +386,7 @@ async def rag_pipeline(question: str, conversation_id: str | None, db: AsyncSess
             yield event
 
     else:  # IN_SCOPE
-        async for event in _handle_rag(question, db):
+        async for event in _handle_rag(question, db, profile=profile):
             if event.get("event") == "answer":
                 full_answer = event["data"]
             elif event.get("event") == "token":

@@ -5,6 +5,7 @@ from sse_starlette.sse import EventSourceResponse
 
 from app.db.database import get_db
 from app.dependencies import limiter
+from app.schemas.qa import UserProfile
 
 router = APIRouter()
 
@@ -12,6 +13,7 @@ router = APIRouter()
 class AskRequest(BaseModel):
     question: str
     conversation_id: str | None = None
+    profile: UserProfile | None = None
 
     @field_validator("question")
     @classmethod
@@ -29,8 +31,10 @@ async def ask_question(request: Request, body: AskRequest, db: AsyncSession = De
     """Core RAG Q&A endpoint. Returns SSE stream of answer tokens, followed by citations and confidence."""
     from app.core.rag_pipeline import rag_pipeline
 
+    profile_dict = body.profile.model_dump(exclude_none=True) if body.profile else None
+
     async def event_generator():
-        async for event in rag_pipeline(body.question, body.conversation_id, db):
+        async for event in rag_pipeline(body.question, body.conversation_id, db, profile=profile_dict):
             yield event
 
     return EventSourceResponse(event_generator())

@@ -71,6 +71,83 @@ SUPPLEMENT_DOCS = {
         "title": "Common Indian Tax FAQs — 50 Frequently Asked Questions",
         "doc_type": "guide",
     },
+    # ── Phase 2: Strategy & Planning guides ──
+    "salary_restructuring.txt": {
+        "title": "Salary Restructuring for Tax Efficiency — HRA, LTA, NPS, Perquisites",
+        "doc_type": "guide",
+    },
+    "freelancer_tax_guide.txt": {
+        "title": "Freelancer & Consultant Tax Guide — 44ADA, GST, Advance Tax",
+        "doc_type": "guide",
+    },
+    "startup_tax_benefits.txt": {
+        "title": "Startup Tax Benefits — 80-IAC, Angel Tax, ESOP, DPIIT",
+        "doc_type": "guide",
+    },
+    "nri_taxation.txt": {
+        "title": "NRI Taxation Guide — Residential Status, DTAA, NRE/NRO, TDS",
+        "doc_type": "guide",
+    },
+    "senior_citizen_benefits.txt": {
+        "title": "Senior Citizen Tax Benefits — 80TTB, 80D, 80DDB, Form 15H",
+        "doc_type": "guide",
+    },
+    "property_tax_planning.txt": {
+        "title": "Property Tax Planning — Section 24(b), 54, 54EC, Rental Income",
+        "doc_type": "guide",
+    },
+    "investment_tax_guide.txt": {
+        "title": "Investment Taxation Guide — Equity, Debt, PPF, NPS, ELSS, SGB",
+        "doc_type": "guide",
+    },
+    "business_owner_guide.txt": {
+        "title": "Business Owner Tax Guide — 44AD, Depreciation, MAT, LLP vs Company",
+        "doc_type": "guide",
+    },
+    "tax_loopholes_legal.txt": {
+        "title": "Legal Tax Optimization — Commonly Missed Deductions & Strategies",
+        "doc_type": "guide",
+    },
+    "compliance_calendar.txt": {
+        "title": "Tax Compliance Calendar — All Deadlines & Penalties",
+        "doc_type": "guide",
+    },
+    "crypto_digital_assets.txt": {
+        "title": "Crypto & VDA Taxation — Section 115BBH, TDS 194S, NFTs",
+        "doc_type": "guide",
+    },
+    "gst_for_ecommerce.txt": {
+        "title": "GST for E-commerce — TCS, Marketplace Rules, Returns",
+        "doc_type": "guide",
+    },
+    "international_taxation.txt": {
+        "title": "International Taxation — DTAA, Transfer Pricing, Equalisation Levy",
+        "doc_type": "guide",
+    },
+    "tax_saving_strategies_by_income.txt": {
+        "title": "Tax Saving Strategies by Income Level — 7L to 1Cr+",
+        "doc_type": "guide",
+    },
+    "common_mistakes.txt": {
+        "title": "Top 20 Tax Mistakes Taxpayers Make — How to Avoid Them",
+        "doc_type": "guide",
+    },
+    "cbdt_key_circulars.txt": {
+        "title": "Key CBDT Circulars & Notifications — What CAs Know",
+        "doc_type": "circular",
+    },
+    "gst_key_notifications.txt": {
+        "title": "Key GST Notifications — Rate Changes, E-invoicing, ITC Rules",
+        "doc_type": "circular",
+    },
+    "recent_tribunal_rulings.txt": {
+        "title": "Key ITAT & Court Rulings — Practical Tax Precedents",
+        "doc_type": "circular",
+    },
+    "form_guides.txt": {
+        "title": "Tax Form Guides — 15G/15H, 10-IEA, 26AS, AIS, ITR Forms",
+        "doc_type": "guide",
+    },
 }
 
 

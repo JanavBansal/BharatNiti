@@ -1,0 +1,312 @@
+GST KEY NOTIFICATIONS, RATE CHANGES, AND COMPLIANCE REQUIREMENTS
+=================================================================
+Goods and Services Tax | Central and State GST Acts | CGST Act, 2017
+Key Notifications, Council Decisions, and Amendments up to FY 2025-26
+
+This document summarizes the most critical GST notifications, rate changes, procedural requirements, and compliance mandates that every GST-registered taxpayer must understand. References are made to the CGST Act, 2017, IGST Act, 2017, and relevant CGST Rules, 2017.
+
+---
+
+## E-Invoicing — Mandatory for Aggregate Turnover Above ₹5 Crore
+
+E-invoicing under the GST framework requires eligible taxpayers to generate invoices on their own ERP/accounting software and then report them to the Invoice Registration Portal (IRP) before or at the time of supply. The IRP authenticates the invoice and generates a unique Invoice Reference Number (IRN) and a QR code.
+
+Evolution of e-invoicing threshold:
+- October 1, 2020: Mandatory for taxpayers with aggregate turnover above ₹500 crore
+- January 1, 2021: Extended to above ₹100 crore
+- April 1, 2021: Extended to above ₹50 crore
+- April 1, 2022: Extended to above ₹20 crore
+- October 1, 2022: Extended to above ₹10 crore
+- August 1, 2023: Extended to above ₹5 crore (current threshold)
+
+As of FY 2024-25 and FY 2025-26, e-invoicing is mandatory for all registered taxpayers (except specified exemptions) with aggregate annual turnover exceeding ₹5 crore in any financial year from 2017-18 onwards.
+
+Exemptions from e-invoicing: Special Economic Zone (SEZ) units (suppliers — though SEZ developers are included from October 2023), banking/financial institutions, insurance companies, goods transport agencies, passenger transportation services, and multiplex cinema companies are exempt.
+
+Consequences of non-compliance: Invoices without IRN and QR code are not valid for ITC purposes for the recipient. The supplier may face penalty under Section 122 of the CGST Act.
+
+Practical impact: Exporters must generate e-invoices even for zero-rated supplies (exports). The IRN must be generated before the goods leave the factory for accurate e-way bill integration.
+
+---
+
+## E-Way Bill — Requirements for Goods Movement
+
+An E-Way Bill (EWB) is an electronic document generated on the E-Way Bill Portal (ewaybill.nic.in) and is required for movement of goods where the value of the consignment exceeds the prescribed threshold.
+
+Current thresholds (as per CGST Rules, 2017):
+- Inter-state movement: Mandatory for goods above ₹50,000 in value
+- Intra-state movement: Threshold varies by state — most states have adopted ₹1 lakh; check the specific state's notification. Some states have higher thresholds for specific goods.
+
+Validity of E-Way Bill (Rule 138 of CGST Rules):
+- Up to 200 km: 1 day
+- For every 200 km or part thereof: 1 additional day
+- Over-dimensional cargo: Extended validity as prescribed
+
+Who generates E-Way Bill:
+- Supplier (for supply of goods)
+- Recipient (if supplier fails to generate)
+- Transporter (if goods are handed to transporter without EWB)
+
+Exemptions from E-Way Bill: Specified goods are exempt — fresh vegetables, fruits, fish, meat, milk (unprocessed), currency, household goods during shifting, goods transported by non-motorized conveyance, and goods for personal use below thresholds.
+
+GSTN notification: If e-invoicing is applicable to the supplier, the E-Way Bill can be auto-generated based on the e-invoice details without separate entry.
+
+---
+
+## GST Composition Scheme — Eligibility, Rates, and Limits
+
+The Composition Scheme under Section 10 of the CGST Act allows small taxpayers to pay GST at a fixed percentage of turnover instead of under the regular mechanism, thereby reducing compliance burden.
+
+Eligibility thresholds (as of FY 2024-25 and FY 2025-26):
+- Manufacturers and traders (goods): Aggregate turnover up to ₹1.5 crore (₹75 lakh for special category states — Uttarakhand, Manipur, etc.)
+- Service providers (other than restaurant services): Aggregate turnover up to ₹50 lakh
+
+Tax rates under Composition Scheme:
+- Manufacturers and traders: 1% of turnover (0.5% CGST + 0.5% SGST)
+- Restaurant services: 5% of turnover (2.5% CGST + 2.5% SGST)
+- Service providers (under CGST Rule 7): 6% of turnover (3% CGST + 3% SGST)
+
+Key restrictions for Composition taxpayers:
+- Cannot collect GST from customers — composition tax is paid from the taxpayer's own pocket.
+- Cannot claim Input Tax Credit (ITC).
+- Cannot make inter-state supplies.
+- Cannot supply exempted goods or non-taxable goods.
+- Must issue "Bill of Supply" instead of "Tax Invoice."
+
+Filing requirement: Composition taxpayers file CMP-08 (quarterly statement of self-assessed tax) and GSTR-4 (annual return). No monthly returns required.
+
+---
+
+## ITC Time Limit — Section 16(4) and CBIC Clarifications
+
+Section 16(4) of the CGST Act restricts the time limit for availing Input Tax Credit. A registered taxpayer cannot claim ITC for any invoice (or debit note) relating to a financial year after:
+
+Current rule: The earlier of:
+- The date of filing the GSTR-3B for the month of November following the end of the financial year; OR
+- The date of filing the Annual Return (GSTR-9)
+
+In practical terms: ITC for FY 2024-25 must be claimed by November 30, 2025 (in the GSTR-3B for October 2025, filed by November 20, or filed late by November 30 at the latest).
+
+Amendment by Finance Act 2024: Section 16(4) was retrospectively amended to provide that ITC for any financial year from FY 2017-18 to FY 2020-21 (covered under GSTR-9C self-certification periods) can be claimed by November 30 of the respective year. This gave relief to taxpayers who had valid ITC but faced the time bar.
+
+New condition under Section 16(2)(ba) (from October 1, 2022): ITC cannot be claimed if it does not appear in GSTR-2B of the recipient. This is the most critical change — you can only claim ITC that is reflected in your GSTR-2B (which is auto-populated from suppliers' GSTR-1 filings).
+
+Practical implication: If your supplier has not filed GSTR-1, the ITC will not appear in your GSTR-2B, and you cannot legally claim it — even if you have a genuine purchase invoice.
+
+---
+
+## GST on Online Gaming — 28% on Full Face Value
+
+A landmark change was made effective October 1, 2023 following the 51st GST Council meeting: GST on online gaming (actionable claims in the form of chance) was revised to 28% on the full face value of bets/deposits.
+
+Key provisions:
+- Rate: 28% IGST on the full face value of each bet/deposit placed in online gaming
+- This applies to all online gaming — games of skill AND games of chance (the distinction was eliminated for GST purposes)
+- No threshold — applies from the first rupee deposited/wagered
+- Online gaming companies are required to register under GST in every state from which they have customers (multi-state registration)
+
+Previous position (before October 1, 2023): Online gaming was taxed at 18% on the platform fee or gross gaming revenue (GGR). Fantasy sports and games of skill platforms were taxing at 18% on their commission/margin.
+
+Deemed supply under Schedule III: The supply of actionable claims (chit fund, lottery tickets, horse race club betting) is now specifically included in the taxable supply category for online gaming.
+
+Import of services: If an Indian resident plays on a foreign gaming platform, the Indian resident is liable to pay IGST under the reverse charge mechanism under Section 5(3) of the IGST Act.
+
+---
+
+## GST on Food Delivery Apps — Zomato and Swiggy as Deemed Suppliers
+
+From January 1, 2022, online food ordering and delivery platforms (ECOs — Electronic Commerce Operators) like Zomato and Swiggy are treated as deemed suppliers of restaurant services under Section 9(5) of the CGST Act.
+
+Applicable GST rate: 5% without ITC (same as restaurant services)
+
+This means:
+- The restaurant does not charge GST to the customer on orders through Zomato/Swiggy.
+- Zomato/Swiggy (the ECO) is liable to collect and pay 5% GST on the restaurant bill (not on their delivery fee).
+- Delivery charges may separately attract 18% GST (treated as a separate supply of courier/delivery services by the platform).
+
+The restaurant must still separately account for dine-in sales at the applicable GST rate.
+
+This mechanism ensures tax compliance even when small restaurants (below ₹20 lakh threshold) supply through ECOs, as the GST liability shifts to the platform.
+
+---
+
+## IGST on Ocean Freight — Supreme Court Ruling and RCM Removal
+
+The Supreme Court of India, in the case of Union of India vs. Mohit Minerals Pvt. Ltd. (May 2022), held that IGST cannot be levied on ocean freight for CIF (Cost, Insurance, Freight) imports under the reverse charge mechanism. The Court ruled that:
+
+- The IGST on ocean freight was unconstitutional as it amounted to double taxation — once on the CIF value (which includes freight) and once on the freight component separately.
+- The Government's attempt to tax ocean freight through the RCM (Notification 10/2017-IGST(Rate)) was struck down.
+
+Post-ruling position: IGST on ocean freight under RCM has been removed. Importers on CIF basis are NOT required to pay IGST on the ocean freight component under RCM.
+
+Refund implications: Importers who paid IGST on ocean freight between July 1, 2017 and the SC ruling may claim refunds, subject to limitation periods and specific conditions.
+
+---
+
+## GST on Real Estate — Rates and ITC Position
+
+GST on real estate is one of the most complex areas of the GST framework, with different rates applying to different categories:
+
+Under-construction property (ongoing projects):
+- Affordable housing (RERA carpet area up to 60 sq. meters in metros; 90 sq. meters in other cities; consideration up to ₹45 lakh): 1% without ITC
+- Other than affordable housing: 5% without ITC
+
+From April 1, 2019 (post-GST Council revision): Developers opted for the revised rate scheme (1%/5% without ITC) or continued under the old scheme (8%/12% with ITC) for ongoing projects.
+
+Ready-to-move-in / Completed property (post-completion certificate): No GST (treated as immovable property, not a supply of goods or services)
+
+Commercial property (under construction): 12% with ITC
+
+Plotted development and land: No GST on sale of land (Schedule III — treated as neither supply of goods nor services). However, if any development charges or amenity charges are collected, they attract 18% GST.
+
+ITC restriction: Developers cannot claim ITC on inputs used for construction of units sold under the 1%/5% rate scheme.
+
+---
+
+## ITC Restriction Under Rule 36(4) — GSTR-2B Matching
+
+CGST Rule 36(4) (as amended from January 1, 2022, and formalized through Section 16(2)(ba)) provides that ITC can only be availed to the extent the supply is reflected in GSTR-2B of the recipient.
+
+GSTR-2B is auto-generated on the 14th of each month based on the supplier's GSTR-1 / GSTR-1A / IFF filings for the previous month.
+
+Consequences:
+- If a supplier files GSTR-1 late, the ITC on that supplier's invoice will not appear in the recipient's GSTR-2B for that month — it will appear only in the following month's GSTR-2B.
+- Claiming ITC beyond GSTR-2B matching is subject to reversal with interest at 18% per annum plus possible penalty.
+- Interest is applicable from the date of erroneous availment under Section 50 of the CGST Act.
+
+Amendment (Finance Act 2024): Section 16(5) and (6) were inserted to provide conditional ITC claims for the period July 2017 to November 2021, subject to the filing of returns by the supplier.
+
+---
+
+## GST Annual Return — GSTR-9 and Self-Certification
+
+GSTR-9 (Annual Return) is required to be filed by all registered taxpayers (except composition taxpayers, who file GSTR-4; and specific exempted categories) for each financial year.
+
+Due date: December 31 following the end of the financial year (e.g., GSTR-9 for FY 2024-25 is due by December 31, 2025).
+
+Filing threshold for GSTR-9:
+- Taxpayers with aggregate turnover up to ₹2 crore in a financial year have an optional exemption from filing GSTR-9 — but it is still advisable to file.
+- Taxpayers with aggregate turnover above ₹5 crore must also file GSTR-9C (Reconciliation Statement).
+
+GSTR-9C (Reconciliation Statement):
+- Previously required CA certification for filing. From FY 2020-21, self-certification by the taxpayer was allowed in lieu of CA certification.
+- GSTR-9C reconciles the audited financial statement turnover with the GST return turnover and identifies any differences.
+
+Penalty for non-filing of GSTR-9: ₹200 per day (₹100 CGST + ₹100 SGST) subject to a maximum of 0.25% of aggregate turnover.
+
+---
+
+## GST on Rent — Commercial vs. Residential
+
+GST treatment of rental income depends on the nature of the property and who the landlord and tenant are:
+
+Commercial property (shops, offices, warehouses):
+- Landlord registered under GST: Collects 18% GST on rent from tenant
+- Landlord not registered: No GST (below registration threshold)
+- If landlord is registered and tenant is registered: Reverse charge does NOT apply; landlord charges forward charge
+
+Residential property (housing, apartments, flats):
+- Exempt from GST if rented for residential purposes (personal use): No GST regardless of whether landlord or tenant is registered
+- Rented to a registered person (company, firm, etc.) for use as a GUESTHOUSE or for commercial purposes: 18% GST applies under RCM — the registered tenant pays GST under reverse charge
+- From July 18, 2022 (following 47th GST Council): GST on residential dwellings rented to registered persons under RCM was clarified — GST is payable by the registered recipient (tenant) if the property is rented for use as a residence by employees
+
+The distinction is crucial: If a company rents a flat for its employees to live in and pays GST under RCM, it CANNOT claim ITC on such GST (as blocked credit under Section 17(5)(g)).
+
+---
+
+## Reverse Charge Mechanism — Sections 9(3) and 9(4)
+
+Under the Reverse Charge Mechanism (RCM), the recipient of goods/services (rather than the supplier) is liable to pay GST. RCM applies in two scenarios:
+
+Section 9(3) — Specified supplies: The CBIC notifies specific categories of supplies where RCM applies:
+- Legal services by an advocate to a business: 18% RCM (recipient pays)
+- Goods Transport Agency (GTA) services: 5% without ITC or 12% with ITC — recipient pays under RCM (or GTA can opt for forward charge)
+- Director's remuneration (outside contract): 18% RCM
+- Import of services (OIDAR and others): IGST under RCM
+- Supply of used vehicles, seized/confiscated goods by Government: RCM
+- Metal scrap (from October 2024 — 38th GST Council notification): RCM applicable on supply of metal scrap by registered suppliers to registered recipients
+- Sponsorship services: 18% RCM if provided by any person to any corporate or partnership firm
+
+Section 9(4) — Supplies by unregistered person to registered person: If an unregistered supplier supplies goods or services to a registered recipient, the registered recipient must pay GST under RCM on such supply.
+
+Currently, Section 9(4) RCM is NOT broadly applicable — CBIC has exempted most goods and services categories from this provision through Notification 8/2017-CT(Rate) and amendments. RCM under Section 9(4) applies only to specified categories notified by CBIC.
+
+---
+
+## GST Registration — Key Thresholds and Mandatory Registration Cases
+
+Mandatory registration threshold:
+- Goods suppliers: Aggregate turnover exceeding ₹40 lakh in a financial year (₹20 lakh for special category states)
+- Service providers: Aggregate turnover exceeding ₹20 lakh (₹10 lakh for special category states)
+
+Mandatory registration regardless of turnover:
+- Inter-state suppliers of goods or services
+- E-commerce operators
+- Suppliers through e-commerce operators
+- Non-resident taxable persons
+- Persons liable under RCM (for purposes of paying RCM only)
+- Casual taxable persons
+- OIDAR service providers from outside India to non-business recipients in India
+
+Aadhaar authentication for GST registration: Mandatory from January 1, 2022. Taxpayers who fail to authenticate via Aadhaar must personally verify at a GST Suvidha Kendra. Risk-based physical verification has been introduced for high-risk applicants.
+
+Cancellation and suspension: GST registration can be cancelled by the officer if returns are not filed for 6 months (or 2 quarters for composition dealers). Suspension is automatic if returns are not filed for 2 or more consecutive tax periods.
+
+---
+
+## Input Tax Credit — Blocked Credits Under Section 17(5)
+
+Section 17(5) of the CGST Act lists categories of goods and services for which ITC is blocked (cannot be claimed), even if the taxpayer has a valid tax invoice:
+
+Key blocked credits:
+- Motor vehicles (cars, motorcycles) — except when used for further supply of vehicles, transportation of goods, transportation of passengers, or imparting driving training
+- Food and beverages, outdoor catering — except when used for making an outward taxable supply of the same category or as a part of a supply of a package tour
+- Beauty treatment, health services, cosmetic surgery
+- Membership of clubs, health and fitness centres
+- Travel benefits extended to employees (LTC, home travel on vacation)
+- Construction of immovable property (works contract) — except plant and machinery
+- Goods or services used for personal consumption
+- Free samples and gifts
+
+Note: ITC on employee welfare (food, gym) is blocked unless it is a statutory requirement or part of a collective bargaining agreement.
+
+---
+
+## Place of Supply for IT/ITES Services — IGST Act
+
+Place of supply for services determines whether IGST (inter-state tax) or CGST+SGST (intra-state tax) applies.
+
+General rule for services (Section 12, IGST Act — B2B): The place of supply is the location of the registered recipient.
+
+For B2C services: The place of supply is the location where the service is performed, or the recipient's location in certain cases.
+
+For IT/ITES (Information Technology Enabled Services) exported to foreign clients: These are "zero-rated supplies" under Section 16 of the IGST Act. Exporters can either:
+- Export under LUT (Letter of Undertaking) without paying IGST and then claim refund of ITC; OR
+- Pay IGST on export invoice and claim refund of IGST paid
+
+CBIC Circular 107/26/2019: Clarified that intermediary services in IT do not qualify as export of services if the service provider is an "intermediary" (works on behalf of a foreign principal). This was a controversial circular that affected many IT/ITeS companies with back-office service arrangements.
+
+---
+
+Summary of Key GST Rates (Common Categories as of FY 2025-26)
+
+| Category | GST Rate |
+|---|---|
+| Essential food items (rice, wheat, milk) | Nil (exempt) |
+| Processed food (packaged) | 5% or 12% |
+| Restaurants (non-AC, non-liquor) | 5% without ITC |
+| Hotels/restaurants with room rate above ₹7,500 | 18% with ITC |
+| Online gaming (face value) | 28% |
+| Financial services (banking, insurance) | 18% |
+| Professional services (CA, lawyer, doctor non-medical) | 18% |
+| Real estate (affordable housing, under construction) | 1% without ITC |
+| Real estate (non-affordable, under construction) | 5% without ITC |
+| Construction services (civil) | 12% (with ITC) |
+| Automobile (passenger cars above 1500cc) | 28% + cess |
+| Telecom services | 18% |
+| Education (school, university, coaching below specified limits) | Nil or exempt |
+| Healthcare (clinical establishment, ambulance) | Nil (exempt) |
+
+---
+
+Disclaimer: GST law is subject to frequent changes through CBIC notifications, GST Council decisions, and court rulings. This document is for informational purposes based on law as of FY 2025-26. Always consult a qualified GST practitioner or Chartered Accountant for specific compliance advice.

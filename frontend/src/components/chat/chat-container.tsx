@@ -6,13 +6,14 @@ import { MessageBubble } from "./message-bubble";
 import { QuestionInput } from "./question-input";
 import { SuggestedQuestions } from "./suggested-questions";
 import { ChevronDown } from "lucide-react";
+import { UserProfilePanel } from "./user-profile";
 
 interface ChatContainerProps {
   initialQuestion?: string;
 }
 
 export function ChatContainer({ initialQuestion }: ChatContainerProps) {
-  const { messages, isLoading, sendMessage } = useChat();
+  const { messages, isLoading, sendMessage, profile, setProfile } = useChat();
   const scrollRef = useRef<HTMLDivElement>(null);
   const [isNearBottom, setIsNearBottom] = useState(true);
 
@@ -73,6 +74,7 @@ export function ChatContainer({ initialQuestion }: ChatContainerProps) {
       {/* Input */}
       <div className="border-t border-[var(--border)] p-3 sm:p-4 bg-[var(--background)]">
         <div className="max-w-3xl mx-auto">
+          <UserProfilePanel profile={profile} onChange={setProfile} />
           <QuestionInput
             onSubmit={sendMessage}
             disabled={isLoading}

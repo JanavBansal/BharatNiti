@@ -1,0 +1,363 @@
+COMMON TAX MISTAKES INDIAN TAXPAYERS MAKE — AY 2025-26 & AY 2026-27
+======================================================================
+Assessment Year 2025-26 (Financial Year 2024-25) | Assessment Year 2026-27 (Financial Year 2025-26)
+Applicable Law: Income Tax Act, 1961 (as amended by Finance Acts 2024 and 2025)
+
+This guide covers the top 20 mistakes made by Indian taxpayers that result in excess tax outgo, interest liability, penalties, or compliance failures. Each mistake is explained with the correct approach, relevant section numbers, and quantum of loss or penalty if ignored.
+
+---
+
+## Mistake 1: Not Claiming Section 80D Deduction for Parents' Medical Insurance
+
+One of the most consistently overlooked deductions is the additional ₹25,000 to ₹50,000 available under Section 80D of the Income Tax Act for medical insurance premiums paid for parents.
+
+Under Section 80D, the deduction structure is:
+- Self, spouse, and dependent children: Up to ₹25,000 per year
+- Parents (any age): Additional ₹25,000 per year
+- If parents are senior citizens (age 60 or above): Additional ₹50,000 per year
+
+This means a taxpayer under 60 years who insures both self and senior citizen parents can claim a total deduction of ₹75,000 (₹25,000 + ₹50,000) under Section 80D alone.
+
+Additionally, preventive health check-up expenses up to ₹5,000 are included within the above limits. The deduction is available even if the premium is paid in cash for preventive health check-ups (though other premiums must be paid through banking channels).
+
+Correct approach: Obtain the health insurance premium receipt from the insurer. Declare the premium to your employer via Form 12BB, or claim it directly in the ITR under Chapter VI-A deductions.
+
+Common error: Taxpayers often claim only ₹25,000 for self and spouse and forget the additional deduction for parents, even when they are paying their parents' Mediclaim premiums. This oversight can cost ₹7,500 to ₹15,600 in additional tax (depending on applicable tax slab).
+
+---
+
+## Mistake 2: Missing Advance Tax Deadlines — Section 234B and Section 234C Interest
+
+Taxpayers with tax liability exceeding ₹10,000 in a financial year (after TDS) are required to pay advance tax in four installments:
+
+- 15% by June 15
+- 45% by September 15
+- 75% by December 15
+- 100% by March 15
+
+Failure to pay advance tax results in:
+- Section 234B: Interest at 1% per month (or part thereof) on the shortfall from April 1 of the assessment year until the date of actual payment or completion of assessment.
+- Section 234C: Interest at 1% per month on the installment shortfall. If less than 15% is paid by June 15, interest applies on the shortfall for 3 months. Similar calculations apply for September and December installments.
+
+Freelancers, self-employed professionals, traders, and those with significant capital gains, rental income, or dividend income are most commonly affected.
+
+Note for capital gains: If capital gains arise after March 15, the entire tax on such gains can be paid by March 31 without any Section 234C interest. However, if capital gains arise earlier in the year (e.g., in June or September), the deferral strategy of paying all capital gains tax in March will attract Section 234C interest.
+
+Correct approach: Estimate total income including all sources at the start of the financial year. Pay advance tax installments on time. Use the online income tax portal (www.incometax.gov.in) to pay advance tax using Challan 280.
+
+---
+
+## Mistake 3: Filing the Wrong ITR Form
+
+Taxpayers frequently file ITR-1 (Sahaj) when they should be filing ITR-2 or ITR-3, which can render the return defective or invalid.
+
+ITR-1 (Sahaj) is applicable ONLY if:
+- Total income is up to ₹50 lakh
+- Income is from salary or pension, one house property, and other sources (interest, dividends up to certain limits)
+- No capital gains of any kind (including LTCG on equity shares, mutual funds, or any asset)
+- Not a director in a company
+- Does not hold unlisted equity shares
+- Agricultural income up to ₹5,000
+
+ITR-2 is required if:
+- Capital gains exist (from shares, mutual funds, property, gold, etc.)
+- More than one house property
+- Foreign income or foreign assets
+- Agricultural income exceeds ₹5,000
+- Income from lottery or horse races
+
+ITR-3 is required for:
+- Business or professional income (including F&O trading, intraday trading)
+- Partners in a partnership firm
+
+ITR-4 (Sugam) is for:
+- Presumptive income under Section 44AD (business up to ₹3 crore), 44ADA (professional up to ₹75 lakh), or 44AE (transport operators)
+
+A person filing ITR-1 with capital gains income is filing an incorrect form. The return is treated as defective under Section 139(9), and the Income Tax Department will issue a notice seeking rectification.
+
+---
+
+## Mistake 4: Not Reporting Exempt Income
+
+Many taxpayers believe that exempt income need not be reported in the ITR. This is incorrect. The Income Tax Act requires disclosure of all exempt income in the return, even if it is not taxable.
+
+Key exempt incomes that must be reported:
+
+- Agricultural income: Must be reported in Schedule EI (Exempt Income). Agricultural income is added to total income for rate purposes only (rate applicable to aggregate income) even though it is exempt.
+- PPF interest: Exempt under Section 10(11), but must be disclosed in Schedule EI.
+- LTCG on listed equity shares/equity mutual funds: Up to ₹1,25,000 (from AY 2025-26, raised from ₹1,00,000 by Finance Act 2024) is exempt under Section 112A. Even exempt LTCG must be reported in Schedule 112A.
+- Maturity proceeds of life insurance policies: Exempt under Section 10(10D) (subject to conditions) — must be reported.
+- Gifts received from specified relatives: Exempt under Section 56(2)(x) — must be disclosed.
+- Leave travel allowance (LTA): Exempt under Section 10(5) — must be reported in ITR.
+
+Failure to disclose exempt income can result in scrutiny assessments and questions about the source of funds.
+
+---
+
+## Mistake 5: Not Claiming Section 80CCD(1B) — Additional NPS Deduction of ₹50,000
+
+Section 80CCD(1B) provides an additional deduction of up to ₹50,000 for contributions made to the National Pension System (NPS) by an individual. This deduction is OVER AND ABOVE the ₹1,50,000 limit of Section 80C.
+
+Many taxpayers are aware of the ₹1,50,000 Section 80C limit but are unaware that NPS contributions qualify for an extra ₹50,000 under Section 80CCD(1B), effectively making the combined limit ₹2,00,000 for NPS alone (₹1,50,000 under 80C + ₹50,000 under 80CCD(1B)).
+
+Important: Section 80CCD(1B) is available under the OLD tax regime only. It is NOT available in the new tax regime under Section 115BAC.
+
+Tax saving potential: At the 30% slab, claiming this deduction saves ₹15,000 to ₹15,600 in tax per year (including 4% health and education cess).
+
+Additionally, employer's contribution to NPS up to 10% of salary (Basic + DA) is deductible under Section 80CCD(2), which is available even in the new tax regime.
+
+---
+
+## Mistake 6: Not Switching Tax Regime — Incorrectly Filing Without Form 10-IEA
+
+From AY 2024-25 onwards, the new tax regime under Section 115BAC is the DEFAULT regime for all taxpayers. Taxpayers who wish to opt for the old tax regime must actively choose it.
+
+For individuals with salary income (no business income): They can choose between old and new regime at the time of filing each ITR. They can switch every year.
+
+For individuals with business or professional income (including freelancers, self-employed, F&O traders): They must file Form 10-IEA before the due date of filing ITR to opt out of the new tax regime. Once they opt out, they can switch back to the new regime only once in their lifetime.
+
+Common mistake: Business income taxpayers fail to file Form 10-IEA and then claim deductions like 80C, 80D, HRA exemption — all of which are disallowed in the new tax regime. The ITR may be processed incorrectly, or a demand notice may be issued.
+
+Correct approach: File Form 10-IEA before the due date (July 31 or October 31, as applicable) if you have business income and wish to use the old regime.
+
+---
+
+## Mistake 7: Not Claiming Standard Deduction in the New Tax Regime
+
+From AY 2024-25, a standard deduction of ₹50,000 was introduced for salaried individuals and pensioners even under the new tax regime (Section 115BAC).
+
+This was enhanced to ₹75,000 from AY 2025-26 onwards (effective from Financial Year 2024-25), as announced in the Union Budget 2024.
+
+Many taxpayers who shifted to the new regime were unaware that the standard deduction was available, leaving ₹75,000 worth of deduction unclaimed. At 20% tax slab, this results in ₹15,000 of additional tax payment (plus cess), which is easily avoidable.
+
+Additionally, the family pension deduction for pensioners receiving family pension is ₹25,000 in the new regime (enhanced from AY 2025-26, up from ₹15,000).
+
+---
+
+## Mistake 8: Paying TDS But Not Claiming TDS Credit
+
+TDS (Tax Deducted at Source) is an advance tax payment on behalf of the taxpayer. If TDS is deducted from your income but you do not claim credit for it in your ITR, you end up paying tax twice.
+
+TDS credit is reflected in:
+- Form 26AS (Annual Tax Statement): Available on the income tax portal.
+- AIS (Annual Information Statement): A more comprehensive statement introduced from FY 2021-22.
+
+Common situations where TDS is missed:
+- Bank FD interest: TDS under Section 194A. Taxpayers often forget to include the interest income AND the TDS credit.
+- Professional fees: TDS at 10% under Section 194J.
+- Rent from property: TDS by tenant under Section 194-IB (if monthly rent exceeds ₹50,000).
+- Sale of property: TDS by buyer under Section 194-IA at 1%.
+- Freelance payments from foreign clients: TDS may not apply, but credit for advance tax must be claimed.
+
+Correct approach: Download Form 26AS and AIS before filing the ITR. Match all TDS credits with income reported. Any mismatch between your income declaration and Form 26AS can trigger an automated scrutiny notice.
+
+---
+
+## Mistake 9: Not Filing ITR When Income Is Below Exemption Limit
+
+Taxpayers with total income below the basic exemption limit (₹2.5 lakh under old regime; ₹3 lakh under new regime) sometimes believe they are not required to file a return. While technically correct in many cases, not filing can result in significant losses:
+
+- Refund loss: If TDS has been deducted (e.g., bank FD interest, salary TDS), filing an ITR is the only way to claim a refund. Unfiled returns mean you forfeit this refund.
+- Capital gains exemption loss: LTCG up to ₹1,25,000 on equity is exempt, but this exemption applies only if the return is filed. Not filing forfeits this benefit.
+- Carry-forward of losses: Losses under the head "Capital Gains" or "Business Income" can be carried forward for 8 years, but only if the return is filed within the due date (Section 80).
+- Proof of income for visa and loan applications: Many foreign embassies and banks require ITR copies for visa applications and loan processing.
+- High-value transaction matching: If you have high-value transactions reported under SFT (e.g., property purchase, large bank deposits), filing an ITR provides a clean record explaining the source of funds.
+
+Mandatory filing conditions (even if income is below exemption limit): Filing is mandatory if foreign travel exceeds ₹2 lakh, electricity consumption exceeds ₹1 lakh, or cash deposits in savings accounts exceed ₹50 lakh in a year.
+
+---
+
+## Mistake 10: Using Wrong AY vs FY — Assessment Year Confusion
+
+A common source of errors is confusing Financial Year (FY) with Assessment Year (AY):
+
+- Financial Year (FY) 2024-25: April 1, 2024 to March 31, 2025 — the year in which income is earned.
+- Assessment Year (AY) 2025-26: April 1, 2025 to March 31, 2026 — the year in which the income of FY 2024-25 is assessed and tax is paid.
+
+Mistakes caused by this confusion:
+- Filing ITR for wrong AY (e.g., filing AY 2024-25 return with FY 2024-25 income).
+- Paying tax challan under wrong AY.
+- Selecting wrong AY when paying advance tax or self-assessment tax.
+
+A challan paid under the wrong AY cannot be automatically adjusted and requires rectification under Section 154 or application to the Assessing Officer.
+
+Mnemonic: AY is always one year AFTER FY. Income earned in FY 2024-25 is filed in AY 2025-26.
+
+---
+
+## Mistake 11: Not Reporting Foreign Assets in Schedule FA
+
+Indian residents who hold foreign assets or have foreign income are required to mandatorily report them in Schedule FA (Foreign Assets) and Schedule FSI (Foreign Source Income) of the ITR.
+
+Foreign assets include:
+- Bank accounts outside India
+- Financial interests in foreign entities
+- Immovable property outside India
+- Foreign trusts
+- Foreign equity or debt holdings (including US stocks, NRI portfolios converted to resident status)
+
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 prescribes penalties of ₹10 lakh per year for non-disclosure of foreign assets, and prosecution in egregious cases.
+
+Even if a foreign account has zero balance or negligible income, it must be reported if the taxpayer has signing authority or beneficial interest.
+
+---
+
+## Mistake 12: Claiming Both HRA Exemption and Section 80GG Deduction
+
+Section 10(13A) provides HRA exemption for salaried employees who receive House Rent Allowance as part of their salary and pay rent for accommodation.
+
+Section 80GG provides a deduction for rent paid by individuals who do NOT receive HRA (typically self-employed persons or salaried employees whose salary structure does not include HRA).
+
+A taxpayer CANNOT claim both exemptions simultaneously. If HRA is part of the salary structure (even if ₹0 received because the employer structured it differently), Section 80GG cannot be claimed.
+
+Section 80GG limits the deduction to the least of:
+- ₹5,000 per month (₹60,000 per year)
+- 25% of adjusted total income
+- Rent paid minus 10% of adjusted total income
+
+Claiming 80GG when HRA is received is a common error that can lead to demand notices. Also, to claim 80GG, the taxpayer or spouse or minor child must not own any residential accommodation at the place of employment.
+
+Filing Form 10BA (self-declaration for rent paid) is mandatory before claiming Section 80GG.
+
+---
+
+## Mistake 13: Not Deducting TDS When Buying Property Above ₹50 Lakh — Section 194-IA
+
+Under Section 194-IA, any person buying immovable property (other than agricultural land) for a consideration of ₹50 lakh or more is required to deduct TDS at 1% at the time of payment.
+
+Responsibilities of the buyer:
+- Deduct TDS at 1% on the full sale consideration (not just the amount exceeding ₹50 lakh).
+- Deposit TDS using Form 26QB within 30 days from the end of the month in which TDS is deducted.
+- Issue Form 16B (TDS certificate) to the seller within 15 days of filing Form 26QB.
+
+Note: From the Finance Act 2022, if the consideration or stamp duty value (whichever is higher) exceeds ₹50 lakh, TDS applies on the higher of the two.
+
+Penalty for non-deduction or non-deposit: Interest at 1% per month (non-deduction) or 1.5% per month (non-deposit) under Sections 201 and 234E. Additionally, the buyer may be treated as an "assessee in default."
+
+---
+
+## Mistake 14: Missing the Section 54 Reinvestment Window
+
+Section 54 of the Income Tax Act provides an exemption from Long Term Capital Gains (LTCG) arising from the sale of a residential house property, if the taxpayer reinvests the capital gains in purchasing or constructing another residential house property.
+
+Time limits (strict):
+- Purchase of new property: Within 1 year BEFORE or 2 years AFTER the date of sale.
+- Construction of new property: Within 3 years from the date of sale.
+
+If the reinvestment is not completed before the ITR due date, the amount of capital gains must be deposited in the Capital Gains Account Scheme (CGAS) with a designated bank before the ITR due date. The amount can be withdrawn from CGAS for the actual purchase or construction within the prescribed time.
+
+Common mistake: Taxpayers sell a house, claim Section 54 exemption in the ITR, but then miss the 2-year purchase deadline (or 3-year construction deadline) without depositing in CGAS. The exemption is withdrawn, and the LTCG becomes taxable in the year of sale with interest under Section 234B.
+
+From AY 2024-25, the Finance Act 2023 has capped the Section 54 exemption at ₹10 crore. LTCG exceeding this amount from sale of residential property is taxable even if reinvested.
+
+---
+
+## Mistake 15: Not Maintaining Adequate Records Under Presumptive Taxation
+
+Taxpayers who opt for presumptive taxation under Section 44AD (business), 44ADA (professionals), or 44AE (transport) are NOT required to maintain books of accounts as prescribed under Section 44AA, and are NOT required to get accounts audited under Section 44AB — as long as they declare income at the prescribed minimum rate (8% or 6% of turnover for 44AD; 50% of gross receipts for 44ADA).
+
+However, a taxpayer who opts for presumptive taxation and then claims income LOWER than the prescribed rate is required to:
+- Maintain books of accounts as prescribed.
+- Get accounts audited under Section 44AB.
+- File Form 3CB and Form 3CD as the tax audit report.
+
+Common mistake: Taxpayers opt for presumptive taxation for several years and then, in one year, declare lower income without proper books. During scrutiny, the AO can disallow the lower income claim and make additions.
+
+Also, under Section 44AD(4), if a taxpayer opts out of presumptive taxation after claiming it in a year, they CANNOT opt back into presumptive taxation for the next 5 years.
+
+---
+
+## Mistake 16: Double-Counting 80C Deductions — Employee PF Already Counted
+
+The ₹1,50,000 limit under Section 80C encompasses many investments and expenses. However, many taxpayers are unaware that their own contribution to the Employee Provident Fund (EPF) is automatically counted within Section 80C.
+
+This leads to a frequent error: The taxpayer's employer deducts EPF contribution from salary (typically 12% of Basic), which is already included in the TDS computation as a Section 80C deduction. The taxpayer then additionally makes a PPF investment of ₹1,50,000 and mistakenly believes they have ₹3,00,000 in total 80C deductions.
+
+The EPF employee contribution + PPF together cannot exceed ₹1,50,000 for the purposes of Section 80C deduction. Any excess over ₹1,50,000 is not deductible.
+
+Full list under Section 80C (combined limit ₹1,50,000): EPF employee contribution, PPF, ELSS mutual funds, NSC, 5-year tax-saving FD, life insurance premium, principal repayment of home loan, children's tuition fees, SSY, senior citizens savings scheme.
+
+---
+
+## Mistake 17: Gifting Money to Spouse and Reinvesting — Clubbing Under Section 64
+
+Section 64 of the Income Tax Act provides for "clubbing of income." When an individual gifts money to their spouse (or minor child, or son's wife), and the donee invests those funds, the income from such invested funds is clubbed back into the income of the donor (transferor).
+
+This means: If you gift ₹10 lakh to your spouse, and your spouse earns ₹70,000 in FD interest on that amount, the ₹70,000 interest is taxable in YOUR hands, not your spouse's.
+
+Clubbing of income applies to:
+- Income from transferred assets to spouse: Section 64(1)(iv)
+- Income from assets transferred to son's wife: Section 64(1)(vi)
+- Income from assets transferred to a person for the benefit of spouse: Section 64(1)(vii)
+- Minor child's income (with exceptions): Section 64(1A)
+
+Important exceptions: Clubbing does not apply if the transfer is for adequate consideration. Also, in the case of minor child, ₹1,500 per child per year is excluded from clubbing (the balance is clubbed with the parent with higher income).
+
+Common mistake: Taxpayers try to split income with family members by gifting money, not realizing that clubbing provisions reverse the tax benefit.
+
+---
+
+## Mistake 18: Not Utilizing HUF (Hindu Undivided Family) for Income Splitting
+
+An HUF is a separate legal entity under Indian tax law and is taxed independently. Hindu, Jain, Sikh, and Buddhist families can form an HUF. The karta (head) of the HUF manages the family's joint property.
+
+The HUF has its own PAN, files its own ITR, and is eligible for:
+- Basic exemption limit (₹2.5 lakh under old regime; ₹3 lakh under new regime)
+- Chapter VI-A deductions (80C, 80D, etc.) separately from the individual members
+- Standard deduction is NOT available to HUF (since it is not salaried)
+
+Practical benefit: A family where the karta has ₹15 lakh income can potentially create an HUF with ancestral property income, splitting tax liability between two entities and saving significant tax.
+
+Common mistake: Many eligible families do not form an HUF simply due to lack of awareness. Note that forming an HUF requires ancestral property or a gift from relatives at the time of formation.
+
+Important caveat: HUF cannot be formed with self-acquired property gifted only by the karta. Partition of HUF has specific tax implications and requires careful planning.
+
+---
+
+## Mistake 19: Forgetting to Report Interest on Income Tax Refund as Taxable Income
+
+When the Income Tax Department processes a refund and pays it late, it also pays interest under Section 244A at 0.5% per month (or part thereof) from April 1 of the assessment year (or date of filing, if later) to the date of grant of refund.
+
+This refund interest is fully taxable under the head "Income from Other Sources" under Section 56.
+
+Many taxpayers do not receive a TDS certificate for this interest and therefore omit it from their ITR. However, the amount is reflected in Form 26AS and AIS. If omitted, the ITR processing system automatically identifies the mismatch and issues a demand under Section 143(1).
+
+---
+
+## Mistake 20: Ignoring the Annual Information Statement (AIS) — Transactions May Not Match
+
+The AIS (Annual Information Statement) is a comprehensive document available on the income tax portal that shows all financial transactions reported by third parties to the Income Tax Department under Statement of Financial Transactions (SFT) and other reporting mechanisms.
+
+Transactions covered in AIS include:
+- Dividends paid by companies (reported by RTA/depositories)
+- Interest on FDs and savings accounts (reported by banks)
+- Purchase and sale of securities and mutual funds (reported by depositories and RTAs)
+- Purchase of property above ₹30 lakh (reported by sub-registrars)
+- Foreign remittances (reported by authorized dealers)
+- GST turnover (reported by GSTN)
+- Cash deposits and withdrawals exceeding thresholds (reported by banks)
+
+If a taxpayer's ITR does not match the income shown in AIS, the automated processing system under Section 143(1) will flag the discrepancy. The taxpayer will receive a demand notice or intimation for additional tax.
+
+Correct approach: Review AIS on the income tax portal before filing ITR. If any information is incorrect, submit feedback on the portal to mark it as incorrect or duplicate. Always reconcile AIS information with actual income.
+
+---
+
+## Summary Table — Top Mistakes and Potential Tax Impact
+
+| Mistake | Relevant Section | Potential Tax/Penalty Impact |
+|---|---|---|
+| Missing 80D for parents | Section 80D | ₹7,500–₹20,800 excess tax |
+| Missing advance tax | Sections 234B, 234C | 1%/month interest |
+| Wrong ITR form | Section 139(9) | Defective return notice |
+| Not reporting exempt income | Section 139 | Scrutiny risk |
+| Missing 80CCD(1B) NPS | Section 80CCD(1B) | ₹15,600 excess tax |
+| Wrong regime without Form 10-IEA | Section 115BAC | Demand notices |
+| Missing standard deduction (new regime) | Section 16(ia) | ₹15,000–₹23,400 excess tax |
+| Missing TDS credit | Section 199 | Refund forfeited |
+| Not filing ITR | Section 139 | Refund and loss carry-forward forfeited |
+| Property TDS not deducted | Section 194-IA | Interest + penalty + default status |
+
+---
+
+Disclaimer: Tax laws are subject to change. Always consult a qualified Chartered Accountant for advice specific to your situation. The figures in this document are based on the Income Tax Act as amended up to AY 2026-27.

@@ -8,41 +8,49 @@ from app.config import settings
 logger = structlog.get_logger()
 _openai_client: AsyncOpenAI | None = None
 
-SYSTEM_PROMPT = """You are an expert Indian tax law research assistant. You answer questions based ONLY on the provided legal text excerpts.
+SYSTEM_PROMPT = """You are a senior Chartered Accountant with 20 years of experience advising Indian taxpayers. You combine deep knowledge of the Income Tax Act, GST Act, and CBDT circulars with practical tax planning expertise.
+
+YOUR ROLE:
+- Answer tax questions with the depth and strategic insight of an experienced CA
+- Use the provided legal context for ACCURATE CITATIONS, but also apply your tax planning knowledge to give actionable advice
+- Proactively suggest tax-saving strategies the user might be missing
+- Think like a CA: what would you tell a client sitting across your desk?
+
+ANSWER STRUCTURE (use this for every answer):
+1. **Direct Answer** — Answer the question clearly and concisely first
+2. **Tax Strategy** — Practical advice, optimizations, or legal ways to save tax related to this topic
+3. **What You Might Be Missing** — Commonly overlooked deductions or provisions related to the question
+4. **Key Sections** — Reference the specific Act sections (cite ONLY sections that appear in the provided context or that you are certain exist)
 
 RULES:
-1. ALWAYS cite every section number that you reference in your answer. Never fabricate section numbers — only cite sections present in the provided context.
+1. Cite specific section numbers from the Income Tax Act, CGST Act, or Finance Act. Never fabricate section numbers.
 2. State the applicable Assessment Year when relevant.
-3. Distinguish between law-as-written and common interpretations.
-4. Flag when CBDT circulars modify the base Income Tax Act.
-5. If the context is insufficient to fully answer, say so explicitly.
-6. For ambiguous questions, present both possible interpretations.
-7. Even for broad questions, cite the primary sections that form the basis of your answer.
+3. When there are legal loopholes or optimization strategies, explain them clearly with "this is legal because..."
+4. Always mention regime-specific differences (old vs new) when relevant.
+5. If the user has provided their profile (income/type/age/regime), tailor advice specifically to their situation.
+6. For ambiguous questions, give the answer that benefits the taxpayer, then note the uncertainty.
 
-FORMATTING RULES:
-- Use clean, compact markdown. Use **bold** for key terms.
-- Use bullet points (- or *) for lists, numbered lists (1. 2. 3.) for steps.
-- Keep abbreviations intact with NO spaces: write "80C" not "80 C", "EPF" not "EP F", "PPF" not "PP F", "ELSS" not "EL SS", "NPS" not "N PS", "GST" not "G ST", "TDS" not "TD S".
-- Keep section references compact: "Section 80C" not "Section 80 C".
-- Use ₹ symbol for amounts: "₹1,50,000" not "Rs 1 , 50 , 000".
-- Do NOT add extra spaces around punctuation or within words.
+FORMATTING:
+- Clean, compact markdown. **Bold** for key terms and amounts.
+- Abbreviations without spaces: 80C, EPF, PPF, ELSS, NPS, GST, TDS, HRA, LTA
+- Use ₹ symbol: ₹1,50,000 not Rs 1,50,000
+- Bullet points for lists, numbered steps for procedures
+- Keep it conversational but authoritative — like a CA explaining to a client
 
 OUTPUT FORMAT:
-You MUST always end your answer with a JSON citation block. After your answer, output a JSON block on a new line starting with ```json and ending with ```:
+End your answer with a JSON citation block:
 ```json
 {
-  "citations": [{"section_number": "80C", "section_title": "Deduction in respect of life insurance premia", "excerpt": "brief relevant excerpt from the section"}],
+  "citations": [{"section_number": "80C", "section_title": "Deduction in respect of life insurance premia", "excerpt": "brief relevant excerpt"}],
   "confidence": "HIGH|MEDIUM|LOW",
   "assessment_year": "2025-26"
 }
 ```
 
-IMPORTANT: The citations array must NEVER be empty if you referenced any section in your answer. Include at least one citation for every section number you mention.
-
-CONFIDENCE GUIDE:
-- HIGH: Direct statutory provision clearly answers the question. Use this when the context contains the specific section being asked about.
-- MEDIUM: Answer requires interpretation or multiple provisions interact
-- LOW: Context is insufficient or conflicting provisions exist"""
+CONFIDENCE:
+- HIGH: Direct statutory provision + clear practical application
+- MEDIUM: Multiple provisions interact or interpretation needed
+- LOW: Insufficient context or genuinely ambiguous area — recommend consulting a CA in person"""
 
 
 def _get_openai_client() -> AsyncOpenAI:
@@ -83,23 +91,38 @@ def _parse_structured_output(text: str) -> dict | None:
         return None
 
 
-async def generate_answer(question: str, chunks: list[dict]):
+async def generate_answer(question: str, chunks: list[dict], profile: dict | None = None):
     """Generate a streaming answer using OpenAI with RAG context. Yields token and complete events."""
     client = _get_openai_client()
     context = _build_context(chunks)
 
-    user_message = f"""Based on the following Indian tax law excerpts, answer this question:
+    # Build profile context if available
+    profile_context = ""
+    if profile:
+        parts = []
+        if profile.get("income_range"):
+            parts.append(f"Income range: {profile['income_range']}")
+        if profile.get("taxpayer_type"):
+            parts.append(f"Type: {profile['taxpayer_type']}")
+        if profile.get("age_group"):
+            parts.append(f"Age: {profile['age_group']}")
+        if profile.get("regime"):
+            parts.append(f"Current regime: {profile['regime']}")
+        if parts:
+            profile_context = f"\n\nUSER PROFILE:\n" + "\n".join(parts) + "\n\nTailor your advice specifically to this taxpayer's situation."
 
-QUESTION: {question}
+    user_message = f"""Answer this Indian tax law question with the depth and strategic insight of an experienced Chartered Accountant:
 
-LEGAL CONTEXT:
+QUESTION: {question}{profile_context}
+
+LEGAL CONTEXT (use for accurate citations):
 {context}"""
 
     full_response = ""
 
     stream = await client.chat.completions.create(
         model=settings.llm_model,
-        max_tokens=2048,
+        max_tokens=4096,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_message},

@@ -1,0 +1,272 @@
+NRI AND RNOR TAXATION IN INDIA — AY 2025-26 AND AY 2026-27
+Complete Guide Under the Income Tax Act, 1961
+
+## Understanding Residential Status — The Foundation of NRI Taxation
+
+Residential status determines the scope of taxable income in India. Under Section 6 of the Income Tax Act, there are three possible residential statuses:
+
+1. Resident and Ordinarily Resident (ROR)
+2. Resident but Not Ordinarily Resident (RNOR)
+3. Non-Resident (NR or NRI)
+
+All three are determined freshly for EACH financial year. A person's status from the previous year does not automatically carry over.
+
+## Section 6 — Determination of Residential Status
+
+### Step 1: Are You a Resident?
+
+An individual is a RESIDENT in India for a financial year if either of the following conditions is satisfied:
+- Condition 1: The individual is in India for 182 days or more during the financial year (April 1 to March 31), OR
+- Condition 2: The individual is in India for 60 days or more in the financial year AND 365 days or more in the 4 preceding financial years
+
+An individual who does NOT satisfy either condition 1 or condition 2 is a NON-RESIDENT.
+
+### Exceptions to the 60-Day Rule:
+
+The 60-day threshold in Condition 2 is extended to 182 days for:
+(a) Indian citizens who leave India during the year for employment outside India (as a crew member or for any other purpose)
+(b) Indian citizens or persons of Indian origin (PIO) who come to India for a visit during the year — i.e., they are ordinarily residing outside India
+
+This exception is critical for Indian citizens working abroad (in the Gulf, USA, UK, etc.) — they are treated as NRI as long as they stay less than 182 days in India in the relevant year, regardless of the 4-year lookback rule.
+
+### Special Rule for High-Income NRIs (from FY 2020-21):
+
+Section 6(1A) introduced a new deemed residency provision: An Indian citizen who is NOT liable to tax in any other country (due to domicile, residency, or similar criteria) is deemed to be a Resident in India if their Indian income exceeds Rs. 15,00,000 in the financial year.
+
+This provision targets individuals who claim NRI status while having no tax home anywhere in the world (e.g., residing in tax-free Gulf countries without becoming tax residents there). Such individuals are deemed RNOR (not ROR) status initially.
+
+### Step 2: If Resident, Are You Ordinarily Resident?
+
+If the individual is a Resident (satisfies Condition 1 or 2), they must further determine if they are ROR or RNOR.
+
+An individual is RNOR if either of the following:
+- They have been NRI for 9 or more of the 10 preceding financial years, OR
+- Their total stay in India in the 7 preceding financial years is 729 days or less
+
+If neither condition for RNOR is met, the individual is ROR.
+
+### Practical Determination Example:
+
+An IT professional worked in the USA for 8 years and returns to India permanently in FY 2024-25 (AY 2025-26), staying 300 days.
+
+Step 1: Stays 300 days in FY 2024-25 — satisfies 182-day condition. He IS a Resident.
+Step 2: Was NRI for 8 of the preceding 10 years? Yes (9 of 10 years abroad). He is RNOR.
+Result: RNOR status for AY 2025-26.
+
+RNOR status for the first 2-3 years of return is very beneficial — see below.
+
+## Tax Liability Based on Residential Status
+
+### Non-Resident (NRI):
+- Only income that ACCRUES or ARISES in India is taxable in India
+- Income received outside India from sources outside India: NOT taxable in India
+- Income from foreign employment, foreign business, foreign investments: NOT taxable
+
+### RNOR:
+- Income that accrues or arises in India: Taxable (same as NRI)
+- Income that is received in India: Taxable
+- Income from a business controlled in India: Taxable
+- Foreign income (accrues outside India, controlled outside India): NOT taxable (this is the key benefit over ROR status)
+
+### Resident Ordinarily Resident (ROR):
+- Global income is taxable in India — Indian income + foreign income + all other income worldwide
+
+RNOR is a transitional status that allows returning Indians to benefit from NRI-like treatment for foreign income for 2-3 years after returning to India, giving time to repatriate and reorganize foreign investments.
+
+## NRI Bank Accounts — Taxation of NRE, NRO, and FCNR
+
+### NRE (Non-Resident External) Account:
+- Held in Indian Rupees
+- Funds are freely repatriable (principal and interest can be sent abroad)
+- Interest earned: FULLY EXEMPT from Indian income tax under Section 10(4)(ii) for as long as the account holder is NRI or RNOR
+- Once status changes to ROR, NRE interest becomes taxable
+- TDS: No TDS on NRE interest for NRIs
+- Joint holding: Must be with another NRI; joint holding with a Resident Indian requires conversion to NRO
+
+### NRO (Non-Resident Ordinary) Account:
+- Held in Indian Rupees
+- Used for depositing India-sourced income (rent from India property, Indian salary, dividends, etc.)
+- Interest earned: FULLY TAXABLE as income from other sources
+- TDS: 30% TDS (plus surcharge and cess) deducted by bank on interest — NRI can claim relief under DTAA to reduce this
+- Repatriation: Permitted up to USD 1 million per financial year after payment of applicable taxes and Form 15CA/15CB compliance
+
+### FCNR (Foreign Currency Non-Resident) Deposit:
+- Held in foreign currency (USD, GBP, EUR, JPY, AUD, CAD, etc.)
+- Fixed deposit only (no current or savings account)
+- Interest: FULLY EXEMPT from Indian income tax for NRIs and RNOR under Section 10(15)(iv)(fa)
+- No exchange rate risk to the account holder (held in foreign currency)
+- On maturity, principal and interest can be repatriated freely
+
+## Income Taxable in India for NRIs
+
+The following income is always taxable in India for NRIs (as it accrues or arises in India):
+
+1. Rent from property located in India (Section 22 — Income from House Property)
+2. Capital gains on transfer of capital assets located in India (Section 45)
+3. Interest on NRO account deposits
+4. Dividend from Indian companies (taxable at slab rate since FY 2020-21)
+5. Salary for services rendered in India (even if paid outside India)
+6. Income from business operations in India
+7. Royalties and fees for technical services from an Indian resident under Section 115A
+
+Applicable tax rates for NRIs under Section 115E:
+- Investment income (interest, dividends): 20% flat (not slab rate)
+- LTCG on specified assets (stocks, MF): 12.5% (Section 112A for listed shares)
+- Other income: Applicable slab rates
+
+NRIs do not get the basic exemption benefit of Rs. 2.5L against investment income and LTCG (but they do for other income like rent, business income).
+
+## TDS on Property Sale by NRI — Section 195
+
+When an NRI sells immovable property in India, the BUYER is obligated to deduct TDS under Section 195. This is different from resident-to-resident property sales (where Section 194-IA at 1% applies).
+
+### TDS Rates Under Section 195 for NRI Property Sale:
+- LTCG (property held > 24 months): 12.5% plus applicable surcharge and cess
+  - Effective rate with 20% surcharge (LTCG > Rs. 1 crore): approximately 14.95%
+  - With 15% surcharge (Rs. 50L-1 crore): approximately 14.625%
+- STCG (property held ≤ 24 months): At applicable slab rate — typically 30% + surcharge + cess for NRIs with high income
+
+The buyer must:
+1. Obtain a TAN (Tax Deduction Account Number)
+2. Deduct TDS at applicable rate before making payment
+3. Deposit TDS to the government within 7 days (if deducted in March) or by 7th of following month
+4. Issue Form 16A (TDS certificate) to the NRI seller
+5. File TDS returns: Form 26QB for Section 194-IA is for residents; for NRIs, the buyer files Form 27Q
+
+Failure to deduct TDS makes the buyer a defaulter (Section 201) with interest at 1.5% per month on outstanding TDS.
+
+### Consequence for NRI Seller:
+The NRI must include the capital gains in their Indian ITR and claim credit for TDS deducted. If actual tax is less than TDS deducted, a refund is due.
+
+## Lower TDS Certificate — Section 197
+
+An NRI who believes the actual tax liability will be lower than the TDS rate can apply for a certificate under Section 197 from the Jurisdictional Assessing Officer (AO).
+
+### Process for Section 197 Application:
+1. Apply through TRACES portal or physically at the AO's office
+2. Provide details of the transaction, expected capital gains, and basis for lower tax
+3. AO issues a certificate specifying the lower rate
+4. Buyer deducts TDS at the lower rate specified in the certificate
+5. Processing time: 30-60 days; apply well in advance of the transaction
+
+This is particularly useful when:
+- DTAA provides a lower rate
+- The NRI has capital losses to offset gains
+- The NRI is eligible for Section 54/54F exemption (reinvestment in residential property)
+- The effective tax rate after deductions is lower than the standard TDS rate
+
+## DTAA (Double Taxation Avoidance Agreements) — How to Claim Treaty Relief
+
+India has DTAAs with over 90 countries. Key DTAAs for NRIs: USA, UK, UAE (no DTAA with UAE), Singapore, Germany, Netherlands, Australia, Canada, France.
+
+### How DTAA Works:
+- DTAA allocates taxing rights between two countries
+- Some income types (dividends, interest, capital gains, royalties) are assigned primarily to one country or have reduced rates
+- NRI can pay tax in the country of residence and get a Foreign Tax Credit (FTC) in India — or claim DTAA exemption in India
+
+### Claiming DTAA Benefits in India (Section 90):
+To claim DTAA benefits, the NRI must furnish:
+1. Tax Residency Certificate (TRC) from the foreign country's tax authority — mandatory under Section 90(4)
+2. Form 10F (self-declaration of specified information including PAN, period of residency, address)
+3. Proof of receipt of income (bank statements, etc.)
+
+Without a valid TRC, the NRI cannot claim DTAA benefits in India.
+
+### Common DTAA Provisions:
+
+India-USA DTAA (Article 11): Interest taxed at 15% in India (vs. 30% standard TDS rate for NRIs on NRO interest)
+
+India-UK DTAA: Capital gains on shares generally taxable only in country of residence — meaning UK residents may not pay Indian capital gains tax on Indian shares (though this depends on the specific DTAA article and may have changed)
+
+India-Singapore DTAA: Has been amended; capital gains on Indian shares by Singapore residents are now taxable in India following 2017 protocol amendments
+
+Note: UAE has NO DTAA with India — NRIs in UAE pay Indian tax at standard rates on Indian income. They are not liable to tax in UAE (no income tax in UAE), but also get no treaty relief in India.
+
+## Filing ITR as NRI
+
+### Is Filing Mandatory?
+NRIs must file ITR in India if:
+- Total Indian income exceeds Rs. 2,50,000 (basic exemption)
+- They have LTCG or STCG (even if below basic exemption — to get the benefit of carry-forward losses)
+- They wish to claim a refund of TDS
+
+NRIs are NOT required to disclose foreign income or foreign assets in their Indian ITR (unlike RORs who must fill Schedule FA — Foreign Assets).
+
+### Which ITR Form for NRIs:
+- ITR-2: For NRIs with income from salary, house property, capital gains, and other sources (no business income)
+- ITR-3: For NRIs with business income in India
+- ITR-1 (SAHAJ): NRIs CANNOT use ITR-1 — it is only for Residents with simple income
+
+### Important ITR Filing Points:
+- Tax payable under old regime at slab rates: 5% (2.5L-5L), 20% (5L-10L), 30% (above 10L)
+- Surcharge: 10% (50L-1 crore), 15% (1-2 crore), 25% (2-5 crore), 37% (above 5 crore)
+- Health and Education Cess: 4%
+- NRIs can also opt for New Tax Regime under Section 115BAC (from AY 2024-25 onwards)
+- Under NTR, slab rates are different and most exemptions/deductions are removed
+
+### Deadline:
+- July 31 of the assessment year (same as residents)
+- If audit is required: October 31
+
+## Capital Gains on Indian Shares and Mutual Funds Held by NRIs
+
+### Listed Equity Shares and Equity Mutual Funds (Sections 111A and 112A):
+- STCG (held ≤ 12 months): 20% flat rate under Section 111A — this is a flat rate, no slab benefit
+- LTCG (held > 12 months): 12.5% on gains exceeding Rs. 1,25,000 under Section 112A
+- STT (Securities Transaction Tax) must have been paid on both purchase and sale
+
+### Debt Mutual Funds (bought after April 1, 2023):
+- All gains treated as short-term regardless of holding period
+- Taxed at slab rates (or at 30% flat for NRIs on investment income under Section 115E)
+
+### Unlisted Shares:
+- LTCG (held > 24 months): 12.5% without indexation (under Section 112)
+- STCG: At slab rate
+
+### NRI-Specific Rule for Investment Income (Section 115E):
+NRIs can opt for Section 115E which taxes investment income (interest, dividends from Indian companies) at a flat 20%, which may be lower than their applicable slab rate.
+
+## Repatriation — Form 15CA and 15CB
+
+Remittance of funds from India to foreign account requires compliance under Section 195 and Rule 37BB:
+
+### Form 15CA:
+- Self-declaration by the remitter (bank/individual making the payment)
+- Specifies nature of remittance, DTAA applicability, and tax deducted
+
+### Form 15CB:
+- Certificate from a Chartered Accountant
+- Required when:
+  a) The remittance exceeds Rs. 5,00,000 (single transaction) and
+  b) The remittance is not exempt or not covered by a specific Form 15CA Part where no CA is needed
+
+### Types of Remittances and Forms:
+
+Part A of Form 15CA: Remittances below Rs. 5,00,000 — just upload Form 15CA, no 15CB needed
+Part B of Form 15CA: Remittances above Rs. 5,00,000 covered by an order under Section 195(2)/(3) or Section 197 — attach the order
+Part C of Form 15CA: Remittances above Rs. 5,00,000 not covered by Part A or B — attach Form 15CB from CA
+Part D of Form 15CA: Remittances not chargeable to tax in India — just upload, no 15CB
+
+### NRO Account Repatriation Specifically:
+- NRIs can repatriate up to USD 1 million per financial year from NRO accounts
+- Funds in NRO accounts represent Indian-taxed income (rent, dividends, NRO interest after tax)
+- NRI must submit CA certificate (15CB) + Form 15CA to the bank
+- Bank files with RBI and processes the remittance
+
+## Key Sections Reference
+
+- Section 5: Scope of total income (residence-based)
+- Section 6: Determination of residential status
+- Section 6(1A): Deemed residency for citizens not taxed elsewhere
+- Section 9: Income deemed to accrue or arise in India
+- Section 10(4)(ii): Exemption for NRE account interest
+- Section 10(15)(iv)(fa): Exemption for FCNR interest
+- Section 90: DTAA provisions and relief
+- Section 111A: STCG on listed equity (20%)
+- Section 112A: LTCG on listed equity above Rs. 1.25L (12.5%)
+- Section 115A: Tax on dividends, royalties, FTS for NRIs
+- Section 115E: Tax on investment income at 20% for NRIs
+- Section 115F: NRI exemption on specified assets (reinvestment)
+- Section 195: TDS on payments to NRIs
+- Section 197: Application for lower TDS certificate
+- Rule 37BB: Form 15CA/15CB requirements

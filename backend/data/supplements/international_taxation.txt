@@ -1,0 +1,279 @@
+INTERNATIONAL TAXATION — INDIA AY 2025-26 AND AY 2026-27
+
+This guide covers India's international tax framework including Double Taxation Avoidance Agreements (DTAAs), permanent establishment, transfer pricing, equalisation levy, and compliance requirements for cross-border transactions.
+
+---
+
+## Double Taxation Avoidance Agreements (DTAAs) — Overview
+
+A DTAA is a bilateral treaty between two countries aimed at preventing the same income from being taxed twice — once in the country where income arises (source country) and once in the country of the taxpayer's residence.
+
+India has DTAAs with over 90 countries as of 2025. These treaties are negotiated by the Government of India under the authority of Section 90 of the Income Tax Act.
+
+**Priority of DTAAs:**
+- Section 90(2) provides that the provisions of a DTAA override domestic law to the extent they are more beneficial to the taxpayer
+- The taxpayer can choose to be governed by domestic law if it is more beneficial
+- This principle — often called the "most beneficial" test — means taxpayers compare treaty rates with domestic TDS rates and apply the lower one
+
+---
+
+## Key DTAAs and Their Provisions
+
+### India-USA DTAA
+
+**Dividend withholding:** 25% (domestic) vs 15%/25% (treaty — 15% if recipient holds ≥10% voting shares, else 25%)
+**Interest withholding:** 20% (domestic) vs 15% (treaty)
+**Royalties/FTS:** 20% (domestic) vs 15% (treaty)
+**Capital gains:** Generally taxed in source country (India) — US residents selling Indian property pay Indian capital gains tax
+**PE article:** Permanent establishment triggers full business profit taxation in India
+
+### India-UK DTAA
+
+**Dividend:** 15% (if ≥25% voting stock held) or 15% in other cases
+**Interest:** 15%
+**Royalties:** 15%
+**Capital gains:** India has right to tax capital gains from alienation of Indian property
+
+### India-UAE DTAA
+
+**Key feature:** UAE has no personal income tax. Indian residents who relocate to UAE and become UAE tax residents can benefit from this treaty.
+**Dividend:** 10%
+**Interest:** 12.5%
+**Royalties:** 10%
+**Capital gains:** Taxed in UAE (which has no CGT), but treaty benefits require genuine tax residency in UAE — not merely obtaining a UAE visa
+
+### India-Singapore DTAA (As Amended)
+
+**Pre-2017 era:** Singapore treaty had capital gains exemption; extensively used for FPI routing.
+**Post-April 1, 2017:** Capital gains from Indian shares acquired after April 1, 2017 are taxable in India (grandfathering for pre-April 2017 acquisitions expired)
+**Current Rates:** Dividends 15%, Interest 15%, Royalties 10%
+**Principal Purpose Test (PPT):** The BEPS-aligned amendment restricts treaty benefits if the principal purpose of the arrangement was to obtain treaty benefits
+
+### India-Mauritius DTAA (As Amended)
+
+**Historical significance:** Mauritius was the largest FDI source into India historically due to capital gains exemption in the original treaty.
+**Post-April 1, 2017:** Capital gains on shares acquired after April 1, 2017 are fully taxable in India
+**Current Rates:** Dividends 5% (if ≥10% holding) or 15%, Interest 7.5%, Royalties 15%
+
+---
+
+## Section 90 and 90A — Claiming Treaty Relief
+
+**Section 90:** Applies to DTAAs entered into by India with sovereign countries.
+
+**Section 90A:** Applies to tax agreements between India and specified associations (not just countries).
+
+**How to Claim Treaty Relief:**
+1. Determine if a DTAA exists between India and the country of the non-resident
+2. Obtain a Tax Residency Certificate (TRC) from the non-resident's country — this is mandatory (Section 90(4))
+3. File Form 10F with the Indian tax authorities declaring TRC details
+4. Apply treaty rate (if lower than domestic withholding) at the time of TDS deduction
+5. File returns and claim treaty benefit if beneficial
+
+**TRC Requirements:** The TRC must contain the non-resident's name, status, nationality, address, TIN in resident country, and period of validity. Without TRC, treaty benefit cannot be claimed.
+
+---
+
+## Tax Residency Certificate (TRC)
+
+The TRC is a certificate issued by the tax authority of the country where the non-resident claims to be a tax resident.
+
+**Mandatory from AY 2013-14:** Under Section 90(4), a non-resident must provide a TRC as proof of residence in the treaty country to claim DTAA benefits.
+
+**Form 10F:** In addition to TRC, non-residents must file Form 10F if the TRC does not contain all required particulars. The information in Form 10F includes:
+- Legal status of the taxpayer (individual, company, etc.)
+- Permanent Account Number in India (if any)
+- Address in India and in country of residence
+- Period of residential status
+
+**Online Filing:** CBDT has mandated online filing of Form 10F on the Indian income tax portal (income tax India e-filing) effective August 2023. Non-residents without a PAN may need to obtain a PAN for this purpose (or use the No-PAN option if eligible).
+
+---
+
+## Permanent Establishment (PE) Concept
+
+The PE concept determines when a non-resident company's business profits are taxable in India.
+
+**Definition:** A PE is a fixed place of business through which the business of an enterprise is wholly or partly carried on.
+
+**Types of PE:**
+- Fixed Place PE: Office, factory, branch, workshop, mine, oil well, etc.
+- Construction PE: Building site, construction project lasting more than a defined period (typically 6–12 months depending on the DTAA)
+- Service PE: Provision of services in India for more than a specified duration (typically 90–183 days in a 12-month period)
+- Agency PE: A dependent agent with authority to conclude contracts, habitually exercising such authority
+- Virtual PE (emerging concept): Significant economic presence without physical presence
+
+**Significant Economic Presence (SEP) — Section 92F(iiia):**
+Introduced from AY 2022-23 to address digital economy taxation:
+- A non-resident has SEP in India if:
+  - Aggregate payment received from India exceeds ₹2 crore (in a year), OR
+  - It has 3 lakh users in India with systematic and continuous interaction
+- SEP triggers business connection in India under Section 9 — but practical implications are limited by DTAAs (which may not recognize SEP-based PE)
+
+---
+
+## Transfer Pricing — Sections 92 to 92F
+
+Transfer pricing rules prevent multinational groups from manipulating prices of intra-group transactions to shift profits to low-tax jurisdictions.
+
+**Applicability:** Applies to "international transactions" between "associated enterprises."
+
+**Associated Enterprises (Section 92A):** Companies are associated if one directly or indirectly holds ≥26% shares in the other, or one controls the other's Board of Directors, or they are both controlled by the same third party, among other conditions.
+
+**International Transactions:** Any transaction between associated enterprises that may affect income, profits, or losses — including:
+- Sale/purchase of goods
+- Sale/purchase of intellectual property
+- Provision of services
+- Lending/borrowing (including intra-company loans)
+- Cost sharing arrangements
+- Business restructuring
+
+**Arm's Length Price (ALP):** All international transactions must be priced at the arm's length price — the price that unrelated parties would agree to in comparable circumstances.
+
+**Transfer Pricing Methods:**
+- Comparable Uncontrolled Price (CUP): Direct comparison with independent transactions
+- Cost Plus Method: Cost + arm's length markup
+- Resale Price Method: Resale price minus arm's length gross margin
+- Profit Split Method: Split profits based on contribution
+- Transactional Net Margin Method (TNMM): Most commonly used — compare operating profit margins
+
+**Form 3CEB:** Report on international transactions must be certified by a Chartered Accountant and filed by October 31 of the AY.
+
+**Transfer Pricing Penalties:**
+- Section 271(g): 2% of value of international transaction for failure to maintain/furnish documentation
+- Section 271AA: 2% of value of international transaction for non-disclosure of required information
+- Section 270A: 200% penalty for misreporting due to transfer pricing adjustment
+
+---
+
+## Equalisation Levy
+
+**Background:** India introduced the Equalisation Levy to tax digital companies providing services in India without a physical presence.
+
+**Two-Part Equalisation Levy:**
+
+### 6% Equalisation Levy (Finance Act 2016):
+- Applicable to: Digital advertising services provided by non-residents to Indian businesses
+- Rate: 6% of consideration
+- Threshold: Only applicable if annual payments exceed ₹1 lakh
+- Who pays: The Indian business makes the payment and deducts 6% EL, depositing it with the government
+- Exemption: Non-residents with a PE in India (they are subject to regular income tax instead)
+- No income tax on such consideration for the non-resident
+
+### 2% Equalisation Levy (Finance Act 2020):
+- Originally applicable to: E-commerce supply or facilitation by non-resident ECOs to Indian buyers
+- Rate: 2% of gross consideration
+- **Finance Act 2025 Abolition:** The 2% equalisation levy on e-commerce operators has been abolished effective April 1, 2025. This was a significant change aligned with global OECD/Pillar One discussions. For AY 2025-26 and beyond, the 2% EL is no longer applicable.
+
+**Current Status (AY 2025-26):**
+- The 6% EL on digital advertising continues
+- The 2% EL on e-commerce has been abolished
+
+---
+
+## Withholding Tax on Payments to Non-Residents — Section 195
+
+When any person (resident or non-resident) makes a payment to a non-resident (that is chargeable to tax in India), TDS must be deducted under Section 195.
+
+**Key Features:**
+- No threshold limit (unlike TDS under 194J, 194C which have ₹30,000 thresholds)
+- TDS applies from the first rupee
+- Rate: Rates as per domestic law OR DTAA rate (whichever is more beneficial, provided TRC and Form 10F submitted)
+
+**Common Payments and Default TDS Rates:**
+- Interest payments: 20% plus surcharge and cess
+- Royalties: 20% plus surcharge and cess
+- Technical fees: 20% plus surcharge and cess
+- Dividends: 20% (from AY 2021-22 onwards, post DDT abolition)
+- Capital gains: As per applicable LTCG/STCG rates
+
+**Application for Lower Deduction:**
+- Section 195(2): Payer can apply to the Assessing Officer for determination of TDS on actual income (not gross payment), useful when payment includes significant capital component
+- Section 195(3): Payee (non-resident) can apply for nil or lower withholding certificate
+
+**15CA and 15CB Forms:**
+- Before making any payment to non-resident that is chargeable to tax, Form 15CA must be filed online by the remitter
+- Form 15CB is a Chartered Accountant's certificate (required for most remittances above ₹5 lakh)
+- Form 15CA and 15CB are required before the bank allows the remittance
+
+---
+
+## Advance Ruling for Non-Residents — Section 245Q
+
+Non-residents and foreign companies can apply for an Advance Ruling on tax implications of a proposed transaction in India.
+
+**Benefit:** Provides certainty before undertaking a transaction — the ruling is binding on the assessee and the tax authorities.
+
+**Forum:** The Board for Advance Rulings (BAR) — formerly the Authority for Advance Rulings (AAR).
+
+**Application:** Form 34C (for non-residents) filed with prescribed fee.
+
+**Typical Use Cases:**
+- Whether a proposed joint venture creates a PE
+- Whether royalty payments will be taxable under DTAA
+- Whether a proposed restructuring is taxable as capital gains
+
+---
+
+## Black Money Act 2015 — Undisclosed Foreign Income and Assets
+
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 is a standalone legislation targeting unreported foreign income and assets.
+
+**Tax Rate:** 30% of undisclosed foreign income or the value of undisclosed foreign asset.
+
+**Penalty:** 90% of the tax amount — effectively making total outgo 120% of the value (30% tax + 90% penalty).
+
+**Prosecution:** The Act provides for rigorous imprisonment of 3–10 years for willful evasion of tax on foreign income.
+
+**Disclosure Obligations for Indian Residents:**
+- Schedule FA (Foreign Assets) in ITR must disclose:
+  - Foreign bank accounts
+  - Foreign financial interests (shares, equity in foreign companies)
+  - Immovable property held abroad
+  - Interest in foreign trusts
+  - Any other foreign asset
+- Every resident (not ordinarily resident and ordinarily resident both) must file Schedule FA if they hold any foreign asset
+
+**Filing Requirement:** ITR with Schedule FA must be filed even if total income is below the taxable threshold — unlike regular ITR filing exemptions.
+
+---
+
+## Foreign Tax Credit — Section 90/91 and Rule 128
+
+Indian tax residents earning income abroad may have paid taxes in the source country. They can claim credit for foreign taxes paid against Indian tax liability.
+
+**Section 90 (DTAA Countries):** Credit for taxes paid abroad as per DTAA provisions.
+**Section 91 (Non-DTAA Countries):** Unilateral credit available even without a DTAA.
+
+**Rule 128 (Foreign Tax Credit Rules):**
+- Credit available is the lower of: (a) foreign tax paid on foreign income, or (b) Indian tax payable on the same income
+- Form 67 must be filed to claim Foreign Tax Credit — must be filed on or before the due date of ITR
+
+**Example:** Indian resident earning $100,000 from US freelancing, US tax withheld at 30% = $30,000. India taxes the same income at 30% (assuming top bracket). Credit available = lower of $30,000 (foreign tax) and $30,000 (Indian tax on same income). Net additional Indian tax = nil.
+
+---
+
+## Country-by-Country Reporting (CbCR) — Section 286
+
+For large multinational groups with consolidated revenue exceeding ₹5,500 crore (approximately €750 million), Country-by-Country Reporting is mandatory.
+
+**Who Files:** The Indian constituent entity of an international group must file the CbCR or notify the Tax Authority of the entity filing the master CbCR.
+
+**Content:** Revenue, profit, employees, taxes paid, assets for each country of operation.
+
+**Objective:** Allow tax authorities to assess transfer pricing risk and profit shifting.
+
+---
+
+## Non-Resident Taxation Quick Reference
+
+| Income Type | Domestic Rate | Common Treaty Rate (varies by country) |
+|------------|--------------|---------------------------------------|
+| Dividends | 20% | 5%–15% (depending on shareholding %) |
+| Interest | 20% | 7.5%–15% |
+| Royalties | 20% | 10%–15% |
+| Technical fees | 20% | 10%–15% |
+| Capital gains (listed equity, >12 months) | 12.5% LTCG | Source country right varies by treaty |
+| Capital gains (unlisted shares, >24 months) | 12.5% LTCG | Source country typically taxes |
+
+All rates are before surcharge and cess. Apply the more beneficial of domestic law or DTAA provision.

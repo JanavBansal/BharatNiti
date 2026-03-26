@@ -1,0 +1,233 @@
+RECENT TRIBUNAL AND COURT RULINGS — KEY PRECEDENTS IN INDIAN TAX LAW
+======================================================================
+Income Tax Appellate Tribunal (ITAT) | High Courts | Supreme Court of India
+Relevant to AY 2025-26 and AY 2026-27 | For Informational Purposes Only
+
+IMPORTANT DISCLAIMER: The rulings discussed in this document are judicial decisions that create legal precedents, but their applicability depends on the specific facts of each case, the jurisdiction, and subsequent developments. Indian tax law is subject to conflicting High Court decisions and evolving interpretations. Taxpayers must NOT rely solely on this document for tax planning or litigation strategy. Consult a qualified Chartered Accountant and tax advocate for case-specific advice.
+
+---
+
+## Work From Home Expenses — ITAT Rulings for Self-Employed and Business Owners
+
+Several ITAT benches have considered the deductibility of home office and work-from-home expenses for self-employed professionals and business owners (as opposed to salaried employees, for whom such deductions are not available).
+
+Legal framework: Under Section 37(1) of the Income Tax Act, any expenditure incurred wholly and exclusively for the purposes of business or profession is deductible, except for expenses of a capital or personal nature.
+
+ITAT positions on WFH expenses for self-employed taxpayers:
+- Electricity expenses: Where a self-employed professional works entirely from home, proportionate electricity expenses (apportioned between business and personal use, typically on a floor area or usage basis) are generally held deductible. The ITAT Mumbai Bench and ITAT Bangalore Bench have consistently upheld reasonable apportionment-based deductions.
+- Internet and telephone: Deductible to the extent attributable to business use. Where the taxpayer can show a reasonably higher business use (e.g., a freelance software developer), full or significant deduction has been upheld.
+- Rent or depreciation on home office: This is more contested. Where the taxpayer owns the property, depreciation on the home office portion under Section 32 has been allowed by some benches, while disallowed by others citing personal use. Where the taxpayer pays rent, proportionate rent has been allowed in cases with clear documentary evidence of exclusive business use of a portion of the premises.
+
+Critical distinction: These deductions are NOT available to salaried employees (who can only claim the standard deduction of ₹75,000). They are available to self-employed professionals and business owners.
+
+Key requirement: Detailed documentation is essential — separate electricity meter if possible, internet bills with business use details, and a logical apportionment methodology.
+
+---
+
+## Cryptocurrency — Pre-April 2022 Losses and ITAT Rulings
+
+From April 1, 2022 (AY 2023-24), the Income Tax Act introduced Section 115BBH, which taxes Virtual Digital Asset (VDA) gains at 30% with no set-off of losses against any other income and no carry-forward of losses.
+
+However, for transactions occurring BEFORE April 1, 2022, no specific provision for VDA taxation existed. Various ITAT rulings have addressed the tax treatment of pre-April 2022 cryptocurrency gains and losses:
+
+Classification debate: Before Section 115BBH, cryptocurrency was variously classified as:
+- Capital asset (giving rise to capital gains — long term or short term)
+- Stock-in-trade (giving rise to business income — allowing set-off with business losses)
+- Speculative transaction (under Section 43(5))
+
+ITAT rulings on pre-2022 crypto losses:
+- ITAT Mumbai: In some cases, ITAT has held that cryptocurrency constitutes a capital asset, and STCG or LTCG tax applies to pre-2022 transactions. This classification allows set-off of STCG losses against STCG gains, and LTCG losses against LTCG gains.
+- Where classified as business income: Business losses can potentially be set off against other business income or carried forward for 8 years (subject to filing within due date under Section 80).
+- Government's position: The Revenue has generally sought to classify crypto gains as "Income from Other Sources" with the intent to disallow set-off with other losses.
+
+Current statutory position (AY 2023-24 onwards): The matter is settled by statute — Section 115BBH applies, and there is no set-off or carry-forward. The pre-2022 issue is litigated on a case-by-case basis before the ITAT.
+
+---
+
+## Section 54 Exemption — Investment in Spouse's Name or Joint Ownership
+
+Section 54 of the Income Tax Act exempts LTCG from the sale of a residential house if the proceeds are invested in another residential house within the prescribed time limits.
+
+Issue: Whether Section 54 exemption is available when the new property is purchased in the name of the spouse (or in joint names) rather than solely in the taxpayer's name.
+
+ITAT rulings (mixed positions):
+- Favorable rulings (allowing exemption with spouse's name): Several ITAT benches, including ITAT Bangalore and ITAT Delhi, have held that Section 54 does not require the new property to be purchased in the taxpayer's name alone. The requirement is only "investment" in a residential house. When the taxpayer contributes the capital gains amount to the purchase, even if the property is registered in the spouse's name, the exemption has been allowed.
+- Unfavorable rulings: Some ITAT benches and some High Courts have held that the property must be in the taxpayer's name for the exemption to apply, as the Act uses "purchased by him/her."
+
+High Court positions: The Bombay High Court has allowed exemption where the taxpayer invested in property jointly with spouse. The Delhi High Court has had varying positions in different cases.
+
+Note for AY 2025-26 and beyond: With the introduction of the ₹10 crore cap on Section 54 exemption (Finance Act 2023), the controversy has become more significant for high-value transactions. Taxpayers should consult a tax advocate and take a conservative approach (registering the new property in their own name or as a primary owner) to avoid litigation risk.
+
+---
+
+## HRA Calculation — Basic Salary Definition Disputes (DA Inclusion)
+
+House Rent Allowance (HRA) exemption under Section 10(13A) is calculated as the minimum of:
+(a) Actual HRA received
+(b) Rent paid minus 10% of "salary"
+(c) 50% of "salary" (for metros) or 40% (for non-metros)
+
+"Salary" for HRA purposes (Rule 2A of Income Tax Rules): Includes Basic Pay + Dearness Allowance (DA) forming part of retirement benefits, and commission based on a fixed percentage of turnover.
+
+The inclusion or exclusion of DA in the "salary" base for HRA calculation has been contentious:
+
+ITAT rulings:
+- Where the employer explicitly states that DA forms part of retirement benefits (e.g., it is included in PF computation base), DA is included in the "salary" base for HRA calculation. This increases the HRA exemption.
+- Where DA is payable as a separate allowance not forming part of retirement benefits, it is excluded from the "salary" base.
+- Commission: ITAT rulings have held that only commission based on a fixed percentage of turnover is included; ad hoc commissions or incentives are not.
+
+Practical implication: Employees of PSUs and government organizations often have DA forming part of retirement benefits — they should include DA in salary for HRA computation. Private sector employees should check their appointment letters or salary slips to determine if DA forms part of retirement benefits.
+
+---
+
+## Section 68 — Cash Deposits During Demonetization and Burden of Proof
+
+Section 68 of the Income Tax Act addresses unexplained cash credits. If any sum is found credited in the books of account and the taxpayer offers no explanation about the nature and source of such sum, or the explanation offered is not satisfactory, the amount may be added to taxable income.
+
+Demonetization context (November 8, 2016): After demonetization of ₹500 and ₹1,000 currency notes, many taxpayers deposited old currency in their bank accounts. The Income Tax Department scrutinized these deposits under Section 68/69.
+
+Supreme Court and ITAT rulings on demonetization cash deposits:
+- The Supreme Court of India, in several cases, has held that the burden of proof under Section 68 is on the taxpayer to explain the source of the cash.
+- ITAT rulings: Where the taxpayer could demonstrate consistent cash sales matching the deposits (e.g., retail traders with daily sales records), the additions under Section 68 were deleted.
+- ITAT Delhi, ITAT Mumbai: In cases where the taxpayer produced sales records, prior cash withdrawals, or agricultural income evidence matching the deposited amount, additions were set aside.
+- High burden: Where the taxpayer could only produce ledger entries without corroborating evidence (bills, receipts, bank statements from prior period), the additions were sustained.
+
+Key principle: Section 68 places a three-stage burden: (1) taxpayer must explain the nature of the receipt, (2) must explain the source, and (3) the explanation must be credible. Mere assertion is insufficient.
+
+---
+
+## LTCG on Listed Shares — Penny Stock Cases and Department Challenges
+
+Long Term Capital Gains (LTCG) on listed equity shares and equity mutual funds are taxable under Section 112A from AY 2019-20. Prior to that, LTCG on listed shares was exempt under the (then) Section 10(38).
+
+Penny stock controversy: The Income Tax Department has challenged LTCG claims on listed penny stocks, alleging that price manipulations were used to convert unaccounted money into tax-free LTCG (pre-AY 2019-20) or into LTCG at 10% (post-AY 2019-20).
+
+ITAT and High Court rulings:
+- Where the Department can establish price manipulation through circumstantial evidence (shell company, broker statements, SEBI investigation reports), the LTCG claim is disallowed, and the amount is treated as unexplained income under Section 68 or 69.
+- ITAT Kolkata and ITAT Mumbai: Several landmark rulings where LTCG on penny stocks was disallowed when the stocks showed abnormal price rises followed by crashes immediately after the holding period.
+- Favorable rulings for genuine investors: Where the taxpayer can show genuine purchase (STT paid, DEMAT account entries, purchase invoices from broker), real market conditions, and exit at prevailing market rates without any specific accusation of manipulation, the LTCG exemption (or Section 112A tax rate) has been upheld.
+- SEBI investigation findings: If SEBI has conducted an investigation and identified specific stocks as manipulation targets, the ITO/ITAT generally accepts the Revenue's case against taxpayers who held those specific stocks.
+
+---
+
+## Section 80P — Cooperative Society Deduction and Supreme Court Ruling
+
+Section 80P of the Income Tax Act provides deductions to cooperative societies for specified categories of income, including interest income from cooperative banks, certain business activities of primary agricultural cooperative societies, and income from cottage industries.
+
+Supreme Court Ruling (The Kerala State Co-operative Agricultural and Rural Development Bank vs. CIT, and related cases): The Supreme Court has addressed the scope of Section 80P deduction, particularly regarding:
+- Whether cooperative banks can claim Section 80P deduction in light of Section 80P(4), which excludes cooperative banks from the benefit.
+- The distinction between a primary agricultural cooperative society and a cooperative bank.
+
+CBDT Circular 20/2015 and Section 80P(4) (inserted by Finance Act 2006): Primary cooperative banks are explicitly excluded from Section 80P deduction. The Supreme Court has upheld this exclusion.
+
+ITAT rulings on cooperative credit societies: Where a cooperative society is NOT a bank (does not have a banking license under the Banking Regulation Act) but provides credit facilities to its members, it may still qualify under Section 80P(2)(a)(i) for deduction on interest income.
+
+The distinction between a cooperative bank and a cooperative credit society is crucial for Section 80P eligibility, and this has been the subject of extensive litigation across India.
+
+---
+
+## Assessment Beyond Time Limit — Section 153 and Supreme Court on Limitation
+
+Section 153 of the Income Tax Act prescribes strict time limits for completing assessments, reassessments, and re-computations:
+
+- Regular assessment under Section 143(3): 12 months from the end of the assessment year (AY).
+- Best judgment assessment under Section 144: Same as above.
+- Reassessment under Section 147/148: 12 months from the end of the financial year in which the notice under Section 148 is issued.
+
+Supreme Court rulings on limitation:
+- The Supreme Court has consistently held that assessments completed beyond the prescribed time limits are void ab initio (null and void from inception).
+- Limitation under Section 153 is an absolute bar and cannot be condoned.
+- In Union of India vs. Ashish Agarwal (2022): The Supreme Court upheld that reassessment notices issued between April 1, 2021 and June 30, 2021 under the old Section 148 (before the Finance Act 2021 amendment took effect) were valid, but gave relief to taxpayers by treating these as notices under the new Section 148A procedure.
+
+Practical significance: If a taxpayer receives an assessment order after the prescribed time limit, they can challenge the order's validity on grounds of limitation. This is a strong defense in tax litigation.
+
+---
+
+## Reopening of Assessment — Section 148 (Revised Post-2021)
+
+The Finance Act 2021 significantly revised the provisions for reopening of assessments under Section 147/148. The amendments were challenged in various High Courts.
+
+Old regime (pre-Finance Act 2021):
+- Income escaped assessment up to ₹1 lakh: Reopening allowed up to 4 years
+- Income escaped assessment above ₹1 lakh: Reopening allowed up to 6 years (10 years for foreign assets)
+
+New regime (post-Finance Act 2021 — Section 148A):
+- A mandatory show-cause notice under Section 148A(b) must be issued to the taxpayer before issuing notice under Section 148.
+- Taxpayer has an opportunity to respond within 7 to 30 days.
+- The AO must then pass an order under Section 148A(d) before issuing the formal reopening notice.
+- Income below ₹50 lakh: Reopening allowed only within 3 years from end of AY
+- Income above ₹50 lakh: Reopening allowed up to 10 years (limited to CBDT-approved cases)
+
+High Court and ITAT rulings: The mandatory Section 148A procedure has been strictly enforced by High Courts. Cases where the AO issued a Section 148 notice without following the Section 148A procedure have been quashed.
+
+CBDT Instruction 1/2022: Clarified the application of the new reopening provisions and the treatment of notices issued before March 31, 2021, remanded to AOs for fresh assessment under Section 148A.
+
+---
+
+## GAAR — General Anti-Avoidance Rules (Chapter X-A) — Application Status
+
+General Anti-Avoidance Rules (GAAR) under Chapter X-A of the Income Tax Act (Sections 95 to 102) were introduced by the Finance Act 2012 and became effective from AY 2018-19.
+
+GAAR empowers the tax authority to disregard a transaction or arrangement that:
+- Creates rights or obligations not ordinarily created between parties dealing at arm's length
+- Lacks commercial substance or is entered into for the main purpose of obtaining a tax benefit
+- Misuses or abuses the provisions of the Income Tax Act
+
+Safeguards (Section 101 and GAAR Guidelines):
+- GAAR cannot be applied if the main purpose is NOT to obtain tax benefit (even if incidental tax benefits exist)
+- Monetary threshold: GAAR applies only if the tax benefit in the arrangement exceeds ₹3 crore
+- Approval from the Principal Commissioner (PCIT) required before GAAR can be invoked
+- Specific anti-avoidance rules (SARs) take precedence over GAAR
+
+Current application status: GAAR has been infrequently applied since its implementation. The CBDT and tax authorities have been cautious about invoking GAAR given the procedural requirements and the risk of High Court challenge. Most reported cases involve complex corporate restructuring, cross-border transactions, and cases with obvious tax avoidance intent without commercial substance.
+
+Tax planning vs. tax avoidance: Courts have consistently held that genuine tax planning (choosing a legally permissible method to reduce tax liability) is not avoidance. GAAR is intended to target arrangements that are legally structured but have no economic substance beyond tax avoidance.
+
+---
+
+## Transfer Pricing — Key ITAT Rulings on Arm's Length Price
+
+Transfer pricing provisions under Sections 92 to 92F of the Income Tax Act regulate transactions between associated enterprises (related parties).
+
+Key ITAT and High Court rulings:
+
+Arm's Length Price (ALP) selection: ITAT has consistently held that the "most appropriate method" for computing ALP must be determined based on the functional analysis of the taxpayer's transactions, and the Revenue cannot substitute a method without appropriate analysis.
+
+Software development services: In numerous ITAT Bangalore cases, where Indian subsidiaries of MNCs provide software development services as "captive" service providers (cost-plus model), the TNMM (Transactional Net Margin Method) using net profit margin as PLI (Profit Level Indicator) has been accepted as the most appropriate method.
+
+Marketing intangibles: ITAT has addressed cases where an Indian subsidiary bears marketing expenses for the foreign parent's brand (distributor of foreign branded goods). Several rulings have required compensation from the parent for creating marketing intangibles.
+
+Comparable selection: Rulings consistently require that comparables (companies used for benchmarking ALP) must have similar functions, assets, and risks. High revenue/turnover companies compared with small captive units have been rejected as comparables.
+
+---
+
+## Section 263 — Commissioner's Revisional Powers and Limitations
+
+Section 263 of the Income Tax Act empowers the Commissioner of Income Tax (PCIT/CIT) to revise any order passed by the AO if the order is: (a) erroneous and (b) prejudicial to the interests of the Revenue. Both conditions must be simultaneously satisfied.
+
+Key Supreme Court rulings:
+- Malabar Industrial Co. Ltd. vs. CIT (2000): The Supreme Court held that Section 263 revision is valid only if the order is BOTH erroneous AND prejudicial to Revenue. A merely erroneous order (where the error does not result in revenue loss) or an order merely prejudicial to Revenue (but not erroneous) is not revisable under Section 263.
+- Subsequent rulings: The Apex Court clarified that if the AO takes one of two possible views, the revision is not maintainable — the Revenue cannot exercise Section 263 powers simply to substitute its preferred view for the AO's reasonable view.
+
+ITAT rulings: Section 263 revision orders are frequently challenged in ITAT. ITAT has set aside many Section 263 orders where the Commissioner failed to establish that the AO's order was both erroneous AND prejudicial, or where the AO had conducted adequate enquiry.
+
+---
+
+Summary of Key Rulings by Topic
+
+| Topic | Forum | Trend |
+|---|---|---|
+| WFH expenses for self-employed | ITAT (Mumbai, Bangalore) | Generally favorable if apportioned |
+| Pre-2022 crypto losses | ITAT (various) | Mixed; fact-dependent |
+| Section 54 (spouse's name) | ITAT / Bombay HC | Mostly favorable; fact-dependent |
+| HRA DA inclusion | ITAT | Depends on employment contract terms |
+| Section 68 cash deposits | SC / High Courts | Burden on taxpayer; strict scrutiny |
+| Penny stock LTCG | ITAT (Kolkata, Mumbai) | Disallowed where manipulation proven |
+| Section 80P cooperative | Supreme Court | Banks excluded; credit societies distinguished |
+| Assessment time limit | Supreme Court | Strict; barred orders quashed |
+| Section 148A procedure | High Courts | Strictly enforced; non-compliance = quashing |
+| GAAR | Limited application | Rarely invoked; procedural safeguards strict |
+
+---
+
+Disclaimer: The rulings described in this document represent judicial interpretations at specific points in time and are subject to change through subsequent rulings, legislative amendments, or contrary decisions by superior courts. This document is for educational and informational purposes only. Taxpayers must obtain case-specific legal and tax advice from qualified professionals before relying on any judicial precedent.

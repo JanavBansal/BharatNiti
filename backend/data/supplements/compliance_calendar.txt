@@ -1,0 +1,337 @@
+TAX COMPLIANCE CALENDAR — INDIA AY 2025-26 AND AY 2026-27
+
+This document covers all major tax compliance deadlines for individual taxpayers, businesses, and employers under the Income Tax Act and GST laws, along with penalties for non-compliance.
+
+---
+
+## Income Tax Return (ITR) Filing Deadlines
+
+### Section 139(1) — Original Return (Due Date)
+
+The due date for filing ITR depends on the category of taxpayer:
+
+**Non-Audit Cases:**
+- Individuals, HUFs, firms (not requiring audit), BOIs, AOPs
+- Due date: July 31 of the Assessment Year
+- For AY 2025-26: July 31, 2025
+- For AY 2026-27: July 31, 2026
+
+**Audit Cases:**
+- Companies, firms, LLPs, and other assessees required to get accounts audited
+- Due date: October 31 of the Assessment Year
+- For AY 2025-26: October 31, 2025
+- For AY 2026-27: October 31, 2026
+
+**Transfer Pricing Cases:**
+- Assessees required to furnish report under Section 92E (international transactions)
+- Due date: November 30 of the Assessment Year
+- For AY 2025-26: November 30, 2025
+
+**Note on Extensions:** The CBDT has historically extended deadlines — often for technical reasons (portal issues) or government notifications. Always check for current-year circulars. However, plan for the statutory deadline.
+
+---
+
+### Section 139(5) — Revised Return
+
+A taxpayer who has filed an original return and discovers any omission or incorrect statement can file a revised return.
+
+**Deadline:** On or before December 31 of the Assessment Year, or before the completion of assessment, whichever is earlier.
+
+**For AY 2025-26:** December 31, 2025
+**For AY 2026-27:** December 31, 2026
+
+**Important:** A revised return replaces the original return. There is no limit on the number of revisions within the deadline. There is no penalty for filing a revised return — it is encouraged to correct errors.
+
+---
+
+### Section 139(4) — Belated Return
+
+A taxpayer who misses the original due date can still file a "belated return."
+
+**Deadline:** On or before December 31 of the Assessment Year (same as revised return deadline)
+
+**Consequences of Belated Filing:**
+- Late filing fee under Section 234F applies (see penalty section)
+- Cannot carry forward most losses (business losses, speculation losses, capital losses) — however, unabsorbed depreciation and losses from house property can still be carried forward
+- Interest under Section 234A on tax due
+
+---
+
+### Section 139(8A) — Updated Return (ITR-U)
+
+Introduced by the Finance Act 2022, Section 139(8A) allows taxpayers to file an updated return to report additional income not reported in original/revised returns.
+
+**Filing Window:** Within 24 months from the end of the relevant Assessment Year.
+
+**For AY 2024-25:** Updatable until March 31, 2027
+**For AY 2025-26:** Updatable until March 31, 2028
+
+**Additional Tax Payable under Section 140B:**
+- If ITR-U filed within 12 months from end of AY: 25% additional tax on tax and interest due
+- If ITR-U filed between 12 and 24 months from end of AY: 50% additional tax on tax and interest due
+
+**Conditions:**
+- Cannot reduce tax liability (only for declaring additional income)
+- Cannot result in refund
+- Cannot be filed if: search/survey initiated, assessment proceedings pending, or income related to undisclosed asset/foreign income
+- Starting AY 2025-26 (FY 2024-25), Finance Act 2025 has extended the ITR-U window to 48 months with higher additional tax rates for later years (50% for year 3, 60% for year 4)
+
+---
+
+## Advance Tax Deadlines — Section 207 to 219
+
+Advance tax is required to be paid by taxpayers whose estimated tax liability for the year exceeds ₹10,000 after TDS.
+
+**Installment Schedule and Rates:**
+
+| Installment | Due Date | Cumulative Minimum % |
+|------------|----------|---------------------|
+| First      | June 15   | 15%                 |
+| Second     | September 15 | 45%            |
+| Third      | December 15 | 75%             |
+| Fourth     | March 15   | 100%               |
+
+**Applicable to:** All taxpayers including individuals, firms, companies.
+
+**Exemption:** Senior citizens (60 years or above) having no income from business or profession are NOT required to pay advance tax.
+
+**Presumptive Taxation (44AD/44ADA/44AE):** Taxpayers under presumptive schemes can pay the entire advance tax by March 15 in a single installment (no June/September/December installments required).
+
+**Interest for Default:**
+- Section 234B: Interest at 1% per month on unpaid advance tax (if tax paid is less than 90% of assessed tax by March 31)
+- Section 234C: Interest at 1% per month for shortfall in installments at June 15, September 15, December 15, and March 15
+
+---
+
+## TDS Compliance Calendar
+
+### Deduction and Deposit
+
+**General Rule:** TDS deducted must be deposited with the government by the 7th of the following month.
+
+**Exception for March:** TDS deducted in March must be deposited by April 30 (not April 7).
+
+| Month of Deduction | Deposit Deadline |
+|-------------------|-----------------|
+| April             | May 7           |
+| May               | June 7          |
+| June              | July 7          |
+| July              | August 7        |
+| August            | September 7     |
+| September         | October 7       |
+| October           | November 7      |
+| November          | December 7      |
+| December          | January 7       |
+| January           | February 7      |
+| February          | March 7         |
+| March             | April 30        |
+
+**Government Deductors:** Must deposit TDS on the same day as deduction (no 7-day grace period).
+
+### TDS Return Filing Deadlines
+
+Quarterly TDS returns must be filed for each quarter:
+
+| Quarter | Period    | Due Date     |
+|---------|-----------|-------------|
+| Q1      | Apr–Jun   | July 31     |
+| Q2      | Jul–Sep   | October 31  |
+| Q3      | Oct–Dec   | January 31  |
+| Q4      | Jan–Mar   | May 31      |
+
+**Forms:**
+- Form 24Q: TDS from salary payments
+- Form 26Q: TDS on all non-salary payments to residents (contractors, professionals, rent, etc.)
+- Form 27Q: TDS on payments to non-residents
+- Form 27EQ: Tax Collected at Source (TCS) returns
+
+### TDS Certificates
+
+- Form 16 (from employer to employee): Due by June 15 of the AY
+- Form 16A (non-salary TDS): Due by 15th of the month following each quarter end (August 15, November 15, February 15, June 15)
+
+---
+
+## GST Compliance Calendar
+
+### GSTR-1 — Outward Supplies Return
+
+**Monthly filers (turnover > ₹5 crore or opted for monthly filing):**
+- Due date: 11th of the following month
+- Example: October supplies → filed by November 11
+
+**Quarterly filers (QRMP scheme — turnover up to ₹5 crore):**
+- Due date: 13th of the month following the quarter
+- Q1 (Apr-Jun): July 13; Q2 (Jul-Sep): October 13; Q3 (Oct-Dec): January 13; Q4 (Jan-Mar): April 13
+
+### GSTR-3B — Summary Return and Tax Payment
+
+**Monthly filers (turnover > ₹5 crore):**
+- Due date: 20th of the following month
+- Example: October → November 20
+
+**Quarterly filers (QRMP):**
+- Due date: 22nd of month following quarter for Category X states; 24th for Category Y states
+- States in Category X (generally): Chhattisgarh, MP, Gujarat, Maharashtra, Karnataka, Goa, Kerala, TN, Telangana, AP, and others
+- States in Category Y (generally): Himachal Pradesh, Punjab, Uttarakhand, Haryana, Rajasthan, UP, Bihar, Sikkim, AR, Nagaland, Manipur, Mizoram, Tripura, Meghalaya, Assam, West Bengal, Jharkhand, Odisha, J&K, Ladakh
+
+**QRMP Intermediate Payments:**
+- QRMP filers must pay tax for months 1 and 2 of the quarter by the 25th of the next month (called Invoice Furnishing Facility/IFF and PMT-06 payments)
+
+### GSTR-9 — Annual Return
+
+- Applicable to regular taxpayers
+- Due date: December 31 of the following financial year
+- For FY 2024-25: December 31, 2025
+- Taxpayers with turnover up to ₹2 crore: Optional (but filing is advisable)
+- Taxpayers with turnover above ₹2 crore: Mandatory
+- GSTR-9C (Reconciliation Statement) required for taxpayers with turnover above ₹5 crore
+
+### GSTR-8 — TCS Return for E-commerce Operators
+
+- Monthly, due by the 10th of the following month
+
+### GST Payment
+
+- GST must be paid by the 20th of the following month for monthly filers (coincides with GSTR-3B)
+- Interest at 18% per annum on delayed payment from the due date
+
+---
+
+## Tax Audit — Section 44AB
+
+**Who Requires Tax Audit:**
+- Business with turnover exceeding ₹1 crore (or ₹10 crore if cash receipts and payments are each ≤5% of total)
+- Professional with gross receipts exceeding ₹50 lakh
+- Assessees opting out of presumptive taxation and declaring income below prescribed rates
+
+**Report:** Form 3CD with Form 3CA (for those maintaining accounts as required) or Form 3CB
+
+**Due Date:** October 31 of the Assessment Year (same as audit return due date)
+
+---
+
+## Key Penalty Provisions
+
+### Section 234F — Late Filing Fee
+
+A fee (not penalty, but effectively same) applies for late filing of ITR:
+- Total income > ₹5 lakh: Fee of ₹5,000
+- Total income ≤ ₹5 lakh: Fee of ₹1,000
+- Applies only to belated returns filed after the original due date
+
+**Note:** If total income is below the basic exemption limit, no late filing fee is charged even if return is filed late.
+
+### Section 234A — Interest on Default in Filing Return
+
+- Rate: 1% per month (or part of a month) on amount of tax due
+- Period: From the day after the due date to the date of actual filing
+- Calculated on the tax due after deducting TDS, advance tax paid
+
+### Section 234B — Interest on Default in Advance Tax Payment
+
+- Rate: 1% per month on shortfall in advance tax
+- Triggered when total advance tax paid by March 31 is less than 90% of assessed tax
+- Period: April 1 to date of actual payment/assessment
+
+### Section 234C — Interest on Deferment of Advance Tax Installments
+
+- Rate: 1% per month on shortfall at each installment date
+- Period: 3 months for June and September installments; 1 month for December installment; April 1 to actual payment for March installment
+
+### Section 271(1)(c) — Penalty for Concealment of Income
+
+- Applies when taxpayer conceals income or furnishes inaccurate particulars
+- Penalty range: 100% to 300% of tax on concealed income
+- This is the most serious penalty provision under direct tax law
+
+### Section 270A — Penalty for Misreporting/Under-reporting of Income
+
+Introduced from AY 2017-18, Section 270A now covers most income understatement cases:
+
+**Under-reporting of income:**
+- Penalty: 50% of tax on under-reported income
+
+**Misreporting of income** (more serious — includes false entry, suppression, misrepresentation):
+- Penalty: 200% of tax on misreported income
+
+**Key distinction:** Misreporting (200% penalty) is for deliberate falsification, while under-reporting (50% penalty) includes computational errors. If the taxpayer can demonstrate genuine belief or uncertainty, the lower rate may apply.
+
+### Section 272A — Penalty for Failure to File TDS Returns
+
+- Penalty: ₹100 per day for each day of default
+- Also applies to failure to furnish TDS certificates (Form 16/16A)
+
+### Section 234E — Fee for Late Filing of TDS/TCS Returns
+
+- ₹200 per day per statement until the return is filed
+- But total fee cannot exceed the TDS/TCS amount for the period
+
+### Section 271C — Penalty for Failure to Deduct TDS
+
+- Penalty equal to the amount of TDS not deducted
+- In addition, the payer is treated as "assessee in default" and liable for the TDS amount plus interest under Section 201(1A)
+
+### GST Penalties
+
+- Late filing of GSTR: ₹50 per day (₹25 CGST + ₹25 SGST), subject to maximum ₹5,000
+- Nil return late filing: ₹20 per day (₹10 CGST + ₹10 SGST), maximum ₹500
+- Penalty for evasion: 100% of tax due, minimum ₹10,000
+- Interest on delayed GST payment: 18% per annum from due date
+
+---
+
+## Month-by-Month Compliance Summary
+
+**April:**
+- Advance tax first installment — not applicable (no deadline in April, first is June 15)
+- Deposit March TDS by April 30
+
+**May:**
+- Deposit April TDS by May 7
+- File Q4 TDS returns (24Q/26Q/27Q/27EQ) by May 31
+- Advance: Set estimated income, compute advance tax for the year
+
+**June:**
+- First advance tax installment: June 15 (pay at least 15% of annual liability)
+- GST annual return GSTR-9 for previous year: Ideally begin preparation
+
+**July:**
+- Deposit June TDS by July 7
+- File Q1 TDS returns by July 31
+- File ITR for non-audit cases by July 31
+- File GSTR-1 for June (monthly filers) by July 11
+
+**August:**
+- Issue Form 16A (Q1 TDS certificates) by August 15
+
+**September:**
+- Second advance tax installment: September 15 (cumulative 45%)
+- GST: GSTR-1 for August by September 11
+
+**October:**
+- Deposit September TDS by October 7
+- File Q2 TDS returns by October 31
+- File ITR for audit cases by October 31
+- Complete tax audit (Form 3CD) by October 31
+
+**November:**
+- Issue Form 16A for Q2 by November 15
+- File ITR for TP cases by November 30
+
+**December:**
+- Third advance tax installment: December 15 (cumulative 75%)
+- File revised/belated ITR by December 31
+- File GST annual return GSTR-9 for previous FY by December 31
+
+**January:**
+- Deposit December TDS by January 7
+- File Q3 TDS returns by January 31
+
+**February:**
+- Issue Form 16A for Q3 by February 15
+
+**March:**
+- Final advance tax installment: March 15 (pay 100%)
+- Year-end planning: Ensure all investments, payments, and deductible expenses are completed before March 31
+- Employees: Submit investment declarations to employer for accurate TDS computation

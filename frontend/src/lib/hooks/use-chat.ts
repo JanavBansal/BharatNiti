@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useCallback } from "react";
-import type { ChatMessage, Citation } from "@/lib/types";
+import type { ChatMessage, Citation, UserProfile } from "@/lib/types";
 import { askQuestion } from "@/lib/api/client";
 
 function generateId(): string {
@@ -15,6 +15,7 @@ function generateId(): string {
 export function useChat() {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [profile, setProfile] = useState<UserProfile>({});
 
   const sendMessage = useCallback(async (question: string) => {
     const userMessage: ChatMessage = {
@@ -37,7 +38,6 @@ export function useChat() {
       await askQuestion(
         question,
         undefined,
-        // onToken
         (token) => {
           setMessages((prev) => {
             const updated = [...prev];
@@ -51,7 +51,6 @@ export function useChat() {
             return updated;
           });
         },
-        // onMetadata
         (metadata) => {
           setMessages((prev) => {
             const updated = [...prev];
@@ -67,7 +66,8 @@ export function useChat() {
             }
             return updated;
           });
-        }
+        },
+        profile,
       );
     } catch (error) {
       setMessages((prev) => {
@@ -87,7 +87,7 @@ export function useChat() {
     } finally {
       setIsLoading(false);
     }
-  }, []);
+  }, [profile]);
 
-  return { messages, isLoading, sendMessage };
+  return { messages, isLoading, sendMessage, profile, setProfile };
 }
