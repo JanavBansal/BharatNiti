@@ -4,19 +4,26 @@ import { useState, useCallback } from "react";
 import type { ChatMessage, Citation } from "@/lib/types";
 import { askQuestion } from "@/lib/api/client";
 
+function generateId(): string {
+  if (typeof crypto !== "undefined" && crypto.randomUUID) {
+    return generateId();
+  }
+  return Math.random().toString(36).slice(2) + Date.now().toString(36);
+}
+
 export function useChat() {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [isLoading, setIsLoading] = useState(false);
 
   const sendMessage = useCallback(async (question: string) => {
     const userMessage: ChatMessage = {
-      id: crypto.randomUUID(),
+      id: generateId(),
       role: "user",
       content: question,
     };
 
     const assistantMessage: ChatMessage = {
-      id: crypto.randomUUID(),
+      id: generateId(),
       role: "assistant",
       content: "",
       isStreaming: true,
